@@ -11,6 +11,8 @@ authors:
   - family-names: Fu
     given-names: Jianfei
     orcid: "https://orcid.org/0000-0002-3036-1056"
+repository-code: "https://github.com/RTXDF/gbd-2023-early-onset-cancer"
+url: "https://github.com/RTXDF/gbd-2023-early-onset-cancer"
 version: 1.0.0
 date-released: 2026-11-09
 license: MIT

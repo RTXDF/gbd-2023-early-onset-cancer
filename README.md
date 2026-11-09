@@ -50,7 +50,7 @@ figures.py / figures_revision.py → summarize.py
 
 ## Citation
 
-Cite the article (DOI to be assigned) and this repository. A machine-readable citation is provided in `CITATION.cff`; the repository DOI will be inserted here and in the manuscript once minted.
+Cite the article and this repository. The repository is at <https://github.com/RTXDF/gbd-2023-early-onset-cancer>; each release is archived on Zenodo with a DOI, shown in the release badge and cited in the article's code-availability statement. A machine-readable citation is provided in `CITATION.cff`.
 
 ## Contact
 
