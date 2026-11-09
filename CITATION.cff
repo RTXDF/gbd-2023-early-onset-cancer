@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this code or the derived tables, please cite the article and this repository."
+title: "Analysis code and derived results for: Global, regional, and national burden of early-onset cancer and its metabolic-risk-attributable fraction, 1990–2023"
+type: software
+authors:
+  - family-names: Xu
+    given-names: Haohao
+    orcid: "https://orcid.org/0009-0005-5476-1045"
+  - family-names: Zhou
+    given-names: Shishi
+  - family-names: Fu
+    given-names: Jianfei
+    orcid: "https://orcid.org/0000-0002-3036-1056"
+version: 1.0.0
+date-released: 2026-11-09
+license: MIT
+keywords:
+  - Global Burden of Disease
+  - early-onset cancer
+  - metabolic risk
+  - age standardisation
+  - health inequality
+abstract: >-
+  Analysis code, GBD Results Tool query definitions, and derived result tables
+  for a systematic analysis of early-onset cancer (ages 15–49) and its
+  metabolic-risk-attributable fraction using GBD 2023 (release 8352), with an
+  external benchmark against GLOBOCAN 2024. Raw GBD and GLOBOCAN extracts are
+  not redistributed; derived tables are released under CC BY 4.0.

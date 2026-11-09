@@ -1,0 +1,251 @@
+{
+  "source": "GLOBOCAN 2024 (IARC GCO, Cancer Today v3 API)",
+  "case_definition": "All cancers excluding non-melanoma skin cancer, ages 15-49",
+  "n_countries_globocan": 186,
+  "global": [
+    {
+      "sex": "Both sexes",
+      "measure": "Incidence",
+      "globocan_count": 3255118.0,
+      "globocan_pop": 4040791565.0,
+      "globocan_crude": 80.56,
+      "globocan_asr": 77.69,
+      "gbd_count": 3237515.993,
+      "gbd_pop": 4003531349.99,
+      "gbd_crude": 80.867,
+      "count_ratio": 1.005,
+      "rate_ratio": 0.996
+    },
+    {
+      "sex": "Both sexes",
+      "measure": "Deaths",
+      "globocan_count": 984924.0,
+      "globocan_pop": 4040791565.0,
+      "globocan_crude": 24.37,
+      "globocan_asr": 23.71,
+      "gbd_count": 1195700.341,
+      "gbd_pop": 4003531349.99,
+      "gbd_crude": 29.866,
+      "count_ratio": 0.824,
+      "rate_ratio": 0.816
+    },
+    {
+      "sex": "Male",
+      "measure": "Incidence",
+      "globocan_count": 1154734.0,
+      "globocan_pop": 2065730824.0,
+      "globocan_crude": 55.9,
+      "globocan_asr": 54.71,
+      "gbd_count": 1106909.961,
+      "gbd_pop": 2030850146.192,
+      "gbd_crude": 54.505,
+      "count_ratio": 1.043,
+      "rate_ratio": 1.026
+    },
+    {
+      "sex": "Male",
+      "measure": "Deaths",
+      "globocan_count": 443570.0,
+      "globocan_pop": 2065730824.0,
+      "globocan_crude": 21.47,
+      "globocan_asr": 21.2,
+      "gbd_count": 511943.715,
+      "gbd_pop": 2030850146.192,
+      "gbd_crude": 25.208,
+      "count_ratio": 0.866,
+      "rate_ratio": 0.852
+    },
+    {
+      "sex": "Female",
+      "measure": "Incidence",
+      "globocan_count": 2100384.0,
+      "globocan_pop": 1975060744.0,
+      "globocan_crude": 106.35,
+      "globocan_asr": 101.4,
+      "gbd_count": 2130606.032,
+      "gbd_pop": 1972681203.798,
+      "gbd_crude": 108.006,
+      "count_ratio": 0.986,
+      "rate_ratio": 0.985
+    },
+    {
+      "sex": "Female",
+      "measure": "Deaths",
+      "globocan_count": 541354.0,
+      "globocan_pop": 1975060744.0,
+      "globocan_crude": 27.41,
+      "globocan_asr": 26.3,
+      "gbd_count": 683756.626,
+      "gbd_pop": 1972681203.798,
+      "gbd_crude": 34.661,
+      "count_ratio": 0.792,
+      "rate_ratio": 0.791
+    }
+  ],
+  "country": {
+    "Incidence": {
+      "n_countries": 168,
+      "spearman_rho": 0.498,
+      "spearman_rho_50_largest": 0.483,
+      "median_ratio": 0.933,
+      "iqr_ratio": [
+        0.667,
+        1.158
+      ],
+      "gbd_higher_share_pct": 57.1,
+      "top20_overlap": 3,
+      "share_within_25pct": 51.8
+    },
+    "Deaths": {
+      "n_countries": 168,
+      "spearman_rho": 0.501,
+      "spearman_rho_50_largest": 0.401,
+      "median_ratio": 0.826,
+      "iqr_ratio": [
+        0.652,
+        0.97
+      ],
+      "gbd_higher_share_pct": 78.0,
+      "top20_overlap": 5,
+      "share_within_25pct": 54.8
+    }
+  },
+  "region": {
+    "Incidence": {
+      "n_regions": 21,
+      "spearman_rho": 0.614,
+      "median_ratio": 0.993,
+      "iqr_ratio": [
+        0.838,
+        1.148
+      ]
+    },
+    "Deaths": {
+      "n_regions": 21,
+      "spearman_rho": 0.69,
+      "median_ratio": 0.846,
+      "iqr_ratio": [
+        0.758,
+        0.915
+      ]
+    }
+  },
+  "sites": {
+    "Incidence": {
+      "n_sites": 27,
+      "spearman_counts": 0.956,
+      "spearman_shares": 0.956,
+      "median_ratio": 0.841,
+      "share_within_25pct": 70.4,
+      "largest_ratio": [
+        {
+          "site": "Thyroid cancer",
+          "ratio": 3.57
+        },
+        {
+          "site": "Lip and oral cavity cancer",
+          "ratio": 1.29
+        },
+        {
+          "site": "Tracheal, bronchus, and lung cancer",
+          "ratio": 1.19
+        }
+      ],
+      "smallest_ratio": [
+        {
+          "site": "Cervical cancer",
+          "ratio": 0.46
+        },
+        {
+          "site": "Mesothelioma",
+          "ratio": 0.58
+        },
+        {
+          "site": "Stomach cancer",
+          "ratio": 0.63
+        }
+      ],
+      "top10_overlap": 8,
+      "top5_gbd": [
+        "Breast cancer",
+        "Cervical cancer",
+        "Colon and rectum cancer",
+        "Thyroid cancer",
+        "Stomach cancer"
+      ],
+      "top5_globocan": [
+        "Breast cancer",
+        "Thyroid cancer",
+        "Cervical cancer",
+        "Colon and rectum cancer",
+        "Tracheal, bronchus, and lung cancer"
+      ]
+    },
+    "Deaths": {
+      "n_sites": 27,
+      "spearman_counts": 0.951,
+      "spearman_shares": 0.951,
+      "median_ratio": 0.744,
+      "share_within_25pct": 48.1,
+      "largest_ratio": [
+        {
+          "site": "Lip and oral cavity cancer",
+          "ratio": 1.12
+        },
+        {
+          "site": "Liver cancer",
+          "ratio": 1.11
+        },
+        {
+          "site": "Brain and central nervous system cancer",
+          "ratio": 0.99
+        }
+      ],
+      "smallest_ratio": [
+        {
+          "site": "Hodgkin lymphoma",
+          "ratio": 0.45
+        },
+        {
+          "site": "Mesothelioma",
+          "ratio": 0.45
+        },
+        {
+          "site": "Stomach cancer",
+          "ratio": 0.52
+        }
+      ]
+    }
+  },
+  "incidence_difference_by_site": {
+    "net_difference": -89603.7,
+    "sum_absolute_difference": 977044.9,
+    "top_contributors": [
+      {
+        "site": "Thyroid cancer",
+        "difference": 356136.11,
+        "ratio": 3.57
+      },
+      {
+        "site": "Cervical cancer",
+        "difference": -262588.42,
+        "ratio": 0.46
+      },
+      {
+        "site": "Stomach cancer",
+        "difference": -50603.88,
+        "ratio": 0.63
+      },
+      {
+        "site": "Leukemia",
+        "difference": -31069.73,
+        "ratio": 0.77
+      },
+      {
+        "site": "Testicular cancer",
+        "difference": -28062.2,
+        "ratio": 0.67
+      }
+    ]
+  }
+}

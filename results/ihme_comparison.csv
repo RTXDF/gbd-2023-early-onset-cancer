@@ -1,0 +1,325 @@
+year,measure,metric,age,val,lower,upper,source_age_group,comparability_note,val_per_100000,lower_per_100000,upper_per_100000
+2024,DALYs,Number,<20 years,11569455.8830163,10477141.3130342,12988657.6068339,<20 years,IHME <20-year count; not 15-49-specific.,,,
+2025,DALYs,Number,<20 years,11509348.3164796,10399017.237794,12906824.5061895,<20 years,IHME <20-year count; not 15-49-specific.,,,
+2026,DALYs,Number,<20 years,11435426.3233186,10301238.2026167,12827576.6583231,<20 years,IHME <20-year count; not 15-49-specific.,,,
+2027,DALYs,Number,<20 years,11355411.3952442,10217804.3671216,12720892.3353983,<20 years,IHME <20-year count; not 15-49-specific.,,,
+2028,DALYs,Number,<20 years,11272057.2205274,10131421.1910851,12627420.0142953,<20 years,IHME <20-year count; not 15-49-specific.,,,
+2029,DALYs,Number,<20 years,11184290.4727303,10032687.4216834,12548030.0721935,<20 years,IHME <20-year count; not 15-49-specific.,,,
+2030,DALYs,Number,<20 years,11097447.5593823,9943157.56995085,12453288.8807734,<20 years,IHME <20-year count; not 15-49-specific.,,,
+2031,DALYs,Number,<20 years,11008582.0641145,9836767.01706551,12357673.9073063,<20 years,IHME <20-year count; not 15-49-specific.,,,
+2032,DALYs,Number,<20 years,10915048.2994129,9729231.34414302,12287380.5482038,<20 years,IHME <20-year count; not 15-49-specific.,,,
+2033,DALYs,Number,<20 years,10811659.8612665,9621605.75113873,12207514.6751376,<20 years,IHME <20-year count; not 15-49-specific.,,,
+2034,DALYs,Number,<20 years,10705117.1648436,9485215.60631353,12160371.3759109,<20 years,IHME <20-year count; not 15-49-specific.,,,
+2035,DALYs,Number,<20 years,10601317.847315,9380329.82899087,12112432.6046795,<20 years,IHME <20-year count; not 15-49-specific.,,,
+2036,DALYs,Number,<20 years,10501196.6299026,9257544.50185409,12087233.3573862,<20 years,IHME <20-year count; not 15-49-specific.,,,
+2037,DALYs,Number,<20 years,10402664.4592258,9145828.42799311,12027727.9358729,<20 years,IHME <20-year count; not 15-49-specific.,,,
+2038,DALYs,Number,<20 years,10305390.6075303,9046668.79952151,11972084.3205019,<20 years,IHME <20-year count; not 15-49-specific.,,,
+2039,DALYs,Number,<20 years,10213120.237225,8947395.19861778,11955559.7226697,<20 years,IHME <20-year count; not 15-49-specific.,,,
+2040,DALYs,Number,<20 years,10132467.1828533,8831781.52150092,11924371.3985959,<20 years,IHME <20-year count; not 15-49-specific.,,,
+2041,DALYs,Number,<20 years,10066825.8772934,8735591.77375952,11890808.6361848,<20 years,IHME <20-year count; not 15-49-specific.,,,
+2042,DALYs,Number,<20 years,10002289.0827878,8655009.84115831,11841029.046942,<20 years,IHME <20-year count; not 15-49-specific.,,,
+2043,DALYs,Number,<20 years,9932791.14845385,8564464.09375083,11796567.8358646,<20 years,IHME <20-year count; not 15-49-specific.,,,
+2044,DALYs,Number,<20 years,9867022.99254843,8481651.70830885,11791938.9180325,<20 years,IHME <20-year count; not 15-49-specific.,,,
+2045,DALYs,Number,<20 years,9796906.19726327,8397933.90114766,11736155.6228197,<20 years,IHME <20-year count; not 15-49-specific.,,,
+2046,DALYs,Number,<20 years,9725539.70127183,8314737.08091543,11705064.0932046,<20 years,IHME <20-year count; not 15-49-specific.,,,
+2047,DALYs,Number,<20 years,9648017.15381294,8228093.65401099,11678899.440245,<20 years,IHME <20-year count; not 15-49-specific.,,,
+2048,DALYs,Number,<20 years,9570648.99131003,8134707.59652561,11639023.199652,<20 years,IHME <20-year count; not 15-49-specific.,,,
+2049,DALYs,Number,<20 years,9488268.69043261,8040560.23187248,11609290.2151219,<20 years,IHME <20-year count; not 15-49-specific.,,,
+2050,DALYs,Number,<20 years,9407075.31829291,7948300.62452062,11585538.5037345,<20 years,IHME <20-year count; not 15-49-specific.,,,
+2024,DALYs,Number,All ages,276166137.580713,259638112.970673,289807163.350675,All ages,IHME all-age total-cancer count; not 15-49-specific.,,,
+2025,DALYs,Number,All ages,281140245.386162,264411972.787521,294952667.69628,All ages,IHME all-age total-cancer count; not 15-49-specific.,,,
+2026,DALYs,Number,All ages,285940610.2095,268698386.127681,299929125.209365,All ages,IHME all-age total-cancer count; not 15-49-specific.,,,
+2027,DALYs,Number,All ages,290789869.678796,272944031.165305,305111713.201001,All ages,IHME all-age total-cancer count; not 15-49-specific.,,,
+2028,DALYs,Number,All ages,295827998.229995,276582513.586756,310847227.194442,All ages,IHME all-age total-cancer count; not 15-49-specific.,,,
+2029,DALYs,Number,All ages,300942257.996213,280652252.633424,316477914.291793,All ages,IHME all-age total-cancer count; not 15-49-specific.,,,
+2030,DALYs,Number,All ages,306178991.476227,284949520.043565,322333784.230634,All ages,IHME all-age total-cancer count; not 15-49-specific.,,,
+2031,DALYs,Number,All ages,311223448.039856,288939110.90319,328392215.571828,All ages,IHME all-age total-cancer count; not 15-49-specific.,,,
+2032,DALYs,Number,All ages,316298116.176257,293211312.38,334546831.113982,All ages,IHME all-age total-cancer count; not 15-49-specific.,,,
+2033,DALYs,Number,All ages,321518409.392119,297669957.957353,340717266.876972,All ages,IHME all-age total-cancer count; not 15-49-specific.,,,
+2034,DALYs,Number,All ages,326815184.913129,302097722.863624,347108682.834138,All ages,IHME all-age total-cancer count; not 15-49-specific.,,,
+2035,DALYs,Number,All ages,332180379.195899,306374559.91762,353390924.827038,All ages,IHME all-age total-cancer count; not 15-49-specific.,,,
+2036,DALYs,Number,All ages,337269489.875103,310248841.563782,359749037.059388,All ages,IHME all-age total-cancer count; not 15-49-specific.,,,
+2037,DALYs,Number,All ages,342354931.302828,313722780.821391,366116473.166407,All ages,IHME all-age total-cancer count; not 15-49-specific.,,,
+2038,DALYs,Number,All ages,347529972.203583,317544378.153291,372748987.235528,All ages,IHME all-age total-cancer count; not 15-49-specific.,,,
+2039,DALYs,Number,All ages,352702922.71238,321527252.324182,379348549.267802,All ages,IHME all-age total-cancer count; not 15-49-specific.,,,
+2040,DALYs,Number,All ages,357864917.252293,325230717.682902,385995993.916237,All ages,IHME all-age total-cancer count; not 15-49-specific.,,,
+2041,DALYs,Number,All ages,362723622.95594,328480310.804319,392398805.375054,All ages,IHME all-age total-cancer count; not 15-49-specific.,,,
+2042,DALYs,Number,All ages,367458339.877275,331536426.237946,399368744.853395,All ages,IHME all-age total-cancer count; not 15-49-specific.,,,
+2043,DALYs,Number,All ages,372245839.849341,334978736.691548,406390010.001306,All ages,IHME all-age total-cancer count; not 15-49-specific.,,,
+2044,DALYs,Number,All ages,377003140.08778,338350498.04871,413538632.235488,All ages,IHME all-age total-cancer count; not 15-49-specific.,,,
+2045,DALYs,Number,All ages,381770961.624483,341779084.670757,420948505.633785,All ages,IHME all-age total-cancer count; not 15-49-specific.,,,
+2046,DALYs,Number,All ages,386261576.973498,344764492.670047,427960442.50471,All ages,IHME all-age total-cancer count; not 15-49-specific.,,,
+2047,DALYs,Number,All ages,390721619.412981,347501505.813062,434859265.323832,All ages,IHME all-age total-cancer count; not 15-49-specific.,,,
+2048,DALYs,Number,All ages,395181056.494826,350299915.610229,441798650.919837,All ages,IHME all-age total-cancer count; not 15-49-specific.,,,
+2049,DALYs,Number,All ages,399580093.276362,352893302.187878,448809307.568287,All ages,IHME all-age total-cancer count; not 15-49-specific.,,,
+2050,DALYs,Number,All ages,403978283.292208,355658861.1727,455421700.692264,All ages,IHME all-age total-cancer count; not 15-49-specific.,,,
+2024,DALYs,Rate,<20 years,0.00439184321887524,0.00398923999137024,0.00492073800962324,<20 years Age-standardized,IHME <20-year age-standardized rate; not a 15-49 crude rate.,439.18432188752405,398.923999137024,492.07380096232396
+2025,DALYs,Rate,<20 years,0.00437446998043629,0.00397378396152422,0.00488692654027603,<20 years Age-standardized,IHME <20-year age-standardized rate; not a 15-49 crude rate.,437.446998043629,397.37839615242206,488.69265402760306
+2026,DALYs,Rate,<20 years,0.00435467144828611,0.00395090145462552,0.00485557990814564,<20 years Age-standardized,IHME <20-year age-standardized rate; not a 15-49 crude rate.,435.46714482861097,395.090145462552,485.557990814564
+2027,DALYs,Rate,<20 years,0.00433630922867747,0.003929465427531,0.00483622910920108,<20 years Age-standardized,IHME <20-year age-standardized rate; not a 15-49 crude rate.,433.630922867747,392.9465427531,483.622910920108
+2028,DALYs,Rate,<20 years,0.00432040722880463,0.00391385503631023,0.00481591144349829,<20 years Age-standardized,IHME <20-year age-standardized rate; not a 15-49 crude rate.,432.04072288046297,391.38550363102297,481.591144349829
+2029,DALYs,Rate,<20 years,0.00430534007043289,0.00389503468254461,0.00479558274389428,<20 years Age-standardized,IHME <20-year age-standardized rate; not a 15-49 crude rate.,430.53400704328897,389.50346825446104,479.558274389428
+2030,DALYs,Rate,<20 years,0.0042919462189525,0.00387713690069057,0.00478552602614561,<20 years Age-standardized,IHME <20-year age-standardized rate; not a 15-49 crude rate.,429.19462189525,387.713690069057,478.552602614561
+2031,DALYs,Rate,<20 years,0.00427796508759239,0.00385318258687551,0.00477489640653354,<20 years Age-standardized,IHME <20-year age-standardized rate; not a 15-49 crude rate.,427.796508759239,385.318258687551,477.489640653354
+2032,DALYs,Rate,<20 years,0.00426392347769937,0.00383057723770699,0.00478292225812954,<20 years Age-standardized,IHME <20-year age-standardized rate; not a 15-49 crude rate.,426.392347769937,383.057723770699,478.292225812954
+2033,DALYs,Rate,<20 years,0.00424874152551548,0.00380938910475739,0.00477899575398822,<20 years Age-standardized,IHME <20-year age-standardized rate; not a 15-49 crude rate.,424.87415255154804,380.938910475739,477.89957539882204
+2034,DALYs,Rate,<20 years,0.00423301556185823,0.00378455616018874,0.00476818948338989,<20 years Age-standardized,IHME <20-year age-standardized rate; not a 15-49 crude rate.,423.30155618582296,378.455616018874,476.81894833898895
+2035,DALYs,Rate,<20 years,0.00421712434759497,0.00376506214844454,0.00476090586842515,<20 years Age-standardized,IHME <20-year age-standardized rate; not a 15-49 crude rate.,421.712434759497,376.506214844454,476.090586842515
+2036,DALYs,Rate,<20 years,0.0041995987237475,0.0037425320441845,0.00475840872678872,<20 years Age-standardized,IHME <20-year age-standardized rate; not a 15-49 crude rate.,419.95987237475,374.25320441845,475.840872678872
+2037,DALYs,Rate,<20 years,0.00418058305039059,0.0037149235865079,0.00476142980367419,<20 years Age-standardized,IHME <20-year age-standardized rate; not a 15-49 crude rate.,418.058305039059,371.49235865079004,476.142980367419
+2038,DALYs,Rate,<20 years,0.00416124177972239,0.0036933587810377,0.00475666865778538,<20 years Age-standardized,IHME <20-year age-standardized rate; not a 15-49 crude rate.,416.124177972239,369.33587810377,475.666865778538
+2039,DALYs,Rate,<20 years,0.00414153670848104,0.00367237341399783,0.0047451841164877,<20 years Age-standardized,IHME <20-year age-standardized rate; not a 15-49 crude rate.,414.15367084810396,367.237341399783,474.51841164877
+2040,DALYs,Rate,<20 years,0.0041227116572195,0.00365391363878901,0.004736964580684,<20 years Age-standardized,IHME <20-year age-standardized rate; not a 15-49 crude rate.,412.27116572195007,365.391363878901,473.6964580684
+2041,DALYs,Rate,<20 years,0.00410410723256353,0.00362985602355149,0.00472594442626094,<20 years Age-standardized,IHME <20-year age-standardized rate; not a 15-49 crude rate.,410.41072325635304,362.985602355149,472.594442626094
+2042,DALYs,Rate,<20 years,0.00408648061950226,0.00360657733475522,0.00471912297839163,<20 years Age-standardized,IHME <20-year age-standardized rate; not a 15-49 crude rate.,408.648061950226,360.65773347552204,471.912297839163
+2043,DALYs,Rate,<20 years,0.00406781269190278,0.003583206734703,0.00472579367204047,<20 years Age-standardized,IHME <20-year age-standardized rate; not a 15-49 crude rate.,406.781269190278,358.3206734703,472.579367204047
+2044,DALYs,Rate,<20 years,0.00405183927645568,0.003562805041453,0.0047236517095742,<20 years Age-standardized,IHME <20-year age-standardized rate; not a 15-49 crude rate.,405.183927645568,356.2805041453,472.36517095742005
+2045,DALYs,Rate,<20 years,0.00403535433101353,0.00354693513151996,0.00472559140455011,<20 years Age-standardized,IHME <20-year age-standardized rate; not a 15-49 crude rate.,403.53543310135296,354.693513151996,472.559140455011
+2046,DALYs,Rate,<20 years,0.00401971026950312,0.00352544977993237,0.00472565618140273,<20 years Age-standardized,IHME <20-year age-standardized rate; not a 15-49 crude rate.,401.97102695031197,352.544977993237,472.56561814027293
+2047,DALYs,Rate,<20 years,0.00400308405843332,0.00350795342491215,0.00473050291172851,<20 years Age-standardized,IHME <20-year age-standardized rate; not a 15-49 crude rate.,400.308405843332,350.795342491215,473.05029117285096
+2048,DALYs,Rate,<20 years,0.00398824561989947,0.00348979590695958,0.0047293043846412,<20 years Age-standardized,IHME <20-year age-standardized rate; not a 15-49 crude rate.,398.824561989947,348.979590695958,472.93043846412
+2049,DALYs,Rate,<20 years,0.0039730371178271,0.00347284317874142,0.00473510079303321,<20 years Age-standardized,IHME <20-year age-standardized rate; not a 15-49 crude rate.,397.30371178271,347.284317874142,473.510079303321
+2050,DALYs,Rate,<20 years,0.00396006397358745,0.00345763985502696,0.00475238640912287,<20 years Age-standardized,IHME <20-year age-standardized rate; not a 15-49 crude rate.,396.006397358745,345.763985502696,475.238640912287
+2024,DALYs,Rate,All ages,0.0300852602394669,0.0282577759180376,0.0315937986540015,Age-standardized,"IHME age-standardized rate over all ages; not a 15-49 crude rate, do not compare with the 15-49 projections.",3008.52602394669,2825.77759180376,3159.37986540015
+2025,DALYs,Rate,All ages,0.0299553985651026,0.0281427349617485,0.031471341824333,Age-standardized,"IHME age-standardized rate over all ages; not a 15-49 crude rate, do not compare with the 15-49 projections.",2995.53985651026,2814.27349617485,3147.1341824333
+2026,DALYs,Rate,All ages,0.0298172315282994,0.0279599115887265,0.0313099986834531,Age-standardized,"IHME age-standardized rate over all ages; not a 15-49 crude rate, do not compare with the 15-49 projections.",2981.72315282994,2795.99115887265,3130.99986834531
+2027,DALYs,Rate,All ages,0.0296840647532192,0.0277977553435591,0.0311836393690931,Age-standardized,"IHME age-standardized rate over all ages; not a 15-49 crude rate, do not compare with the 15-49 projections.",2968.40647532192,2779.77553435591,3118.36393690931
+2028,DALYs,Rate,All ages,0.0295579024224689,0.0276306366232014,0.0311218099640789,Age-standardized,"IHME age-standardized rate over all ages; not a 15-49 crude rate, do not compare with the 15-49 projections.",2955.79024224689,2763.06366232014,3112.1809964078902
+2029,DALYs,Rate,All ages,0.029434864425272,0.0274942500149958,0.0310292760122012,Age-standardized,"IHME age-standardized rate over all ages; not a 15-49 crude rate, do not compare with the 15-49 projections.",2943.4864425272,2749.42500149958,3102.92760122012
+2030,DALYs,Rate,All ages,0.0293262108884917,0.0273686377778331,0.0309688070336924,Age-standardized,"IHME age-standardized rate over all ages; not a 15-49 crude rate, do not compare with the 15-49 projections.",2932.62108884917,2736.86377778331,3096.88070336924
+2031,DALYs,Rate,All ages,0.0292106675471777,0.027237531597083,0.0308522170183175,Age-standardized,"IHME age-standardized rate over all ages; not a 15-49 crude rate, do not compare with the 15-49 projections.",2921.06675471777,2723.7531597083,3085.22170183175
+2032,DALYs,Rate,All ages,0.0291021698079196,0.0271187487112593,0.0307345985349433,Age-standardized,"IHME age-standardized rate over all ages; not a 15-49 crude rate, do not compare with the 15-49 projections.",2910.21698079196,2711.87487112593,3073.4598534943298
+2033,DALYs,Rate,All ages,0.0290007152247078,0.0269876430566735,0.0306741361468166,Age-standardized,"IHME age-standardized rate over all ages; not a 15-49 crude rate, do not compare with the 15-49 projections.",2900.07152247078,2698.76430566735,3067.41361468166
+2034,DALYs,Rate,All ages,0.0289065328756003,0.0268598256617422,0.0306180175415642,Age-standardized,"IHME age-standardized rate over all ages; not a 15-49 crude rate, do not compare with the 15-49 projections.",2890.65328756003,2685.9825661742198,3061.80175415642
+2035,DALYs,Rate,All ages,0.0288250635293921,0.0267557404959759,0.030580591282185,Age-standardized,"IHME age-standardized rate over all ages; not a 15-49 crude rate, do not compare with the 15-49 projections.",2882.50635293921,2675.57404959759,3058.0591282184996
+2036,DALYs,Rate,All ages,0.0287338519913716,0.0266200019045507,0.0305745037304183,Age-standardized,"IHME age-standardized rate over all ages; not a 15-49 crude rate, do not compare with the 15-49 projections.",2873.3851991371603,2662.00019045507,3057.45037304183
+2037,DALYs,Rate,All ages,0.028647732011086,0.0264836656282856,0.0305521268428991,Age-standardized,"IHME age-standardized rate over all ages; not a 15-49 crude rate, do not compare with the 15-49 projections.",2864.7732011086,2648.36656282856,3055.21268428991
+2038,DALYs,Rate,All ages,0.0285660040649948,0.0263832824454652,0.0305420025024124,Age-standardized,"IHME age-standardized rate over all ages; not a 15-49 crude rate, do not compare with the 15-49 projections.",2856.60040649948,2638.32824454652,3054.2002502412397
+2039,DALYs,Rate,All ages,0.0284872212720814,0.0262994646829929,0.0305340625089388,Age-standardized,"IHME age-standardized rate over all ages; not a 15-49 crude rate, do not compare with the 15-49 projections.",2848.72212720814,2629.94646829929,3053.40625089388
+2040,DALYs,Rate,All ages,0.028416876726592,0.0261942714409215,0.0305550209055792,Age-standardized,"IHME age-standardized rate over all ages; not a 15-49 crude rate, do not compare with the 15-49 projections.",2841.6876726592,2619.42714409215,3055.50209055792
+2041,DALYs,Rate,All ages,0.0283388201356676,0.0260775566444655,0.0305395231257313,Age-standardized,"IHME age-standardized rate over all ages; not a 15-49 crude rate, do not compare with the 15-49 projections.",2833.8820135667597,2607.75566444655,3053.95231257313
+2042,DALYs,Rate,All ages,0.0282600314002788,0.0259443288909638,0.0305153828457293,Age-standardized,"IHME age-standardized rate over all ages; not a 15-49 crude rate, do not compare with the 15-49 projections.",2826.00314002788,2594.4328890963798,3051.53828457293
+2043,DALYs,Rate,All ages,0.0281853189068073,0.0258179427255756,0.0305422034861806,Age-standardized,"IHME age-standardized rate over all ages; not a 15-49 crude rate, do not compare with the 15-49 projections.",2818.53189068073,2581.79427255756,3054.22034861806
+2044,DALYs,Rate,All ages,0.0281134572396148,0.0256922735073787,0.0305407418997416,Age-standardized,"IHME age-standardized rate over all ages; not a 15-49 crude rate, do not compare with the 15-49 projections.",2811.34572396148,2569.22735073787,3054.07418997416
+2045,DALYs,Rate,All ages,0.0280513320138972,0.0255936699286932,0.0305614766738533,Age-standardized,"IHME age-standardized rate over all ages; not a 15-49 crude rate, do not compare with the 15-49 projections.",2805.13320138972,2559.3669928693203,3056.14766738533
+2046,DALYs,Rate,All ages,0.0279829229816716,0.0254808275144583,0.0305944824629633,Age-standardized,"IHME age-standardized rate over all ages; not a 15-49 crude rate, do not compare with the 15-49 projections.",2798.29229816716,2548.08275144583,3059.4482462963297
+2047,DALYs,Rate,All ages,0.0279200264745831,0.0253730542498602,0.0306244371456471,Age-standardized,"IHME age-standardized rate over all ages; not a 15-49 crude rate, do not compare with the 15-49 projections.",2792.00264745831,2537.30542498602,3062.44371456471
+2048,DALYs,Rate,All ages,0.0278589824649862,0.0252652364348403,0.0306625335927901,Age-standardized,"IHME age-standardized rate over all ages; not a 15-49 crude rate, do not compare with the 15-49 projections.",2785.8982464986198,2526.52364348403,3066.25335927901
+2049,DALYs,Rate,All ages,0.0277996676278718,0.0251459836356518,0.0307019311828589,Age-standardized,"IHME age-standardized rate over all ages; not a 15-49 crude rate, do not compare with the 15-49 projections.",2779.96676278718,2514.59836356518,3070.19311828589
+2050,DALYs,Rate,All ages,0.0277500254617789,0.0250454510282852,0.0307455315740293,Age-standardized,"IHME age-standardized rate over all ages; not a 15-49 crude rate, do not compare with the 15-49 projections.",2775.00254617789,2504.54510282852,3074.55315740293
+2024,Deaths,Number,<20 years,142024.568913519,127948.851156212,159499.635168437,<20 years,IHME <20-year count; not 15-49-specific.,,,
+2025,Deaths,Number,<20 years,141390.090755195,127144.318600749,158595.179078633,<20 years,IHME <20-year count; not 15-49-specific.,,,
+2026,Deaths,Number,<20 years,140565.368296336,126173.48998747,157798.332034933,<20 years,IHME <20-year count; not 15-49-specific.,,,
+2027,Deaths,Number,<20 years,139654.813818134,125252.001467232,156564.578174189,<20 years,IHME <20-year count; not 15-49-specific.,,,
+2028,Deaths,Number,<20 years,138696.043325442,124165.882856678,155802.314100626,<20 years,IHME <20-year count; not 15-49-specific.,,,
+2029,Deaths,Number,<20 years,137666.720748685,123031.657792462,154833.104401714,<20 years,IHME <20-year count; not 15-49-specific.,,,
+2030,Deaths,Number,<20 years,136632.585909997,121998.378656715,153485.912029823,<20 years,IHME <20-year count; not 15-49-specific.,,,
+2031,Deaths,Number,<20 years,135555.721825222,120518.803139308,152233.055032233,<20 years,IHME <20-year count; not 15-49-specific.,,,
+2032,Deaths,Number,<20 years,134410.425363169,119144.033329901,151510.257045732,<20 years,IHME <20-year count; not 15-49-specific.,,,
+2033,Deaths,Number,<20 years,133129.478263927,117825.348714656,150980.983476112,<20 years,IHME <20-year count; not 15-49-specific.,,,
+2034,Deaths,Number,<20 years,131802.685604331,116387.171318497,150304.490477872,<20 years,IHME <20-year count; not 15-49-specific.,,,
+2035,Deaths,Number,<20 years,130497.711830095,114953.548893679,149729.776931622,<20 years,IHME <20-year count; not 15-49-specific.,,,
+2036,Deaths,Number,<20 years,129229.974684679,113290.802590243,149233.890885227,<20 years,IHME <20-year count; not 15-49-specific.,,,
+2037,Deaths,Number,<20 years,127991.896226129,111881.900187711,148596.284268251,<20 years,IHME <20-year count; not 15-49-specific.,,,
+2038,Deaths,Number,<20 years,126773.256556795,110553.263124175,148182.548937038,<20 years,IHME <20-year count; not 15-49-specific.,,,
+2039,Deaths,Number,<20 years,125623.55605638,109372.361299309,147952.242595865,<20 years,IHME <20-year count; not 15-49-specific.,,,
+2040,Deaths,Number,<20 years,124632.052713177,108126.607286977,147711.498134708,<20 years,IHME <20-year count; not 15-49-specific.,,,
+2041,Deaths,Number,<20 years,123846.68905035,106891.728366315,147092.679804034,<20 years,IHME <20-year count; not 15-49-specific.,,,
+2042,Deaths,Number,<20 years,123081.546620891,105861.249779661,146698.817287568,<20 years,IHME <20-year count; not 15-49-specific.,,,
+2043,Deaths,Number,<20 years,122256.460398304,104872.650130933,146269.044964625,<20 years,IHME <20-year count; not 15-49-specific.,,,
+2044,Deaths,Number,<20 years,121481.624411082,104002.020919283,145703.568565943,<20 years,IHME <20-year count; not 15-49-specific.,,,
+2045,Deaths,Number,<20 years,120656.604959971,102909.185767614,145188.998935983,<20 years,IHME <20-year count; not 15-49-specific.,,,
+2046,Deaths,Number,<20 years,119817.08088406,101806.130638658,145113.450346122,<20 years,IHME <20-year count; not 15-49-specific.,,,
+2047,Deaths,Number,<20 years,118902.598056268,100712.181260529,144655.208430172,<20 years,IHME <20-year count; not 15-49-specific.,,,
+2048,Deaths,Number,<20 years,117989.057041083,99593.0215359184,144221.37947189,<20 years,IHME <20-year count; not 15-49-specific.,,,
+2049,Deaths,Number,<20 years,117014.597200343,98432.6132402721,143999.606925958,<20 years,IHME <20-year count; not 15-49-specific.,,,
+2050,Deaths,Number,<20 years,116052.52159919,97270.2835170673,143722.587121816,<20 years,IHME <20-year count; not 15-49-specific.,,,
+2024,Deaths,Number,All ages,10630279.1900702,9916592.9387709,11218091.5171456,All ages,IHME all-age total-cancer count; not 15-49-specific.,,,
+2025,Deaths,Number,All ages,10893403.4134999,10155095.4835664,11501170.8417086,All ages,IHME all-age total-cancer count; not 15-49-specific.,,,
+2026,Deaths,Number,All ages,11147668.4321638,10361112.4601677,11786747.6911337,All ages,IHME all-age total-cancer count; not 15-49-specific.,,,
+2027,Deaths,Number,All ages,11410447.6543438,10577778.9623861,12059368.5069911,All ages,IHME all-age total-cancer count; not 15-49-specific.,,,
+2028,Deaths,Number,All ages,11694446.7890428,10818271.4068512,12376947.3096294,All ages,IHME all-age total-cancer count; not 15-49-specific.,,,
+2029,Deaths,Number,All ages,11989150.8379468,11066178.9054158,12695127.1545554,All ages,IHME all-age total-cancer count; not 15-49-specific.,,,
+2030,Deaths,Number,All ages,12290052.3432072,11304395.9035457,13030463.735322,All ages,IHME all-age total-cancer count; not 15-49-specific.,,,
+2031,Deaths,Number,All ages,12581209.2628048,11531662.817478,13365988.7093467,All ages,IHME all-age total-cancer count; not 15-49-specific.,,,
+2032,Deaths,Number,All ages,12878232.8851407,11758919.8647261,13723211.1888099,All ages,IHME all-age total-cancer count; not 15-49-specific.,,,
+2033,Deaths,Number,All ages,13192906.4411328,11996488.6520194,14083276.6773692,All ages,IHME all-age total-cancer count; not 15-49-specific.,,,
+2034,Deaths,Number,All ages,13516284.2155302,12239805.3467509,14493325.8223782,All ages,IHME all-age total-cancer count; not 15-49-specific.,,,
+2035,Deaths,Number,All ages,13842181.0955888,12480066.3297784,14912211.907597,All ages,IHME all-age total-cancer count; not 15-49-specific.,,,
+2036,Deaths,Number,All ages,14153497.1986419,12703426.8646158,15327301.5647591,All ages,IHME all-age total-cancer count; not 15-49-specific.,,,
+2037,Deaths,Number,All ages,14467885.1659429,12926809.8248925,15753009.897385,All ages,IHME all-age total-cancer count; not 15-49-specific.,,,
+2038,Deaths,Number,All ages,14794665.3940468,13167215.5770163,16166961.2662107,All ages,IHME all-age total-cancer count; not 15-49-specific.,,,
+2039,Deaths,Number,All ages,15124524.8110171,13401962.2193871,16584002.6494819,All ages,IHME all-age total-cancer count; not 15-49-specific.,,,
+2040,Deaths,Number,All ages,15452329.3502481,13645017.3456098,17027267.9803478,All ages,IHME all-age total-cancer count; not 15-49-specific.,,,
+2041,Deaths,Number,All ages,15762377.4749189,13878053.4082162,17441870.4064345,All ages,IHME all-age total-cancer count; not 15-49-specific.,,,
+2042,Deaths,Number,All ages,16067487.4232267,14098214.1588257,17880320.3603596,All ages,IHME all-age total-cancer count; not 15-49-specific.,,,
+2043,Deaths,Number,All ages,16381991.5603336,14290402.7416812,18306768.355921,All ages,IHME all-age total-cancer count; not 15-49-specific.,,,
+2044,Deaths,Number,All ages,16698510.8570544,14483831.6532523,18732045.646977,All ages,IHME all-age total-cancer count; not 15-49-specific.,,,
+2045,Deaths,Number,All ages,17015648.0167568,14677391.1002665,19162223.0281487,All ages,IHME all-age total-cancer count; not 15-49-specific.,,,
+2046,Deaths,Number,All ages,17319578.8282194,14861673.0118964,19596902.7809295,All ages,IHME all-age total-cancer count; not 15-49-specific.,,,
+2047,Deaths,Number,All ages,17625793.6516413,15065537.7785224,20062500.928933,All ages,IHME all-age total-cancer count; not 15-49-specific.,,,
+2048,Deaths,Number,All ages,17938558.2462936,15266993.783406,20514528.4161236,All ages,IHME all-age total-cancer count; not 15-49-specific.,,,
+2049,Deaths,Number,All ages,18250751.3449098,15444348.8352607,20984972.3443498,All ages,IHME all-age total-cancer count; not 15-49-specific.,,,
+2050,Deaths,Number,All ages,18560429.3050148,15628889.8743135,21456622.8016586,All ages,IHME all-age total-cancer count; not 15-49-specific.,,,
+2024,Deaths,Rate,<20 years,5.36041746810285e-05,4.84841857226477e-05,6.00595269747759e-05,<20 years Age-standardized,IHME <20-year age-standardized rate; not a 15-49 crude rate.,5.360417468102851,4.84841857226477,6.00595269747759
+2025,Deaths,Rate,<20 years,5.34313232879481e-05,4.83308961332202e-05,5.97427312993177e-05,<20 years Age-standardized,IHME <20-year age-standardized rate; not a 15-49 crude rate.,5.34313232879481,4.83308961332202,5.9742731299317695
+2026,Deaths,Rate,<20 years,5.3221240837793e-05,4.80881782154359e-05,5.94522172304092e-05,<20 years Age-standardized,IHME <20-year age-standardized rate; not a 15-49 crude rate.,5.3221240837793,4.80881782154359,5.94522172304092
+2027,Deaths,Rate,<20 years,5.30246828891644e-05,4.78402311977417e-05,5.92504568849526e-05,<20 years Age-standardized,IHME <20-year age-standardized rate; not a 15-49 crude rate.,5.302468288916439,4.78402311977417,5.92504568849526
+2028,Deaths,Rate,<20 years,5.28556823247592e-05,4.76767552249015e-05,5.90035110081794e-05,<20 years Age-standardized,IHME <20-year age-standardized rate; not a 15-49 crude rate.,5.28556823247592,4.7676755224901495,5.90035110081794
+2029,Deaths,Rate,<20 years,5.26908939457059e-05,4.74287588897265e-05,5.8856205088204e-05,<20 years Age-standardized,IHME <20-year age-standardized rate; not a 15-49 crude rate.,5.26908939457059,4.74287588897265,5.8856205088204
+2030,Deaths,Rate,<20 years,5.25405781098657e-05,4.71785038974848e-05,5.87746087897759e-05,<20 years Age-standardized,IHME <20-year age-standardized rate; not a 15-49 crude rate.,5.25405781098657,4.71785038974848,5.8774608789775895
+2031,Deaths,Rate,<20 years,5.23763329423364e-05,4.68775858338903e-05,5.86956568305506e-05,<20 years Age-standardized,IHME <20-year age-standardized rate; not a 15-49 crude rate.,5.23763329423364,4.68775858338903,5.86956568305506
+2032,Deaths,Rate,<20 years,5.22070947193075e-05,4.65939998299035e-05,5.8732494522984e-05,<20 years Age-standardized,IHME <20-year age-standardized rate; not a 15-49 crude rate.,5.22070947193075,4.65939998299035,5.8732494522984
+2033,Deaths,Rate,<20 years,5.20183414331551e-05,4.63254973469551e-05,5.86264288515238e-05,<20 years Age-standardized,IHME <20-year age-standardized rate; not a 15-49 crude rate.,5.20183414331551,4.63254973469551,5.86264288515238
+2034,Deaths,Rate,<20 years,5.18201308796878e-05,4.60541310697387e-05,5.85351695605573e-05,<20 years Age-standardized,IHME <20-year age-standardized rate; not a 15-49 crude rate.,5.18201308796878,4.60541310697387,5.85351695605573
+2035,Deaths,Rate,<20 years,5.16151078639389e-05,4.57824459133553e-05,5.86036554133139e-05,<20 years Age-standardized,IHME <20-year age-standardized rate; not a 15-49 crude rate.,5.161510786393889,4.5782445913355305,5.86036554133139
+2036,Deaths,Rate,<20 years,5.13867540784819e-05,4.55091426200714e-05,5.85540434185009e-05,<20 years Age-standardized,IHME <20-year age-standardized rate; not a 15-49 crude rate.,5.13867540784819,4.55091426200714,5.85540434185009
+2037,Deaths,Rate,<20 years,5.11438068627972e-05,4.51651888122125e-05,5.84673071519082e-05,<20 years Age-standardized,IHME <20-year age-standardized rate; not a 15-49 crude rate.,5.11438068627972,4.51651888122125,5.846730715190819
+2038,Deaths,Rate,<20 years,5.0898320034223e-05,4.48611913750492e-05,5.84410993390706e-05,<20 years Age-standardized,IHME <20-year age-standardized rate; not a 15-49 crude rate.,5.0898320034223,4.48611913750492,5.84410993390706
+2039,Deaths,Rate,<20 years,5.06512404415394e-05,4.45943496815121e-05,5.83550382856632e-05,<20 years Age-standardized,IHME <20-year age-standardized rate; not a 15-49 crude rate.,5.06512404415394,4.45943496815121,5.83550382856632
+2040,Deaths,Rate,<20 years,5.04210221304163e-05,4.43514181609077e-05,5.82845418121099e-05,<20 years Age-standardized,IHME <20-year age-standardized rate; not a 15-49 crude rate.,5.0421022130416295,4.43514181609077,5.82845418121099
+2041,Deaths,Rate,<20 years,5.02021677986692e-05,4.40309589722766e-05,5.81995451784919e-05,<20 years Age-standardized,IHME <20-year age-standardized rate; not a 15-49 crude rate.,5.02021677986692,4.40309589722766,5.81995451784919
+2042,Deaths,Rate,<20 years,4.99983917134317e-05,4.3764962955856e-05,5.81528014613735e-05,<20 years Age-standardized,IHME <20-year age-standardized rate; not a 15-49 crude rate.,4.9998391713431705,4.3764962955856,5.81528014613735
+2043,Deaths,Rate,<20 years,4.97824264391958e-05,4.3517201290984e-05,5.82718519245595e-05,<20 years Age-standardized,IHME <20-year age-standardized rate; not a 15-49 crude rate.,4.978242643919581,4.3517201290984,5.82718519245595
+2044,Deaths,Rate,<20 years,4.96012660630336e-05,4.32857602769533e-05,5.82738617902576e-05,<20 years Age-standardized,IHME <20-year age-standardized rate; not a 15-49 crude rate.,4.96012660630336,4.3285760276953305,5.82738617902576
+2045,Deaths,Rate,<20 years,4.94153237089114e-05,4.30757426847436e-05,5.83327960690584e-05,<20 years Age-standardized,IHME <20-year age-standardized rate; not a 15-49 crude rate.,4.9415323708911405,4.30757426847436,5.83327960690584
+2046,Deaths,Rate,<20 years,4.92401825517292e-05,4.28271053206519e-05,5.83627580903462e-05,<20 years Age-standardized,IHME <20-year age-standardized rate; not a 15-49 crude rate.,4.92401825517292,4.28271053206519,5.83627580903462
+2047,Deaths,Rate,<20 years,4.90535117563881e-05,4.26259509780719e-05,5.84660041728269e-05,<20 years Age-standardized,IHME <20-year age-standardized rate; not a 15-49 crude rate.,4.90535117563881,4.26259509780719,5.84660041728269
+2048,Deaths,Rate,<20 years,4.88884955091363e-05,4.24183968965948e-05,5.84810963573054e-05,<20 years Age-standardized,IHME <20-year age-standardized rate; not a 15-49 crude rate.,4.888849550913631,4.24183968965948,5.84810963573054
+2049,Deaths,Rate,<20 years,4.87195120395553e-05,4.22149191896251e-05,5.86291313908118e-05,<20 years Age-standardized,IHME <20-year age-standardized rate; not a 15-49 crude rate.,4.87195120395553,4.22149191896251,5.86291313908118
+2050,Deaths,Rate,<20 years,4.85772043195532e-05,4.20301610384224e-05,5.88815764532267e-05,<20 years Age-standardized,IHME <20-year age-standardized rate; not a 15-49 crude rate.,4.85772043195532,4.20301610384224,5.88815764532267
+2024,Deaths,Rate,All ages,0.00114205808898723,0.00106250876852286,0.00120561175473667,Age-standardized,"IHME age-standardized rate over all ages; not a 15-49 crude rate, do not compare with the 15-49 projections.",114.20580889872299,106.250876852286,120.56117547366699
+2025,Deaths,Rate,All ages,0.00113824501709017,0.00105979352882735,0.00120201843867837,Age-standardized,"IHME age-standardized rate over all ages; not a 15-49 crude rate, do not compare with the 15-49 projections.",113.824501709017,105.979352882735,120.20184386783698
+2026,Deaths,Rate,All ages,0.00113421845852645,0.00105613229198332,0.00119869947132607,Age-standardized,"IHME age-standardized rate over all ages; not a 15-49 crude rate, do not compare with the 15-49 projections.",113.421845852645,105.613229198332,119.86994713260701
+2027,Deaths,Rate,All ages,0.00113038859480531,0.00105216618025152,0.00119598420172034,Age-standardized,"IHME age-standardized rate over all ages; not a 15-49 crude rate, do not compare with the 15-49 projections.",113.038859480531,105.216618025152,119.59842017203401
+2028,Deaths,Rate,All ages,0.00112688977644353,0.00104838306557487,0.00119378446941939,Age-standardized,"IHME age-standardized rate over all ages; not a 15-49 crude rate, do not compare with the 15-49 projections.",112.688977644353,104.83830655748699,119.37844694193899
+2029,Deaths,Rate,All ages,0.00112355321607636,0.00104423330726853,0.00119056431884446,Age-standardized,"IHME age-standardized rate over all ages; not a 15-49 crude rate, do not compare with the 15-49 projections.",112.355321607636,104.423330726853,119.056431884446
+2030,Deaths,Rate,All ages,0.00112064617234886,0.00104006583513312,0.00118699197522365,Age-standardized,"IHME age-standardized rate over all ages; not a 15-49 crude rate, do not compare with the 15-49 projections.",112.06461723488599,104.006583513312,118.699197522365
+2031,Deaths,Rate,All ages,0.00111742555637239,0.0010355185886792,0.00118504976692772,Age-standardized,"IHME age-standardized rate over all ages; not a 15-49 crude rate, do not compare with the 15-49 projections.",111.74255563723901,103.55185886792,118.504976692772
+2032,Deaths,Rate,All ages,0.00111438110598404,0.0010319947336665,0.00118192416790141,Age-standardized,"IHME age-standardized rate over all ages; not a 15-49 crude rate, do not compare with the 15-49 projections.",111.438110598404,103.19947336665,118.192416790141
+2033,Deaths,Rate,All ages,0.0011116522015641,0.0010279752937388,0.00117971604303144,Age-standardized,"IHME age-standardized rate over all ages; not a 15-49 crude rate, do not compare with the 15-49 projections.",111.16522015640999,102.79752937388,117.971604303144
+2034,Deaths,Rate,All ages,0.00110917198101922,0.00102456288134851,0.00117981497622746,Age-standardized,"IHME age-standardized rate over all ages; not a 15-49 crude rate, do not compare with the 15-49 projections.",110.917198101922,102.456288134851,117.98149762274599
+2035,Deaths,Rate,All ages,0.00110703791837112,0.00102130222431143,0.00117806387948686,Age-standardized,"IHME age-standardized rate over all ages; not a 15-49 crude rate, do not compare with the 15-49 projections.",110.70379183711199,102.13022243114301,117.80638794868601
+2036,Deaths,Rate,All ages,0.00110450286890142,0.00101658039475639,0.0011789037482024,Age-standardized,"IHME age-standardized rate over all ages; not a 15-49 crude rate, do not compare with the 15-49 projections.",110.45028689014201,101.65803947563899,117.89037482024
+2037,Deaths,Rate,All ages,0.00110218942802527,0.00101228755397725,0.00117997279498332,Age-standardized,"IHME age-standardized rate over all ages; not a 15-49 crude rate, do not compare with the 15-49 projections.",110.218942802527,101.22875539772501,117.99727949833199
+2038,Deaths,Rate,All ages,0.00110004691905371,0.00100734473114326,0.00118158851183719,Age-standardized,"IHME age-standardized rate over all ages; not a 15-49 crude rate, do not compare with the 15-49 projections.",110.004691905371,100.734473114326,118.158851183719
+2039,Deaths,Rate,All ages,0.00109794768161729,0.00100231985433424,0.00118316481706832,Age-standardized,"IHME age-standardized rate over all ages; not a 15-49 crude rate, do not compare with the 15-49 projections.",109.794768161729,100.231985433424,118.316481706832
+2040,Deaths,Rate,All ages,0.00109608473369582,0.000998193725873776,0.00118505013898385,Age-standardized,"IHME age-standardized rate over all ages; not a 15-49 crude rate, do not compare with the 15-49 projections.",109.608473369582,99.81937258737761,118.505013898385
+2041,Deaths,Rate,All ages,0.00109385077488233,0.000993537940985235,0.00118560684234103,Age-standardized,"IHME age-standardized rate over all ages; not a 15-49 crude rate, do not compare with the 15-49 projections.",109.385077488233,99.3537940985235,118.560684234103
+2042,Deaths,Rate,All ages,0.00109151504035031,0.00099031197232867,0.00118579584819671,Age-standardized,"IHME age-standardized rate over all ages; not a 15-49 crude rate, do not compare with the 15-49 projections.",109.15150403503101,99.031197232867,118.579584819671
+2043,Deaths,Rate,All ages,0.00108938083061913,0.000988668388662202,0.00118669385407298,Age-standardized,"IHME age-standardized rate over all ages; not a 15-49 crude rate, do not compare with the 15-49 projections.",108.93808306191299,98.8668388662202,118.66938540729801
+2044,Deaths,Rate,All ages,0.0010873481995224,0.000986053368079418,0.00118816406937382,Age-standardized,"IHME age-standardized rate over all ages; not a 15-49 crude rate, do not compare with the 15-49 projections.",108.73481995224,98.60533680794181,118.81640693738201
+2045,Deaths,Rate,All ages,0.00108569105968606,0.000983364225906072,0.0011897239979521,Age-standardized,"IHME age-standardized rate over all ages; not a 15-49 crude rate, do not compare with the 15-49 projections.",108.56910596860601,98.33642259060721,118.97239979521001
+2046,Deaths,Rate,All ages,0.00108389639775169,0.00097988168693754,0.00119057269040174,Age-standardized,"IHME age-standardized rate over all ages; not a 15-49 crude rate, do not compare with the 15-49 projections.",108.389639775169,97.988168693754,119.057269040174
+2047,Deaths,Rate,All ages,0.00108242778669754,0.000976260724802374,0.00119035710612233,Age-standardized,"IHME age-standardized rate over all ages; not a 15-49 crude rate, do not compare with the 15-49 projections.",108.242778669754,97.6260724802374,119.035710612233
+2048,Deaths,Rate,All ages,0.00108106519690764,0.000973045494730165,0.00119036190226394,Age-standardized,"IHME age-standardized rate over all ages; not a 15-49 crude rate, do not compare with the 15-49 projections.",108.10651969076399,97.3045494730165,119.036190226394
+2049,Deaths,Rate,All ages,0.00107975833304784,0.000969649612220928,0.00119202901733384,Age-standardized,"IHME age-standardized rate over all ages; not a 15-49 crude rate, do not compare with the 15-49 projections.",107.975833304784,96.9649612220928,119.202901733384
+2050,Deaths,Rate,All ages,0.00107875266995545,0.000967009797519063,0.00119434292215263,Age-standardized,"IHME age-standardized rate over all ages; not a 15-49 crude rate, do not compare with the 15-49 projections.",107.87526699554499,96.70097975190629,119.434292215263
+2024,Incidence,Number,<20 years,361295.741828295,280817.986554377,471764.869578583,<20 years,IHME <20-year count; not 15-49-specific.,,,
+2025,Incidence,Number,<20 years,359970.941530513,279442.092204693,471929.759572713,<20 years,IHME <20-year count; not 15-49-specific.,,,
+2026,Incidence,Number,<20 years,358359.758501938,277518.215910296,472653.077036252,<20 years,IHME <20-year count; not 15-49-specific.,,,
+2027,Incidence,Number,<20 years,356596.303258268,276115.449298147,472251.743450446,<20 years,IHME <20-year count; not 15-49-specific.,,,
+2028,Incidence,Number,<20 years,354661.263917465,274747.394460068,471848.612287027,<20 years,IHME <20-year count; not 15-49-specific.,,,
+2029,Incidence,Number,<20 years,352576.16474306,272525.783110164,472389.530085818,<20 years,IHME <20-year count; not 15-49-specific.,,,
+2030,Incidence,Number,<20 years,350756.282435345,269544.453899155,471857.629139586,<20 years,IHME <20-year count; not 15-49-specific.,,,
+2031,Incidence,Number,<20 years,348495.646194617,267548.518297552,469379.861971258,<20 years,IHME <20-year count; not 15-49-specific.,,,
+2032,Incidence,Number,<20 years,346067.479493262,265355.693648997,469020.926434328,<20 years,IHME <20-year count; not 15-49-specific.,,,
+2033,Incidence,Number,<20 years,343196.764552618,262014.537435922,467764.813173914,<20 years,IHME <20-year count; not 15-49-specific.,,,
+2034,Incidence,Number,<20 years,340216.880322725,257606.531572596,465653.026555993,<20 years,IHME <20-year count; not 15-49-specific.,,,
+2035,Incidence,Number,<20 years,337528.136455796,254809.478660982,464087.942978268,<20 years,IHME <20-year count; not 15-49-specific.,,,
+2036,Incidence,Number,<20 years,334698.926691229,250927.245930154,462661.692369003,<20 years,IHME <20-year count; not 15-49-specific.,,,
+2037,Incidence,Number,<20 years,332062.345518771,248210.118149142,462672.096635912,<20 years,IHME <20-year count; not 15-49-specific.,,,
+2038,Incidence,Number,<20 years,329540.516825824,243224.314347394,464044.172768184,<20 years,IHME <20-year count; not 15-49-specific.,,,
+2039,Incidence,Number,<20 years,327261.921103634,239769.732202015,466464.125969628,<20 years,IHME <20-year count; not 15-49-specific.,,,
+2040,Incidence,Number,<20 years,325663.198787204,236923.229113402,469438.16324012,<20 years,IHME <20-year count; not 15-49-specific.,,,
+2041,Incidence,Number,<20 years,324535.036789633,233474.175245936,471774.292284617,<20 years,IHME <20-year count; not 15-49-specific.,,,
+2042,Incidence,Number,<20 years,323446.449727682,230630.20248493,474283.321975958,<20 years,IHME <20-year count; not 15-49-specific.,,,
+2043,Incidence,Number,<20 years,322149.231505714,227468.507557614,473428.408023837,<20 years,IHME <20-year count; not 15-49-specific.,,,
+2044,Incidence,Number,<20 years,320908.885672591,225470.764599802,474335.989905084,<20 years,IHME <20-year count; not 15-49-specific.,,,
+2045,Incidence,Number,<20 years,319709.872162532,222010.104601764,475611.024519669,<20 years,IHME <20-year count; not 15-49-specific.,,,
+2046,Incidence,Number,<20 years,318185.129247965,219100.901662519,476695.397058689,<20 years,IHME <20-year count; not 15-49-specific.,,,
+2047,Incidence,Number,<20 years,316444.928598135,216551.848785362,476359.401561419,<20 years,IHME <20-year count; not 15-49-specific.,,,
+2048,Incidence,Number,<20 years,314645.41729276,214019.545229437,476935.091323669,<20 years,IHME <20-year count; not 15-49-specific.,,,
+2049,Incidence,Number,<20 years,312652.787262577,212008.087774772,476287.961651148,<20 years,IHME <20-year count; not 15-49-specific.,,,
+2050,Incidence,Number,<20 years,310773.228967804,209285.164281128,477053.247008371,<20 years,IHME <20-year count; not 15-49-specific.,,,
+2024,Incidence,Number,All ages,18984028.5811772,16789664.72094,21214601.7242708,All ages,IHME all-age total-cancer count; not 15-49-specific.,,,
+2025,Incidence,Number,All ages,19443252.1779732,17208794.1751714,21767797.2495794,All ages,IHME all-age total-cancer count; not 15-49-specific.,,,
+2026,Incidence,Number,All ages,19884047.9548277,17561000.7458545,22304245.4314682,All ages,IHME all-age total-cancer count; not 15-49-specific.,,,
+2027,Incidence,Number,All ages,20327062.5065829,17961000.9286293,22870655.5583311,All ages,IHME all-age total-cancer count; not 15-49-specific.,,,
+2028,Incidence,Number,All ages,20786607.0682106,18326011.6194372,23458881.0521279,All ages,IHME all-age total-cancer count; not 15-49-specific.,,,
+2029,Incidence,Number,All ages,21254667.7407663,18759386.8820251,24085155.38576,All ages,IHME all-age total-cancer count; not 15-49-specific.,,,
+2030,Incidence,Number,All ages,21738406.8697293,19158257.9101145,24694981.9612112,All ages,IHME all-age total-cancer count; not 15-49-specific.,,,
+2031,Incidence,Number,All ages,22198826.2116008,19448701.7002152,25311503.2406045,All ages,IHME all-age total-cancer count; not 15-49-specific.,,,
+2032,Incidence,Number,All ages,22662517.6248629,19693795.6262859,25950619.8692909,All ages,IHME all-age total-cancer count; not 15-49-specific.,,,
+2033,Incidence,Number,All ages,23139778.9773939,19974192.7968469,26649314.8296732,All ages,IHME all-age total-cancer count; not 15-49-specific.,,,
+2034,Incidence,Number,All ages,23623569.3459003,20227314.352035,27338785.5443432,All ages,IHME all-age total-cancer count; not 15-49-specific.,,,
+2035,Incidence,Number,All ages,24116540.5495194,20491341.5465031,28048275.2889946,All ages,IHME all-age total-cancer count; not 15-49-specific.,,,
+2036,Incidence,Number,All ages,24579162.7324005,20727935.180729,28741069.4222564,All ages,IHME all-age total-cancer count; not 15-49-specific.,,,
+2037,Incidence,Number,All ages,25040134.1187159,20919326.7783391,29391159.2508107,All ages,IHME all-age total-cancer count; not 15-49-specific.,,,
+2038,Incidence,Number,All ages,25508827.5453749,21127393.4357003,30090998.9848419,All ages,IHME all-age total-cancer count; not 15-49-specific.,,,
+2039,Incidence,Number,All ages,25975839.0931856,21355960.4528458,30810108.3686058,All ages,IHME all-age total-cancer count; not 15-49-specific.,,,
+2040,Incidence,Number,All ages,26446657.3487437,21588881.7500099,31541967.7294545,All ages,IHME all-age total-cancer count; not 15-49-specific.,,,
+2041,Incidence,Number,All ages,26881656.0498953,21795576.3399391,32232049.5224154,All ages,IHME all-age total-cancer count; not 15-49-specific.,,,
+2042,Incidence,Number,All ages,27304102.6025567,21996843.116468,32924100.7015777,All ages,IHME all-age total-cancer count; not 15-49-specific.,,,
+2043,Incidence,Number,All ages,27728857.1485196,22181533.1804955,33661773.1421883,All ages,IHME all-age total-cancer count; not 15-49-specific.,,,
+2044,Incidence,Number,All ages,28149611.9530522,22314126.5773008,34411623.3421243,All ages,IHME all-age total-cancer count; not 15-49-specific.,,,
+2045,Incidence,Number,All ages,28575565.2535792,22475541.4808491,35180318.1660526,All ages,IHME all-age total-cancer count; not 15-49-specific.,,,
+2046,Incidence,Number,All ages,28969256.79273,22574873.2662758,35918602.1500657,All ages,IHME all-age total-cancer count; not 15-49-specific.,,,
+2047,Incidence,Number,All ages,29361200.063965,22692697.3618506,36637890.2699209,All ages,IHME all-age total-cancer count; not 15-49-specific.,,,
+2048,Incidence,Number,All ages,29752775.6717295,22813182.5212872,37368406.3096723,All ages,IHME all-age total-cancer count; not 15-49-specific.,,,
+2049,Incidence,Number,All ages,30138309.2954878,22824493.8260964,38139370.7979876,All ages,IHME all-age total-cancer count; not 15-49-specific.,,,
+2050,Incidence,Number,All ages,30524784.70816,22892883.0112908,38918732.0819977,All ages,IHME all-age total-cancer count; not 15-49-specific.,,,
+2024,Incidence,Rate,<20 years,0.000137162748710548,0.000106245088650506,0.000178680555764974,<20 years Age-standardized,IHME <20-year age-standardized rate; not a 15-49 crude rate.,13.716274871054802,10.6245088650506,17.868055576497397
+2025,Incidence,Rate,<20 years,0.000136830259965629,0.000105940552687424,0.000178126170518933,<20 years Age-standardized,IHME <20-year age-standardized rate; not a 15-49 crude rate.,13.6830259965629,10.5940552687424,17.8126170518933
+2026,Incidence,Rate,<20 years,0.000136478206486841,0.000105149142152513,0.000177761659217629,<20 years Age-standardized,IHME <20-year age-standardized rate; not a 15-49 crude rate.,13.6478206486841,10.5149142152513,17.7761659217629
+2027,Incidence,Rate,<20 years,0.000136187505713985,0.000104347027816587,0.000176716744036522,<20 years Age-standardized,IHME <20-year age-standardized rate; not a 15-49 crude rate.,13.6187505713985,10.4347027816587,17.6716744036522
+2028,Incidence,Rate,<20 years,0.000135950503986039,0.000104096666897145,0.000176342949514708,<20 years Age-standardized,IHME <20-year age-standardized rate; not a 15-49 crude rate.,13.595050398603899,10.4096666897145,17.6342949514708
+2029,Incidence,Rate,<20 years,0.00013573763466911,0.000103465458501025,0.000176722399364668,<20 years Age-standardized,IHME <20-year age-standardized rate; not a 15-49 crude rate.,13.573763466911,10.3465458501025,17.6722399364668
+2030,Incidence,Rate,<20 years,0.000135671676319238,0.00010325861820221,0.000177251700077698,<20 years Age-standardized,IHME <20-year age-standardized rate; not a 15-49 crude rate.,13.5671676319238,10.325861820221,17.7251700077698
+2031,Incidence,Rate,<20 years,0.00013544415438325,0.000103077634199828,0.000177475268839313,<20 years Age-standardized,IHME <20-year age-standardized rate; not a 15-49 crude rate.,13.544415438325,10.3077634199828,17.7475268839313
+2032,Incidence,Rate,<20 years,0.000135209366583195,0.000102472245101084,0.000178299213790866,<20 years Age-standardized,IHME <20-year age-standardized rate; not a 15-49 crude rate.,13.5209366583195,10.247224510108401,17.8299213790866
+2033,Incidence,Rate,<20 years,0.000134889530979598,0.000101972921711601,0.000178880032820147,<20 years Age-standardized,IHME <20-year age-standardized rate; not a 15-49 crude rate.,13.4889530979598,10.1972921711601,17.8880032820147
+2034,Incidence,Rate,<20 years,0.000134550971798016,0.000101234715222011,0.000179582087723352,<20 years Age-standardized,IHME <20-year age-standardized rate; not a 15-49 crude rate.,13.4550971798016,10.1234715222011,17.9582087723352
+2035,Incidence,Rate,<20 years,0.000134290508056161,0.000100980395598131,0.000180207422601266,<20 years Age-standardized,IHME <20-year age-standardized rate; not a 15-49 crude rate.,13.429050805616098,10.098039559813099,18.0207422601266
+2036,Incidence,Rate,<20 years,0.000133878023901476,0.000100360502635601,0.000181028770548655,<20 years Age-standardized,IHME <20-year age-standardized rate; not a 15-49 crude rate.,13.3878023901476,10.0360502635601,18.102877054865502
+2037,Incidence,Rate,<20 years,0.000133475407135751,9.96241527327395e-05,0.000181161466631418,<20 years Age-standardized,IHME <20-year age-standardized rate; not a 15-49 crude rate.,13.347540713575102,9.96241527327395,18.116146663141798
+2038,Incidence,Rate,<20 years,0.000133094567591184,9.88810299477543e-05,0.000181508311490392,<20 years Age-standardized,IHME <20-year age-standardized rate; not a 15-49 crude rate.,13.309456759118401,9.88810299477543,18.1508311490392
+2039,Incidence,Rate,<20 years,0.000132738177609911,9.84545490069606e-05,0.000182485613380723,<20 years Age-standardized,IHME <20-year age-standardized rate; not a 15-49 crude rate.,13.273817760991099,9.84545490069606,18.2485613380723
+2040,Incidence,Rate,<20 years,0.000132537609110224,9.79333895147351e-05,0.000183611510472101,<20 years Age-standardized,IHME <20-year age-standardized rate; not a 15-49 crude rate.,13.253760911022399,9.79333895147351,18.3611510472101
+2041,Incidence,Rate,<20 years,0.000132341433480231,9.74231073099195e-05,0.000184649486160715,<20 years Age-standardized,IHME <20-year age-standardized rate; not a 15-49 crude rate.,13.2341433480231,9.74231073099195,18.464948616071503
+2042,Incidence,Rate,<20 years,0.000132180694150271,9.6865355996126e-05,0.000185188069344782,<20 years Age-standardized,IHME <20-year age-standardized rate; not a 15-49 crude rate.,13.2180694150271,9.6865355996126,18.5188069344782
+2043,Incidence,Rate,<20 years,0.000131969054799532,9.65932695647116e-05,0.000186202206876763,<20 years Age-standardized,IHME <20-year age-standardized rate; not a 15-49 crude rate.,13.1969054799532,9.65932695647116,18.6202206876763
+2044,Incidence,Rate,<20 years,0.000131820737452978,9.61628246383454e-05,0.000187240258882372,<20 years Age-standardized,IHME <20-year age-standardized rate; not a 15-49 crude rate.,13.1820737452978,9.616282463834539,18.7240258882372
+2045,Incidence,Rate,<20 years,0.000131733066359206,9.57879990781616e-05,0.0001880022799917,<20 years Age-standardized,IHME <20-year age-standardized rate; not a 15-49 crude rate.,13.1733066359206,9.57879990781616,18.80022799917
+2046,Incidence,Rate,<20 years,0.000131558253689098,9.51526539750225e-05,0.000189576783948957,<20 years Age-standardized,IHME <20-year age-standardized rate; not a 15-49 crude rate.,13.1558253689098,9.515265397502251,18.957678394895698
+2047,Incidence,Rate,<20 years,0.000131349130411811,9.45276688823831e-05,0.000190389711671015,<20 years Age-standardized,IHME <20-year age-standardized rate; not a 15-49 crude rate.,13.134913041181099,9.45276688823831,19.038971167101497
+2048,Incidence,Rate,<20 years,0.000131174565032649,9.3969702466807e-05,0.000191209970250733,<20 years Age-standardized,IHME <20-year age-standardized rate; not a 15-49 crude rate.,13.117456503264899,9.396970246680699,19.1209970250733
+2049,Incidence,Rate,<20 years,0.000130979132006333,9.3229841666323e-05,0.000192230720389212,<20 years Age-standardized,IHME <20-year age-standardized rate; not a 15-49 crude rate.,13.0979132006333,9.3229841666323,19.223072038921202
+2050,Incidence,Rate,<20 years,0.000130892107602908,9.26312255379164e-05,0.000193599025904482,<20 years Age-standardized,IHME <20-year age-standardized rate; not a 15-49 crude rate.,13.089210760290799,9.26312255379164,19.3599025904482
+2024,Incidence,Rate,All ages,0.00204609072978408,0.00180868507725913,0.0022878559236283,Age-standardized,"IHME age-standardized rate over all ages; not a 15-49 crude rate, do not compare with the 15-49 projections.",204.609072978408,180.86850772591302,228.78559236283
+2025,Incidence,Rate,All ages,0.00204332427476682,0.00180842705071664,0.00228518771905804,Age-standardized,"IHME age-standardized rate over all ages; not a 15-49 crude rate, do not compare with the 15-49 projections.",204.332427476682,180.842705071664,228.518771905804
+2026,Incidence,Rate,All ages,0.00203920765033349,0.00180799670564613,0.00227819877843144,Age-standardized,"IHME age-standardized rate over all ages; not a 15-49 crude rate, do not compare with the 15-49 projections.",203.920765033349,180.799670564613,227.81987784314398
+2027,Incidence,Rate,All ages,0.00203470845452221,0.00179864056180251,0.00227398603732294,Age-standardized,"IHME age-standardized rate over all ages; not a 15-49 crude rate, do not compare with the 15-49 projections.",203.470845452221,179.864056180251,227.398603732294
+2028,Incidence,Rate,All ages,0.00203001938861917,0.00179302213422346,0.00226964249364494,Age-standardized,"IHME age-standardized rate over all ages; not a 15-49 crude rate, do not compare with the 15-49 projections.",203.00193886191698,179.302213422346,226.964249364494
+2029,Incidence,Rate,All ages,0.00202518955141583,0.00179281684587138,0.00226712416162965,Age-standardized,"IHME age-standardized rate over all ages; not a 15-49 crude rate, do not compare with the 15-49 projections.",202.51895514158298,179.281684587138,226.71241616296498
+2030,Incidence,Rate,All ages,0.00202164289495723,0.0017862440838939,0.00226346436128774,Age-standardized,"IHME age-standardized rate over all ages; not a 15-49 crude rate, do not compare with the 15-49 projections.",202.164289495723,178.62440838939,226.346436128774
+2031,Incidence,Rate,All ages,0.00201659426014208,0.0017731389474949,0.00226370116764652,Age-standardized,"IHME age-standardized rate over all ages; not a 15-49 crude rate, do not compare with the 15-49 projections.",201.659426014208,177.31389474949,226.37011676465198
+2032,Incidence,Rate,All ages,0.00201164653873638,0.00176094363129338,0.00226737428239562,Age-standardized,"IHME age-standardized rate over all ages; not a 15-49 crude rate, do not compare with the 15-49 projections.",201.164653873638,176.094363129338,226.73742823956198
+2033,Incidence,Rate,All ages,0.00200672335399369,0.00174845846796893,0.00227197541469615,Age-standardized,"IHME age-standardized rate over all ages; not a 15-49 crude rate, do not compare with the 15-49 projections.",200.672335399369,174.845846796893,227.197541469615
+2034,Incidence,Rate,All ages,0.0020020372554028,0.00173755641414438,0.00227623655696645,Age-standardized,"IHME age-standardized rate over all ages; not a 15-49 crude rate, do not compare with the 15-49 projections.",200.20372554028,173.755641414438,227.623655696645
+2035,Incidence,Rate,All ages,0.00199854075841548,0.00172739915410186,0.00228116721455959,Age-standardized,"IHME age-standardized rate over all ages; not a 15-49 crude rate, do not compare with the 15-49 projections.",199.85407584154802,172.739915410186,228.11672145595898
+2036,Incidence,Rate,All ages,0.00199371255677913,0.00172004202487938,0.00228100070994359,Age-standardized,"IHME age-standardized rate over all ages; not a 15-49 crude rate, do not compare with the 15-49 projections.",199.371255677913,172.004202487938,228.10007099435902
+2037,Incidence,Rate,All ages,0.00198911311222455,0.00171196632911508,0.00228249857105867,Age-standardized,"IHME age-standardized rate over all ages; not a 15-49 crude rate, do not compare with the 15-49 projections.",198.91131122245497,171.196632911508,228.249857105867
+2038,Incidence,Rate,All ages,0.00198460162387721,0.00170408684864816,0.00228305371262521,Age-standardized,"IHME age-standardized rate over all ages; not a 15-49 crude rate, do not compare with the 15-49 projections.",198.46016238772103,170.408684864816,228.305371262521
+2039,Incidence,Rate,All ages,0.00198006865928354,0.00169792395403994,0.00228575121005633,Age-standardized,"IHME age-standardized rate over all ages; not a 15-49 crude rate, do not compare with the 15-49 projections.",198.006865928354,169.792395403994,228.57512100563298
+2040,Incidence,Rate,All ages,0.00197660008162646,0.00169095624938954,0.00229083007820374,Age-standardized,"IHME age-standardized rate over all ages; not a 15-49 crude rate, do not compare with the 15-49 projections.",197.66000816264602,169.095624938954,229.083007820374
+2041,Incidence,Rate,All ages,0.00197177693633166,0.00167892949657907,0.00229490259382716,Age-standardized,"IHME age-standardized rate over all ages; not a 15-49 crude rate, do not compare with the 15-49 projections.",197.177693633166,167.892949657907,229.49025938271598
+2042,Incidence,Rate,All ages,0.00196674640729697,0.00166614643639993,0.0022982830251837,Age-standardized,"IHME age-standardized rate over all ages; not a 15-49 crude rate, do not compare with the 15-49 projections.",196.67464072969702,166.614643639993,229.82830251837
+2043,Incidence,Rate,All ages,0.0019617788041528,0.00165385845204074,0.00230023644642033,Age-standardized,"IHME age-standardized rate over all ages; not a 15-49 crude rate, do not compare with the 15-49 projections.",196.17788041528,165.385845204074,230.02364464203302
+2044,Incidence,Rate,All ages,0.00195680168849465,0.00163982214489938,0.00230242507918422,Age-standardized,"IHME age-standardized rate over all ages; not a 15-49 crude rate, do not compare with the 15-49 projections.",195.680168849465,163.982214489938,230.24250791842198
+2045,Incidence,Rate,All ages,0.00195283551655747,0.00162976028277493,0.00230516128059938,Age-standardized,"IHME age-standardized rate over all ages; not a 15-49 crude rate, do not compare with the 15-49 projections.",195.283551655747,162.97602827749301,230.516128059938
+2046,Incidence,Rate,All ages,0.00194767570033254,0.00161689196272055,0.00230811115859532,Age-standardized,"IHME age-standardized rate over all ages; not a 15-49 crude rate, do not compare with the 15-49 projections.",194.767570033254,161.689196272055,230.81111585953198
+2047,Incidence,Rate,All ages,0.0019428865735324,0.00160429734832308,0.00231060017677428,Age-standardized,"IHME age-standardized rate over all ages; not a 15-49 crude rate, do not compare with the 15-49 projections.",194.28865735323998,160.429734832308,231.060017677428
+2048,Incidence,Rate,All ages,0.00193802526337461,0.00159198777573611,0.00231512482511723,Age-standardized,"IHME age-standardized rate over all ages; not a 15-49 crude rate, do not compare with the 15-49 projections.",193.802526337461,159.19877757361098,231.51248251172302
+2049,Incidence,Rate,All ages,0.001933183135683,0.00157956138592554,0.0023195384963275,Age-standardized,"IHME age-standardized rate over all ages; not a 15-49 crude rate, do not compare with the 15-49 projections.",193.3183135683,157.956138592554,231.95384963274998
+2050,Incidence,Rate,All ages,0.00192931102033751,0.00156961561778428,0.00232477573016296,Age-standardized,"IHME age-standardized rate over all ages; not a 15-49 crude rate, do not compare with the 15-49 projections.",192.93110203375102,156.961561778428,232.477573016296

@@ -1,0 +1,211 @@
+{
+  "generated_by": "scripts/age_bands.py",
+  "bands": {
+    "15-29": [
+      8,
+      9,
+      10
+    ],
+    "30-39": [
+      11,
+      12
+    ],
+    "40-49": [
+      13,
+      14
+    ]
+  },
+  "quintile_source": "data/aux/sdi_quintiles_2023.csv",
+  "quintile_boundaries_2023_sdi": [
+    0.528149429,
+    0.6297357175,
+    0.6770672955,
+    0.7188478005000001
+  ],
+  "n_countries_labelled": 183,
+  "n_countries_imputed": 21,
+  "imputed_countries": [
+    {
+      "Location ID": 179,
+      "Location Name": "Ethiopia",
+      "2023 SDI Index Value": 0.393735563,
+      "imputed_quintile": "Low SDI"
+    },
+    {
+      "Location ID": 214,
+      "Location Name": "Nigeria",
+      "2023 SDI Index Value": 0.511873658,
+      "imputed_quintile": "Low SDI"
+    },
+    {
+      "Location ID": 165,
+      "Location Name": "Pakistan",
+      "2023 SDI Index Value": 0.512708587,
+      "imputed_quintile": "Low SDI"
+    },
+    {
+      "Location ID": 180,
+      "Location Name": "Kenya",
+      "2023 SDI Index Value": 0.548638616,
+      "imputed_quintile": "Low-middle SDI"
+    },
+    {
+      "Location ID": 163,
+      "Location Name": "India",
+      "2023 SDI Index Value": 0.606984743,
+      "imputed_quintile": "Low-middle SDI"
+    },
+    {
+      "Location ID": 11,
+      "Location Name": "Indonesia",
+      "2023 SDI Index Value": 0.665734141,
+      "imputed_quintile": "Middle SDI"
+    },
+    {
+      "Location ID": 16,
+      "Location Name": "Philippines",
+      "2023 SDI Index Value": 0.669427429,
+      "imputed_quintile": "Middle SDI"
+    },
+    {
+      "Location ID": 135,
+      "Location Name": "Brazil",
+      "2023 SDI Index Value": 0.683948063,
+      "imputed_quintile": "High-middle SDI"
+    },
+    {
+      "Location ID": 130,
+      "Location Name": "Mexico",
+      "2023 SDI Index Value": 0.69344081,
+      "imputed_quintile": "High-middle SDI"
+    },
+    {
+      "Location ID": 196,
+      "Location Name": "South Africa",
+      "2023 SDI Index Value": 0.696452952,
+      "imputed_quintile": "High-middle SDI"
+    },
+    {
+      "Location ID": 142,
+      "Location Name": "Iran (Islamic Republic of)",
+      "2023 SDI Index Value": 0.717596893,
+      "imputed_quintile": "High-middle SDI"
+    },
+    {
+      "Location ID": 6,
+      "Location Name": "China",
+      "2023 SDI Index Value": 0.727546233,
+      "imputed_quintile": "High SDI"
+    },
+    {
+      "Location ID": 63,
+      "Location Name": "Ukraine",
+      "2023 SDI Index Value": 0.764539755,
+      "imputed_quintile": "High SDI"
+    },
+    {
+      "Location ID": 62,
+      "Location Name": "Russian Federation",
+      "2023 SDI Index Value": 0.822527587,
+      "imputed_quintile": "High SDI"
+    },
+    {
+      "Location ID": 86,
+      "Location Name": "Italy",
+      "2023 SDI Index Value": 0.834438783,
+      "imputed_quintile": "High SDI"
+    },
+    {
+      "Location ID": 51,
+      "Location Name": "Poland",
+      "2023 SDI Index Value": 0.847010383,
+      "imputed_quintile": "High SDI"
+    },
+    {
+      "Location ID": 72,
+      "Location Name": "New Zealand",
+      "2023 SDI Index Value": 0.866428977,
+      "imputed_quintile": "High SDI"
+    },
+    {
+      "Location ID": 67,
+      "Location Name": "Japan",
+      "2023 SDI Index Value": 0.875884615,
+      "imputed_quintile": "High SDI"
+    },
+    {
+      "Location ID": 102,
+      "Location Name": "United States of America",
+      "2023 SDI Index Value": 0.876474869,
+      "imputed_quintile": "High SDI"
+    },
+    {
+      "Location ID": 95,
+      "Location Name": "United Kingdom",
+      "2023 SDI Index Value": 0.880444447,
+      "imputed_quintile": "High SDI"
+    },
+    {
+      "Location ID": 90,
+      "Location Name": "Norway",
+      "2023 SDI Index Value": 0.916927038,
+      "imputed_quintile": "High SDI"
+    }
+  ],
+  "reconciliation": {
+    "global_band_sum_vs_bcd_age24": {
+      "Incidence": {
+        "max_abs_relative_difference": 1.2686132744762856e-15,
+        "year_of_max": 1996
+      },
+      "Deaths": {
+        "max_abs_relative_difference": 9.990528170459605e-16,
+        "year_of_max": 2022
+      },
+      "DALYs": {
+        "max_abs_relative_difference": 1.3594010122497206e-15,
+        "year_of_max": 2018
+      }
+    },
+    "quintile_band_sum_vs_own_age24": {
+      "Incidence": {
+        "max_abs_relative_difference": 0.0
+      },
+      "Deaths": {
+        "max_abs_relative_difference": 0.0
+      },
+      "DALYs": {
+        "max_abs_relative_difference": 0.0
+      }
+    }
+  },
+  "quintile_aggregate_vs_gbd_quintile_locations_2023_ratio": {
+    "Low SDI": {
+      "Incidence": 1.0412402231323796,
+      "Deaths": 1.0226038050685082,
+      "DALYs": 1.0271041696293166
+    },
+    "Low-middle SDI": {
+      "Incidence": 1.3176278923491356,
+      "Deaths": 1.3163060464456844,
+      "DALYs": 1.2989539604048959
+    },
+    "Middle SDI": {
+      "Incidence": 0.8502976578532403,
+      "Deaths": 0.8658334198972127,
+      "DALYs": 0.8670122929411802
+    },
+    "High-middle SDI": {
+      "Incidence": 0.51337681049383,
+      "Deaths": 0.4911118302312546,
+      "DALYs": 0.49746717417139513
+    },
+    "High SDI": {
+      "Incidence": 1.1625975399551354,
+      "Deaths": 1.2394971532716705,
+      "DALYs": 1.2356906017279645
+    }
+  },
+  "caveat": "Labels in sdi_quintiles_2023.csv are complete for 183 of 204 countries; the 21 unlabelled (populous) countries were assigned by interpolating the observed label boundaries in the 2023 SDI ranking. Aggregated quintile totals therefore need not reproduce GBD's own SDI-quintile aggregate locations (ratios shown for transparency); within-group age composition and trends are unaffected by that choice.",
+  "notes": []
+}

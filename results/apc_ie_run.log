@@ -1,0 +1,10 @@
+  Global Deaths: 500/500 bootstrap replicates converged
+  Global Incidence: 500/500 bootstrap replicates converged
+  note: no age-specific panel for Low SDI / Incidence; series skipped (only 204 countries + Global are available)
+  note: no age-specific panel for Low-middle SDI / Incidence; series skipped (only 204 countries + Global are available)
+  note: no age-specific panel for Middle SDI / Incidence; series skipped (only 204 countries + Global are available)
+  note: no age-specific panel for High-middle SDI / Incidence; series skipped (only 204 countries + Global are available)
+  note: no age-specific panel for High SDI / Incidence; series skipped (only 204 countries + Global are available)
+APC-IE effect rows: 54; fitted panels: 2
+  effects with bootstrap CIs: 54 rows (1 series)
+EXIT=0

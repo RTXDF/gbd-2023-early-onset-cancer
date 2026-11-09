@@ -1,0 +1,213 @@
+
+===== load_data.py =====
+A_global_trends                            files=  1 rows=   7,038 expected=    7344 cov=0.9583
+BCD_country_eo_both                        files= 12 rows=  70,686 expected=   94248 cov=0.75
+BCD_country_eo_female                      files= 12 rows=  70,686 expected=   94248 cov=0.75
+BCD_country_eo_male                        files= 12 rows=  70,686 expected=   94248 cov=0.75
+E_country_age_m1                           files= 12 rows=  97,580 expected=   97580 cov=1.0
+E_country_age_m2                           files= 12 rows=  97,580 expected=   97580 cov=1.0
+E_country_age_m6                           files= 12 rows=  97,580 expected=   97580 cov=1.0
+F_sites_m1_a24                             files=  7 rows=  53,244 expected=   53244 cov=1.0
+F_sites_m1_a27                             files=  7 rows=  26,622 expected=   53244 cov=0.5
+F_sites_m2_a24                             files=  7 rows=  53,244 expected=   53244 cov=1.0
+F_sites_m2_a27                             files=  7 rows=  26,622 expected=   53244 cov=0.5
+F_sites_m6_a24                             files=  7 rows=  53,244 expected=   53244 cov=1.0
+F_sites_m6_a27                             files=  7 rows=  26,622 expected=   53244 cov=0.5
+GHI_risk104_country_both                   files= 12 rows=  78,540 expected=   94248 cov=0.8333
+GHI_risk104_country_female                 files= 12 rows=  78,540 expected=   94248 cov=0.8333
+GHI_risk104_country_male                   files= 12 rows=  78,540 expected=   94248 cov=0.8333
+GHI_risk105_country_both                   files= 12 rows=  78,540 expected=   94248 cov=0.8333
+GHI_risk105_country_female                 files= 12 rows=  78,540 expected=   94248 cov=0.8333
+GHI_risk105_country_male                   files= 12 rows=  78,540 expected=   94248 cov=0.8333
+GHI_risk108_country_both                   files= 12 rows=  78,540 expected=   94248 cov=0.8333
+GHI_risk108_country_female                 files= 12 rows=  78,540 expected=   94248 cov=0.8333
+GHI_risk108_country_male                   files= 12 rows=  78,540 expected=   94248 cov=0.8333
+J_risk_age_global                          files=  2 rows=  13,464 expected=   16524 cov=0.8148
+K_risk104_sites_m1_a24                     files=  4 rows=  25,704 expected=   25704 cov=1.0
+K_risk104_sites_m1_a27                     files=  4 rows=  12,852 expected=   25704 cov=0.5
+K_risk104_sites_m2_a24                     files=  4 rows=  25,704 expected=   25704 cov=1.0
+K_risk104_sites_m2_a27                     files=  4 rows=  12,852 expected=   25704 cov=0.5
+K_risk105_sites_m1_a24                     files=  2 rows=  11,016 expected=   11016 cov=1.0
+K_risk105_sites_m1_a27                     files=  2 rows=   5,508 expected=   11016 cov=0.5
+K_risk105_sites_m2_a24                     files=  2 rows=  11,016 expected=   11016 cov=1.0
+K_risk105_sites_m2_a27                     files=  2 rows=   5,508 expected=   11016 cov=0.5
+K_risk108_sites_m1_a24                     files=  3 rows=  22,032 expected=   22032 cov=1.0
+K_risk108_sites_m1_a27                     files=  3 rows=  11,016 expected=   22032 cov=0.5
+K_risk108_sites_m2_a24                     files=  3 rows=  22,032 expected=   22032 cov=1.0
+K_risk108_sites_m2_a27                     files=  3 rows=  11,016 expected=   22032 cov=0.5
+L_pop_sex1                                 files=  7 rows=  55,760 expected=   55760 cov=1.0
+L_pop_sex2                                 files=  7 rows=  55,760 expected=   55760 cov=1.0
+L_pop_sex3                                 files=  7 rows=  55,760 expected=   55760 cov=1.0
+
+Total families: 38; panels -> /home/rtxdf/Documents/Qoder/2026-11-08/8176a8f3/oncology-plan/data/panels
+
+===== fix_paf.py =====
+{'panel': 'GHI_risk104_country_both', 'exact': 15708, 'scaled': 15708, 'uncorrected': 0}
+{'panel': 'GHI_risk104_country_male', 'exact': 15708, 'scaled': 15708, 'uncorrected': 0}
+{'panel': 'GHI_risk104_country_female', 'exact': 15673, 'scaled': 15708, 'uncorrected': 0}
+{'panel': 'GHI_risk105_country_both', 'exact': 15708, 'scaled': 15708, 'uncorrected': 0}
+{'panel': 'GHI_risk105_country_male', 'exact': 15708, 'scaled': 15708, 'uncorrected': 0}
+{'panel': 'GHI_risk105_country_female', 'exact': 15708, 'scaled': 15708, 'uncorrected': 0}
+{'panel': 'GHI_risk108_country_both', 'exact': 15664, 'scaled': 15708, 'uncorrected': 0}
+{'panel': 'GHI_risk108_country_male', 'exact': 15708, 'scaled': 15708, 'uncorrected': 0}
+{'panel': 'GHI_risk108_country_female', 'exact': 15291, 'scaled': 15708, 'uncorrected': 0}
+{'panel': 'J_risk_age_global', 'exact': 4080, 'scaled': 612, 'uncorrected': 0}
+
+===== trends.py =====
+global EAPC rows: 81; joinpoint rows: 89
+country EAPC rows: 3672
+
+===== attributable.py =====
+attributable_global rows: 3060
+  2023 metabolic-attributable EO cancer deaths [Number]: 47303.096 (36853.651-63466.275)
+  2023 metabolic-attributable EO cancer deaths [Percent]: 0.040 (0.031-0.052)
+  2023 metabolic-attributable EO cancer deaths [Rate]: 1.182 (0.921-1.585)
+attributable_country_2023 rows: 3672
+attributable_trends_eapc rows: 36
+
+===== decomposition.py =====
+decomposition rows: 1230 (global 6)
+ location_id location    period             outcome       value_0      value_1  population_effect   rate_effect  attributable   paf_effect
+           1   Global 1990-2023        total_deaths 876308.429301 1.195700e+06      400068.429758 -80676.518101         False          NaN
+           1   Global 1990-2023 attributable_deaths  23655.410325 4.730310e+04       13280.970293  -2717.112147          True 13083.827816
+
+===== inequality.py =====
+inequality rows: 11
+                          outcome    sex  year  n_countries  concentration_index          sii   sii_ci_low  sii_ci_high      rii  rii_ci_low  rii_ci_high  weighted_mean
+        Total Deaths (15-49 rate)   both  2023          204            -0.088187   -15.999584   -20.962765   -11.036402 0.559967    0.465743     0.654190      29.864122
+         Total DALYs (15-49 rate)   both  2023          204            -0.099072  -932.044299 -1198.193490  -665.895107 0.515862    0.425848     0.605875    1548.563527
+     Total Incidence (15-49 rate)   both  2023          204             0.068891    33.841922    19.634228    48.049617 1.659801    1.366944     1.952657      80.860246
+        Total Deaths (15-49 rate)   male  2023          204             0.032003     4.903083     0.911337     8.894828 1.206260    1.014899     1.397621      25.218710
+         Total DALYs (15-49 rate)   male  2023          204             0.021526   168.854328   -32.343234   370.051889 1.136262    0.959039     1.313484    1291.172814
+     Total Incidence (15-49 rate)   male  2023          204             0.203681    67.378609    58.954881    75.802338 3.797412    3.184729     4.410096      54.452398
+        Total Deaths (15-49 rate) female  2023          204            -0.174705   -36.491447   -43.773272   -29.209621 0.289666    0.225220     0.354112      34.382001
+         Total DALYs (15-49 rate) female  2023          204            -0.183738 -2008.834004 -2402.530636 -1615.137372 0.265831    0.204375     0.327287    1799.656156
+     Total Incidence (15-49 rate) female  2023          204             0.005211     3.401441   -18.276890    25.079771 1.040921    0.830885     1.250957     107.436049
+        Metabolic PAF (deaths, %)   both  2023          204             0.208897     5.342985     4.662257     6.023714 3.447519    2.839816     4.055222       4.210132
+Metabolic-attributable death rate   both  2023          204             0.136937     0.982768     0.752517     1.213020 2.251053    1.795548     2.706558       1.181337
+
+===== apc_ie.py =====
+APC-IE effect rows: 66; fitted panels: 2
+
+===== sites.py =====
+sites: global2023=174, eapc=87, attributable=64; fig9 saved
+
+===== projection.py =====
+projections: rate=486, number=81, attributable=648
+
+===== figures.py =====
+fig1_global_trends.png
+fig2_eapc_forest.png
+fig3_apc_effects.png
+fig4_metabolic_attributable.png
+fig5_sdi_quintile_trends.png
+fig6_inequality.png
+fig7_decomposition.png
+fig8_projections_2050.png
+
+===== summarize.py =====
+headline keys: ['global_1990_15_49_both', 'global_2023_15_49_both', 'global_1990_15_49_male', 'global_2023_15_49_male', 'global_1990_15_49_female', 'global_2023_15_49_female', 'global_eapc_1990_2023', 'global_aapc', 'country_eapc_extremes', 'attributable_global_1990', 'attributable_global_2023', 'attributable_eapc', 'paf_country_extremes_2023', 'sites_top10_2023_Deaths', 'sites_top10_2023_DALYs', 'sites_top10_2023_Incidence', 'sites_eapc', 'sites_attributable_2023', 'apc_ie', 'inequality', 'decomposition_global', 'projection_2050_rate', 'projection_2050_number', 'projection_2050_attributable']
+{
+  "global_1990_15_49_both": {
+    "incidence_number": {
+      "val": 1838412.267304664,
+      "low": 1646870.6716074997,
+      "high": 2093468.461966488
+    },
+    "incidence_rate": {
+      "val": 67.69412443988398,
+      "low": 60.64116855771513,
+      "high": 77.08581861407187
+    },
+    "deaths_number": {
+      "val": 876308.4293013132,
+      "low": 824341.4942148682,
+      "high": 931322.7274413437
+    },
+    "deaths_rate": {
+      "val": 32.26748043180436,
+      "low": 30.353950897072334,
+      "high": 34.29322014780625
+    },
+    "dalys_number": {
+      "val": 46264083.162522085,
+      "low": 43537326.63456477,
+      "high": 49221275.58264586
+    },
+    "dalys_rate": {
+      "val": 1703.5387863748967,
+      "low": 1603.1339974145665,
+      "high": 1812.4286992854743
+    }
+  },
+  "global_2023_15_49_both": {
+    "incidence_number": {
+      "val": 3237515.9932945115,
+      "low": 2749524.5540072797,
+      "high": 3817943.517139351
+    },
+    "incidence_rate": {
+      "val": 80.86650784694825,
+      "low": 68.6774827931423,
+      "high": 95.36439666318861
+    },
+    "deaths_number": {
+      "val": 1195700.3409588109,
+      "low": 1127814.2532214336,
+      "high": 1275575.2546362933
+    },
+    "deaths_rate": {
+      "val": 29.86614157428461,
+      "low": 28.170486368848252,
+      "high": 31.86125305699314
+    },
+    "dalys_number": {
+      "val": 62001288.400928356,
+      "low": 58122682.815009885,
+      "high": 66024873.45060286
+    },
+    "dalys_rate": {
+      "val": 1548.6649904986207,
+      "low": 1451.7853798037181,
+      "high": 1649.165890777191
+    }
+  },
+  "global_1990_15_49_male": {
+    "incidence_number": {
+      "val": 726213.01337838,
+      "low": 655139.8914859499,
+      "high": 812997.5955645656
+    },
+    "incidence_rate": {
+      "val": 52.76633488041847,
+      "low": 47.60219146562844,
+      "high": 59.072066451917415
+    },
+    "deaths_number": {
+      "val": 423994.5770466484,
+      "low": 390394.0253655241,
+      "high": 472599.14479198225
+    },
+    "deaths_rate": {
+      "val": 30.80726925540234,
+      "low": 28.365867174317263,
+      "high": 34.3388568903267
+    },
+    "dalys_number": {
+      "val": 22102554.111198887,
+      "low": 20254982.406593047,
+      "high": 24641091.434615996
+    },
+    "dalys_rate": {
+      "val": 1605.9623697991024,
+      "low": 1471.7185797748896,
+      "high": 1790.4114337049234
+    }
+  }
+}
+
+===== tables.py =====
+tables.xlsx written
+7 tables generated -> /home/rtxdf/Documents/Qoder/2026-11-08/8176a8f3/oncology-plan/results/tables
+
+Pipeline complete.

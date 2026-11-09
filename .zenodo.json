@@ -1,0 +1,16 @@
+{
+  "title": "Analysis code and derived results for: Global, regional, and national burden of early-onset cancer and its metabolic-risk-attributable fraction, 1990–2023",
+  "description": "<p>Analysis code, exact GBD Results Tool query definitions, and derived result tables for a systematic analysis of early-onset cancer (ages 15–49) and its metabolic-risk-attributable fraction using GBD 2023 (release 8352), including within-band direct age standardisation, joinpoint and age–period–cohort models, decomposition, inequality indices, 2050 scenarios, detection-effect exclusion, Newey–West inference, a GLOBOCAN 2024 external benchmark, and a site × sex decomposition.</p><p>Raw GBD and GLOBOCAN extracts are not redistributed because of the IHME and IARC terms of use; the query definitions reproduce the GBD inputs. Code is released under the MIT License; derived result tables under CC BY 4.0.</p>",
+  "creators": [
+    {"name": "Xu, Haohao", "orcid": "0009-0005-5476-1045"},
+    {"name": "Zhou, Shishi"},
+    {"name": "Fu, Jianfei", "orcid": "0000-0002-3036-1056"}
+  ],
+  "upload_type": "software",
+  "access_right": "open",
+  "license": "MIT",
+  "version": "1.0.0",
+  "publication_date": "2026-11-09",
+  "keywords": ["Global Burden of Disease", "early-onset cancer", "metabolic risk", "age standardisation", "health inequality", "GLOBOCAN"],
+  "notes": "Derived tables in results/ are released under CC BY 4.0. GBD 2023 and GLOBOCAN 2024 estimates remain subject to the IHME and IARC terms of use."
+}

@@ -1,0 +1,48 @@
+{
+  "generated_by": "scripts/site_paf.py",
+  "year": 2023,
+  "population": "Global, both sexes, age 15-49 (age id 24)",
+  "n_sites": 14,
+  "sites": [
+    "Bladder cancer",
+    "Breast cancer",
+    "Colon and rectum cancer",
+    "Gallbladder and biliary tract cancer",
+    "Kidney cancer",
+    "Leukemia",
+    "Liver cancer",
+    "Multiple myeloma",
+    "Non-Hodgkin lymphoma",
+    "Ovarian cancer",
+    "Pancreatic cancer",
+    "Thyroid cancer",
+    "Tracheal, bronchus, and lung cancer",
+    "Uterine cancer"
+  ],
+  "paf_definition": "PAF = metabolic-attributable burden (rei 104) / total burden for the same site and measure x 100. Risk panels are cause-410 queries re-based to the cause-1059 denominator by fix_paf.py; attributable counts are identical under either denominator.",
+  "paf_ui_method": "paf_low/high = paf_point x (attributable_low/high / attributable_point); total-site UI treated as negligible; bounds re-ordered after scaling.",
+  "reconciliation_2023": {
+    "sum_14_site_attributable_deaths": 47303.09628718498,
+    "global_risk104_attributable_deaths": 47303.096287185,
+    "difference": -2.1827872842550278e-11,
+    "sum_14_site_attributable_dalys": 2348854.536937775,
+    "global_risk104_attributable_dalys": 2348854.5369377756,
+    "difference_dalys": -4.656612873077393e-10,
+    "all_cancer_total_deaths_2023": 1195700.3409588109,
+    "all_cancer_total_dalys_2023": 62001288.400928356,
+    "site_burden_share_of_all_cancer_deaths_percent": 3.9560995900740035,
+    "site_burden_share_of_all_cancer_dalys_percent": 3.78839633420038
+  },
+  "paf_over_100_check": {
+    "max_paf_percent_deaths": 30.728235369817874,
+    "max_paf_percent_dalys": 30.53897970074255,
+    "n_over_100": 0,
+    "statement": "PAFs cannot exceed 100% here; they exceed 100% only if the attributable definition overlaps/aggregates beyond the site denominator. No such case occurs in this table."
+  },
+  "negative_point_estimates_by_risk": {
+    "Metabolic risks": 0,
+    "High fasting plasma glucose": 0,
+    "High body-mass index": 2
+  },
+  "sub_risk_caveat": "rei 105 (FPG) and 108 (BMI) are sub-risks of rei 104 and are not mutually exclusive; a few negative site-level ensemble estimates yield negative PAFs and must not be summed."
+}

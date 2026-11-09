@@ -1,0 +1,48 @@
+{
+  "n_series": 82,
+  "n_significance_changed": 4,
+  "changed_series": [
+    {
+      "analysis": "Site ASR",
+      "series": "Gallbladder and biliary tract cancer",
+      "measure": "Incidence",
+      "period": "1990-2023",
+      "p_conv": 0.009968636204554349,
+      "p_hac": 0.14678356388409197
+    },
+    {
+      "analysis": "Site ASR",
+      "series": "Mesothelioma",
+      "measure": "Incidence",
+      "period": "1990-2023",
+      "p_conv": 0.005675731026059783,
+      "p_hac": 0.17648687166921118
+    },
+    {
+      "analysis": "Site ASR",
+      "series": "Nasopharynx cancer",
+      "measure": "Incidence",
+      "period": "1990-2023",
+      "p_conv": 0.02133811790568374,
+      "p_hac": 0.19232894311749527
+    },
+    {
+      "analysis": "Site ASR",
+      "series": "Mesothelioma",
+      "measure": "Deaths",
+      "period": "1990-2023",
+      "p_conv": 0.04191606459065156,
+      "p_hac": 0.32046916890433175
+    }
+  ],
+  "se_ratio_median": 1.8267318711314946,
+  "se_ratio_p95": 1.9471520539746627,
+  "se_ratio_max": 2.047674258924603,
+  "max_se_ratio_series": {
+    "analysis": "Site ASR",
+    "series": "Mesothelioma",
+    "measure": "Deaths",
+    "period": "1990-2023"
+  },
+  "direction_disagreements": 0
+}

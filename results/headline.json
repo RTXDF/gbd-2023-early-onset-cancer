@@ -1,0 +1,4230 @@
+{
+  "global_1990_15_49_both": {
+    "incidence_number": {
+      "val": 1838412.267304664,
+      "low": 1646870.6716074997,
+      "high": 2093468.461966488
+    },
+    "incidence_rate": {
+      "val": 67.69412443988398,
+      "low": 60.64116855771513,
+      "high": 77.08581861407187
+    },
+    "deaths_number": {
+      "val": 876308.4293013132,
+      "low": 824341.4942148682,
+      "high": 931322.7274413437
+    },
+    "deaths_rate": {
+      "val": 32.26748043180436,
+      "low": 30.353950897072334,
+      "high": 34.29322014780625
+    },
+    "dalys_number": {
+      "val": 46264083.162522085,
+      "low": 43537326.63456477,
+      "high": 49221275.58264586
+    },
+    "dalys_rate": {
+      "val": 1703.5387863748967,
+      "low": 1603.1339974145665,
+      "high": 1812.4286992854743
+    }
+  },
+  "global_2023_15_49_both": {
+    "incidence_number": {
+      "val": 3237515.9932945115,
+      "low": 2749524.5540072797,
+      "high": 3817943.517139351
+    },
+    "incidence_rate": {
+      "val": 80.86650784694825,
+      "low": 68.6774827931423,
+      "high": 95.36439666318861
+    },
+    "deaths_number": {
+      "val": 1195700.3409588109,
+      "low": 1127814.2532214336,
+      "high": 1275575.2546362933
+    },
+    "deaths_rate": {
+      "val": 29.86614157428461,
+      "low": 28.170486368848252,
+      "high": 31.86125305699314
+    },
+    "dalys_number": {
+      "val": 62001288.400928356,
+      "low": 58122682.815009885,
+      "high": 66024873.45060286
+    },
+    "dalys_rate": {
+      "val": 1548.6649904986207,
+      "low": 1451.7853798037181,
+      "high": 1649.165890777191
+    }
+  },
+  "global_1990_15_49_male": {
+    "incidence_number": {
+      "val": 726213.01337838,
+      "low": 655139.8914859499,
+      "high": 812997.5955645656
+    },
+    "incidence_rate": {
+      "val": 52.76633488041847,
+      "low": 47.60219146562844,
+      "high": 59.072066451917415
+    },
+    "deaths_number": {
+      "val": 423994.5770466484,
+      "low": 390394.0253655241,
+      "high": 472599.14479198225
+    },
+    "deaths_rate": {
+      "val": 30.80726925540234,
+      "low": 28.365867174317263,
+      "high": 34.3388568903267
+    },
+    "dalys_number": {
+      "val": 22102554.111198887,
+      "low": 20254982.406593047,
+      "high": 24641091.434615996
+    },
+    "dalys_rate": {
+      "val": 1605.9623697991024,
+      "low": 1471.7185797748896,
+      "high": 1790.4114337049234
+    }
+  },
+  "global_2023_15_49_male": {
+    "incidence_number": {
+      "val": 1106909.9611926673,
+      "low": 944722.9976440864,
+      "high": 1290064.3242171567
+    },
+    "incidence_rate": {
+      "val": 54.50475818062408,
+      "low": 46.51859712129072,
+      "high": 63.52336368275532
+    },
+    "deaths_number": {
+      "val": 511943.71471231664,
+      "low": 474792.7878625965,
+      "high": 555820.0754815456
+    },
+    "deaths_rate": {
+      "val": 25.208345168761564,
+      "low": 23.379016356914693,
+      "high": 27.368837455772788
+    },
+    "dalys_number": {
+      "val": 26199465.305579502,
+      "low": 24287427.16928313,
+      "high": 28488293.657319963
+    },
+    "dalys_rate": {
+      "val": 1290.0737828789909,
+      "low": 1195.9241411694923,
+      "high": 1402.776748975848
+    }
+  },
+  "global_1990_15_49_female": {
+    "incidence_number": {
+      "val": 1112199.2539262832,
+      "low": 964569.5142318163,
+      "high": 1268638.821606635
+    },
+    "incidence_rate": {
+      "val": 83.03201261986895,
+      "low": 72.01061122429545,
+      "high": 94.71111788093287
+    },
+    "deaths_number": {
+      "val": 452313.8522546642,
+      "low": 409767.8281074198,
+      "high": 491165.9728856901
+    },
+    "deaths_rate": {
+      "val": 33.76780676301379,
+      "low": 30.591503594810607,
+      "high": 36.66833898253802
+    },
+    "dalys_number": {
+      "val": 24161529.05132319,
+      "low": 21866680.127145465,
+      "high": 26240542.36698515
+    },
+    "dalys_rate": {
+      "val": 1803.7958378614117,
+      "low": 1632.4722875530003,
+      "high": 1959.0060299681952
+    }
+  },
+  "global_2023_15_49_female": {
+    "incidence_number": {
+      "val": 2130606.0321018416,
+      "low": 1805878.0174225932,
+      "high": 2539624.9337721956
+    },
+    "incidence_rate": {
+      "val": 108.00559299697173,
+      "low": 91.5443414752332,
+      "high": 128.73975424324237
+    },
+    "deaths_number": {
+      "val": 683756.6262464939,
+      "low": 624883.068442492,
+      "high": 748670.0526525889
+    },
+    "deaths_rate": {
+      "val": 34.66128358348298,
+      "low": 31.676839990131295,
+      "high": 37.951902781410965
+    },
+    "dalys_number": {
+      "val": 35801823.09534888,
+      "low": 32686329.984038413,
+      "high": 39036620.44378137
+    },
+    "dalys_rate": {
+      "val": 1814.8813415172954,
+      "low": 1656.9494311147328,
+      "high": 1978.861073376884
+    }
+  },
+  "global_eapc_1990_2023": {
+    "Deaths": {
+      "eapc": -0.6605302596532581,
+      "low": -0.7986150370907663,
+      "high": -0.5222532731476326
+    },
+    "DALYs": {
+      "eapc": -0.7131705858051784,
+      "low": -0.8540851809939687,
+      "high": -0.5720557108249813
+    },
+    "Incidence": {
+      "eapc": 0.14882252869579116,
+      "low": 0.030611101975197563,
+      "high": 0.2671736520677648
+    }
+  },
+  "global_aapc": {
+    "Deaths": {
+      "aapc": -0.16664399001784513,
+      "low": -0.21170390956612994,
+      "high": -0.12156372343057331,
+      "jp": "1999;2012;2019"
+    },
+    "DALYs": {
+      "aapc": -0.21932359803186197,
+      "low": -0.26100924636272005,
+      "high": -0.17762052729413114,
+      "jp": "1999;2012;2019"
+    },
+    "Incidence": {
+      "aapc": 0.6098458835463116,
+      "low": 0.5743714178384929,
+      "high": 0.6453328617630261,
+      "jp": "1998;2013;2019"
+    }
+  },
+  "country_eapc_extremes": {
+    "DALYs": {
+      "top5_increase": [
+        {
+          "location": "Solomon Islands",
+          "eapc": 2.2575374704365325,
+          "ci_low": 2.0320837436633266,
+          "ci_high": 2.483489367795433
+        },
+        {
+          "location": "Cabo Verde",
+          "eapc": 2.2865732958995633,
+          "ci_low": 1.8887360594689984,
+          "ci_high": 2.6859639372776467
+        },
+        {
+          "location": "Indonesia",
+          "eapc": 2.3342092352319987,
+          "ci_low": 2.2156948241069507,
+          "ci_high": 2.4528610583823607
+        },
+        {
+          "location": "Zimbabwe",
+          "eapc": 2.5577072681247204,
+          "ci_low": 1.590854991042101,
+          "ci_high": 3.533761193581908
+        },
+        {
+          "location": "Morocco",
+          "eapc": 2.631277167637136,
+          "ci_low": 2.4361943573733225,
+          "ci_high": 2.8267314999308235
+        }
+      ],
+      "top5_decrease": [
+        {
+          "location": "Rwanda",
+          "eapc": -3.1550186408589864,
+          "ci_low": -4.104147033423811,
+          "ci_high": -2.1964962580672265
+        },
+        {
+          "location": "Mozambique",
+          "eapc": -2.9226428699994367,
+          "ci_low": -3.1113137376886146,
+          "ci_high": -2.7336046044469153
+        },
+        {
+          "location": "United Arab Emirates",
+          "eapc": -2.8959550605000883,
+          "ci_low": -3.3015401796337662,
+          "ci_high": -2.4886687840866673
+        },
+        {
+          "location": "Luxembourg",
+          "eapc": -2.827414455493804,
+          "ci_low": -3.0202857371746217,
+          "ci_high": -2.634159595333907
+        },
+        {
+          "location": "Denmark",
+          "eapc": -2.80252551841923,
+          "ci_low": -2.9516828068297807,
+          "ci_high": -2.6531389844397846
+        }
+      ],
+      "n_countries": 204
+    },
+    "Deaths": {
+      "top5_increase": [
+        {
+          "location": "Solomon Islands",
+          "eapc": 2.3452153725793456,
+          "ci_low": 2.107296715740481,
+          "ci_high": 2.583688400056694
+        },
+        {
+          "location": "Indonesia",
+          "eapc": 2.4882960638428653,
+          "ci_low": 2.3559569117080015,
+          "ci_high": 2.6208063213214228
+        },
+        {
+          "location": "Cabo Verde",
+          "eapc": 2.544350530775641,
+          "ci_low": 2.1495626652174415,
+          "ci_high": 2.9406641733878525
+        },
+        {
+          "location": "Morocco",
+          "eapc": 2.7306255641789567,
+          "ci_low": 2.5393063984621156,
+          "ci_high": 2.922301695672669
+        },
+        {
+          "location": "Zimbabwe",
+          "eapc": 2.8299053661350326,
+          "ci_low": 1.8449960749427063,
+          "ci_high": 3.824339389511189
+        }
+      ],
+      "top5_decrease": [
+        {
+          "location": "Mozambique",
+          "eapc": -2.9911012307017204,
+          "ci_low": -3.18881031874354,
+          "ci_high": -2.7929883785534626
+        },
+        {
+          "location": "Denmark",
+          "eapc": -2.945873702281321,
+          "ci_low": -3.108440745800245,
+          "ci_high": -2.7830338997744897
+        },
+        {
+          "location": "Rwanda",
+          "eapc": -2.937067683925887,
+          "ci_low": -3.8888482145349568,
+          "ci_high": -1.9758617519807786
+        },
+        {
+          "location": "United Arab Emirates",
+          "eapc": -2.897107423511358,
+          "ci_low": -3.3670108830148093,
+          "ci_high": -2.4249189341928212
+        },
+        {
+          "location": "Hungary",
+          "eapc": -2.853952486118405,
+          "ci_low": -3.1584111239908674,
+          "ci_high": -2.5485366658695385
+        }
+      ],
+      "n_countries": 204
+    },
+    "Incidence": {
+      "top5_increase": [
+        {
+          "location": "Cabo Verde",
+          "eapc": 3.089925639322022,
+          "ci_low": 2.5560519608091026,
+          "ci_high": 3.6265784917516086
+        },
+        {
+          "location": "Indonesia",
+          "eapc": 3.111528100204608,
+          "ci_low": 2.967368223096112,
+          "ci_high": 3.25588980892757
+        },
+        {
+          "location": "Viet Nam",
+          "eapc": 3.178541434500337,
+          "ci_low": 3.0744845571087254,
+          "ci_high": 3.2827033605252742
+        },
+        {
+          "location": "Lebanon",
+          "eapc": 3.474855734875293,
+          "ci_low": 3.242736606529051,
+          "ci_high": 3.707496733248572
+        },
+        {
+          "location": "Morocco",
+          "eapc": 4.144281983395515,
+          "ci_low": 3.9113766074872602,
+          "ci_high": 4.3777093898638375
+        }
+      ],
+      "top5_decrease": [
+        {
+          "location": "Mozambique",
+          "eapc": -2.839365996554899,
+          "ci_low": -3.0445103461659295,
+          "ci_high": -2.6337875899933194
+        },
+        {
+          "location": "Rwanda",
+          "eapc": -2.3160068432112713,
+          "ci_low": -3.310997008950789,
+          "ci_high": -1.3107776078847944
+        },
+        {
+          "location": "United Arab Emirates",
+          "eapc": -1.6655947701579965,
+          "ci_low": -2.1409238686410648,
+          "ci_high": -1.1879568643491711
+        },
+        {
+          "location": "Madagascar",
+          "eapc": -1.6177243375862016,
+          "ci_low": -2.1129229382316317,
+          "ci_high": -1.1200205885448677
+        },
+        {
+          "location": "Tajikistan",
+          "eapc": -1.5007322206180507,
+          "ci_low": -2.0315480875658043,
+          "ci_high": -0.9670402697973479
+        }
+      ],
+      "n_countries": 204
+    }
+  },
+  "attributable_global_1990": {
+    "Metabolic risks|Deaths|Number": {
+      "val": 23655.410325051245,
+      "low": 17453.830641675067,
+      "high": 33059.96522655419
+    },
+    "Metabolic risks|Deaths|Percent": {
+      "val": 2.6994388658239736,
+      "low": 2.0314432259439648,
+      "high": 3.7237134468414146
+    },
+    "Metabolic risks|Deaths|Rate": {
+      "val": 0.8710409077982727,
+      "low": 0.6426859766022268,
+      "high": 1.2173359805228703
+    },
+    "Metabolic risks|DALYs|Number": {
+      "val": 1187593.5663103678,
+      "low": 875609.863386392,
+      "high": 1643861.5362929255
+    },
+    "Metabolic risks|DALYs|Percent": {
+      "val": 2.566988223106994,
+      "low": 1.9249984912531042,
+      "high": 3.5199854964488164
+    },
+    "Metabolic risks|DALYs|Rate": {
+      "val": 43.729640022303414,
+      "low": 32.241757796672346,
+      "high": 60.53036600049554
+    },
+    "High fasting plasma glucose|Deaths|Number": {
+      "val": 11961.330914954924,
+      "low": 6872.343870028794,
+      "high": 20218.59196598678
+    },
+    "High fasting plasma glucose|Deaths|Percent": {
+      "val": 1.3649681453471554,
+      "low": 0.8088588471961478,
+      "high": 2.3247715421973076
+    },
+    "High fasting plasma glucose|Deaths|Rate": {
+      "val": 0.44044082920025646,
+      "low": 0.2530538494575366,
+      "high": 0.7444901804051812
+    },
+    "High fasting plasma glucose|DALYs|Number": {
+      "val": 580988.5230691178,
+      "low": 331194.06999433605,
+      "high": 990860.6219625456
+    },
+    "High fasting plasma glucose|DALYs|Percent": {
+      "val": 1.2558090063692624,
+      "low": 0.7429475766279229,
+      "high": 2.1502664394532167
+    },
+    "High fasting plasma glucose|DALYs|Rate": {
+      "val": 21.393193506289613,
+      "low": 12.195247489736628,
+      "high": 36.48552799533597
+    },
+    "High body-mass index|Deaths|Number": {
+      "val": 11795.489153210538,
+      "low": 8268.007384276927,
+      "high": 16214.79787466397
+    },
+    "High body-mass index|Deaths|Percent": {
+      "val": 1.346043100671206,
+      "low": 0.946156436044558,
+      "high": 1.8604049217432848
+    },
+    "High body-mass index|Deaths|Rate": {
+      "val": 0.4343341941127341,
+      "low": 0.304445053318592,
+      "high": 0.5970622393117254
+    },
+    "High body-mass index|DALYs|Number": {
+      "val": 611460.022434684,
+      "low": 428489.67922771716,
+      "high": 849503.459582235
+    },
+    "High body-mass index|DALYs|Percent": {
+      "val": 1.3216732735990315,
+      "low": 0.9288549923784686,
+      "high": 1.8348588064302995
+    },
+    "High body-mass index|DALYs|Rate": {
+      "val": 22.515216844910313,
+      "low": 15.7778721251538,
+      "high": 31.280466263088595
+    }
+  },
+  "attributable_global_2023": {
+    "Metabolic risks|Deaths|Number": {
+      "val": 47303.096287185,
+      "low": 36853.65052627222,
+      "high": 63466.27510747051
+    },
+    "Metabolic risks|Deaths|Percent": {
+      "val": 3.9560995900740052,
+      "low": 3.098665053676038,
+      "high": 5.235091365956009
+    },
+    "Metabolic risks|Deaths|Rate": {
+      "val": 1.181534304391194,
+      "low": 0.9205285860036143,
+      "high": 1.5852573530523926
+    },
+    "Metabolic risks|DALYs|Number": {
+      "val": 2348854.5369377756,
+      "low": 1826433.6297761584,
+      "high": 3127277.667735953
+    },
+    "Metabolic risks|DALYs|Percent": {
+      "val": 3.788396334200381,
+      "low": 2.964109234843611,
+      "high": 5.01588493441832
+    },
+    "Metabolic risks|DALYs|Rate": {
+      "val": 58.6695677290944,
+      "low": 45.62056519879197,
+      "high": 78.11298062506606
+    },
+    "High fasting plasma glucose|Deaths|Number": {
+      "val": 21339.604793822647,
+      "low": 14048.689573299087,
+      "high": 32796.7653923966
+    },
+    "High fasting plasma glucose|Deaths|Percent": {
+      "val": 1.7846950496569063,
+      "low": 1.166822574407739,
+      "high": 2.6867390275875915
+    },
+    "High fasting plasma glucose|Deaths|Rate": {
+      "val": 0.5330195501997801,
+      "low": 0.3509074450818274,
+      "high": 0.8191959179358098
+    },
+    "High fasting plasma glucose|DALYs|Number": {
+      "val": 1033663.2326279313,
+      "low": 677494.9760298152,
+      "high": 1599128.29457244
+    },
+    "High fasting plasma glucose|DALYs|Percent": {
+      "val": 1.6671641175321998,
+      "low": 1.0785135724269084,
+      "high": 2.532435760921091
+    },
+    "High fasting plasma glucose|DALYs|Rate": {
+      "val": 25.818787022376437,
+      "low": 16.922434640896384,
+      "high": 39.94294423538177
+    },
+    "High body-mass index|Deaths|Number": {
+      "val": 26285.858150608226,
+      "low": 19029.920125473,
+      "high": 35500.7865601172
+    },
+    "High body-mass index|Deaths|Percent": {
+      "val": 2.1983650292789965,
+      "low": 1.5518546108956512,
+      "high": 2.954968157889206
+    },
+    "High body-mass index|Deaths|Rate": {
+      "val": 0.6565668119640273,
+      "low": 0.4753283654322236,
+      "high": 0.8867368194883235
+    },
+    "High body-mass index|DALYs|Number": {
+      "val": 1329722.2633849792,
+      "low": 973480.6820458143,
+      "high": 1794380.4915444062
+    },
+    "High body-mass index|DALYs|Percent": {
+      "val": 2.1446687604076775,
+      "low": 1.5386923109234847,
+      "high": 2.8596274844855474
+    },
+    "High body-mass index|DALYs|Rate": {
+      "val": 33.21373425459441,
+      "low": 24.315550371506454,
+      "high": 44.81994356180057
+    }
+  },
+  "attributable_eapc": [
+    {
+      "risk": "Metabolic risks",
+      "measure": "Deaths",
+      "metric": "Number",
+      "period": "1990-2023",
+      "n_years": 34,
+      "year_start": 1990,
+      "year_end": 2023,
+      "eapc": 1.6231236875915211,
+      "ci_low": 1.4779007966540414,
+      "ci_high": 1.768554403955891,
+      "pvalue": 6.2985836397535155e-21
+    },
+    {
+      "risk": "Metabolic risks",
+      "measure": "Deaths",
+      "metric": "Number",
+      "period": "2013-2023",
+      "n_years": 11,
+      "year_start": 2013,
+      "year_end": 2023,
+      "eapc": 2.524807982911903,
+      "ci_low": 2.1708262016916002,
+      "ci_high": 2.880016171964006,
+      "pvalue": 1.8931391116064895e-07
+    },
+    {
+      "risk": "Metabolic risks",
+      "measure": "Deaths",
+      "metric": "Percent",
+      "period": "1990-2023",
+      "n_years": 34,
+      "year_start": 1990,
+      "year_end": 2023,
+      "eapc": 1.0980913846257545,
+      "ci_low": 1.0678796295160442,
+      "ci_high": 1.1283121707960753,
+      "pvalue": 6.697969644108228e-37
+    },
+    {
+      "risk": "Metabolic risks",
+      "measure": "Deaths",
+      "metric": "Percent",
+      "period": "2013-2023",
+      "n_years": 11,
+      "year_start": 2013,
+      "year_end": 2023,
+      "eapc": 1.004267217311039,
+      "ci_low": 0.9513066856791319,
+      "ci_high": 1.057255532812218,
+      "pvalue": 3.512750469449488e-11
+    },
+    {
+      "risk": "Metabolic risks",
+      "measure": "Deaths",
+      "metric": "Rate",
+      "period": "1990-2023",
+      "n_years": 34,
+      "year_start": 1990,
+      "year_end": 2023,
+      "eapc": 0.4303078990983922,
+      "ci_low": 0.28364655373738223,
+      "ci_high": 0.5771837315763362,
+      "pvalue": 2.184940380885513e-06
+    },
+    {
+      "risk": "Metabolic risks",
+      "measure": "Deaths",
+      "metric": "Rate",
+      "period": "2013-2023",
+      "n_years": 11,
+      "year_start": 2013,
+      "year_end": 2023,
+      "eapc": 1.8726473280637812,
+      "ci_low": 1.5306004231692372,
+      "ci_high": 2.215846556343215,
+      "pvalue": 1.8613709146160482e-06
+    },
+    {
+      "risk": "Metabolic risks",
+      "measure": "DALYs",
+      "metric": "Number",
+      "period": "1990-2023",
+      "n_years": 34,
+      "year_start": 1990,
+      "year_end": 2023,
+      "eapc": 1.5777160898592602,
+      "ci_low": 1.4330609067996436,
+      "ci_high": 1.7225775678073152,
+      "pvalue": 1.3218729065876965e-20
+    },
+    {
+      "risk": "Metabolic risks",
+      "measure": "DALYs",
+      "metric": "Number",
+      "period": "2013-2023",
+      "n_years": 11,
+      "year_start": 2013,
+      "year_end": 2023,
+      "eapc": 2.5899410684856905,
+      "ci_low": 2.2333286747797665,
+      "ci_high": 2.9477974048568,
+      "pvalue": 1.6149041036990742e-07
+    },
+    {
+      "risk": "Metabolic risks",
+      "measure": "DALYs",
+      "metric": "Percent",
+      "period": "1990-2023",
+      "n_years": 34,
+      "year_start": 1990,
+      "year_end": 2023,
+      "eapc": 1.1064950625922165,
+      "ci_low": 1.0732948287997424,
+      "ci_high": 1.139706201891677,
+      "pvalue": 1.0534046137256642e-35
+    },
+    {
+      "risk": "Metabolic risks",
+      "measure": "DALYs",
+      "metric": "Percent",
+      "period": "2013-2023",
+      "n_years": 11,
+      "year_start": 2013,
+      "year_end": 2023,
+      "eapc": 1.0292708074533863,
+      "ci_low": 0.9817987466726796,
+      "ci_high": 1.0767651850930093,
+      "pvalue": 1.0567923741206033e-11
+    },
+    {
+      "risk": "Metabolic risks",
+      "measure": "DALYs",
+      "metric": "Rate",
+      "period": "1990-2023",
+      "n_years": 34,
+      "year_start": 1990,
+      "year_end": 2023,
+      "eapc": 0.38543327946725103,
+      "ci_low": 0.2341092674980727,
+      "ci_high": 0.5369857461686944,
+      "pvalue": 1.9987033327259714e-05
+    },
+    {
+      "risk": "Metabolic risks",
+      "measure": "DALYs",
+      "metric": "Rate",
+      "period": "2013-2023",
+      "n_years": 11,
+      "year_start": 2013,
+      "year_end": 2023,
+      "eapc": 1.9373661018570631,
+      "ci_low": 1.5926971750925834,
+      "ci_high": 2.2832043712256667,
+      "pvalue": 1.4869573456748336e-06
+    },
+    {
+      "risk": "High fasting plasma glucose",
+      "measure": "Deaths",
+      "metric": "Number",
+      "period": "1990-2023",
+      "n_years": 34,
+      "year_start": 1990,
+      "year_end": 2023,
+      "eapc": 1.1723139612161315,
+      "ci_low": 1.0145779837227087,
+      "ci_high": 1.3302962461148038,
+      "pvalue": 9.821139842876572e-16
+    },
+    {
+      "risk": "High fasting plasma glucose",
+      "measure": "Deaths",
+      "metric": "Number",
+      "period": "2013-2023",
+      "n_years": 11,
+      "year_start": 2013,
+      "year_end": 2023,
+      "eapc": 2.6416377360136023,
+      "ci_low": 2.152120133429336,
+      "ci_high": 3.1335011291984793,
+      "pvalue": 2.048427167130971e-06
+    },
+    {
+      "risk": "High fasting plasma glucose",
+      "measure": "Deaths",
+      "metric": "Percent",
+      "period": "1990-2023",
+      "n_years": 34,
+      "year_start": 1990,
+      "year_end": 2023,
+      "eapc": 0.6496107508844773,
+      "ci_low": 0.5844981055460385,
+      "ci_high": 0.7147655464216696,
+      "pvalue": 2.1344111736401906e-19
+    },
+    {
+      "risk": "High fasting plasma glucose",
+      "measure": "Deaths",
+      "metric": "Percent",
+      "period": "2013-2023",
+      "n_years": 11,
+      "year_start": 2013,
+      "year_end": 2023,
+      "eapc": 1.119364273656509,
+      "ci_low": 0.9995980897071988,
+      "ci_high": 1.2392724773671482,
+      "pvalue": 1.8832639601850646e-08
+    },
+    {
+      "risk": "High fasting plasma glucose",
+      "measure": "Deaths",
+      "metric": "Rate",
+      "period": "1990-2023",
+      "n_years": 34,
+      "year_start": 1990,
+      "year_end": 2023,
+      "eapc": -0.015210384348318673,
+      "ci_low": -0.20093915699785914,
+      "ci_high": 0.17086403460988553,
+      "pvalue": 0.8736123548217463
+    },
+    {
+      "risk": "High fasting plasma glucose",
+      "measure": "Deaths",
+      "metric": "Rate",
+      "period": "2013-2023",
+      "n_years": 11,
+      "year_start": 2013,
+      "year_end": 2023,
+      "eapc": 1.9887339267057325,
+      "ci_low": 1.5126531583246283,
+      "ci_high": 2.4670474502259454,
+      "pvalue": 1.7314096771741422e-05
+    },
+    {
+      "risk": "High fasting plasma glucose",
+      "measure": "DALYs",
+      "metric": "Number",
+      "period": "1990-2023",
+      "n_years": 34,
+      "year_start": 1990,
+      "year_end": 2023,
+      "eapc": 1.1429006192181124,
+      "ci_low": 0.9782082921211188,
+      "ci_high": 1.3078615543946626,
+      "pvalue": 6.6010736649599605e-15
+    },
+    {
+      "risk": "High fasting plasma glucose",
+      "measure": "DALYs",
+      "metric": "Number",
+      "period": "2013-2023",
+      "n_years": 11,
+      "year_start": 2013,
+      "year_end": 2023,
+      "eapc": 2.7718485142293137,
+      "ci_low": 2.271807037361273,
+      "ci_high": 3.274334863108841,
+      "pvalue": 1.6261514184738562e-06
+    },
+    {
+      "risk": "High fasting plasma glucose",
+      "measure": "DALYs",
+      "metric": "Percent",
+      "period": "1990-2023",
+      "n_years": 34,
+      "year_start": 1990,
+      "year_end": 2023,
+      "eapc": 0.6736967094905788,
+      "ci_low": 0.6032097782588952,
+      "ci_high": 0.7442330268947694,
+      "pvalue": 7.551883893127122e-19
+    },
+    {
+      "risk": "High fasting plasma glucose",
+      "measure": "DALYs",
+      "metric": "Percent",
+      "period": "2013-2023",
+      "n_years": 11,
+      "year_start": 2013,
+      "year_end": 2023,
+      "eapc": 1.208410949328087,
+      "ci_low": 1.0791514424462134,
+      "ci_high": 1.337835752612615,
+      "pvalue": 1.8724136925941418e-08
+    },
+    {
+      "risk": "High fasting plasma glucose",
+      "measure": "DALYs",
+      "metric": "Rate",
+      "period": "1990-2023",
+      "n_years": 34,
+      "year_start": 1990,
+      "year_end": 2023,
+      "eapc": -0.044278483084236875,
+      "ci_low": -0.24100844118380982,
+      "ci_high": 0.152839436800134,
+      "pvalue": 0.6624634117428674
+    },
+    {
+      "risk": "High fasting plasma glucose",
+      "measure": "DALYs",
+      "metric": "Rate",
+      "period": "2013-2023",
+      "n_years": 11,
+      "year_start": 2013,
+      "year_end": 2023,
+      "eapc": 2.118116433715067,
+      "ci_low": 1.6315862642078294,
+      "ci_high": 2.60697571776769,
+      "pvalue": 1.2342825681485177e-05
+    },
+    {
+      "risk": "High body-mass index",
+      "measure": "Deaths",
+      "metric": "Number",
+      "period": "1990-2023",
+      "n_years": 34,
+      "year_start": 1990,
+      "year_end": 2023,
+      "eapc": 2.0330778973199903,
+      "ci_low": 1.8678973372656227,
+      "ci_high": 2.1985263005137146,
+      "pvalue": 3.2153722777817037e-22
+    },
+    {
+      "risk": "High body-mass index",
+      "measure": "Deaths",
+      "metric": "Number",
+      "period": "2013-2023",
+      "n_years": 11,
+      "year_start": 2013,
+      "year_end": 2023,
+      "eapc": 2.439146193324304,
+      "ci_low": 2.183839769817042,
+      "ci_high": 2.6950905001801306,
+      "pvalue": 1.4751611388478683e-08
+    },
+    {
+      "risk": "High body-mass index",
+      "measure": "Deaths",
+      "metric": "Percent",
+      "period": "1990-2023",
+      "n_years": 34,
+      "year_start": 1990,
+      "year_end": 2023,
+      "eapc": 1.505927580313382,
+      "ci_low": 1.4264227086336456,
+      "ci_high": 1.5854947732744318,
+      "pvalue": 5.602190433116536e-28
+    },
+    {
+      "risk": "High body-mass index",
+      "measure": "Deaths",
+      "metric": "Percent",
+      "period": "2013-2023",
+      "n_years": 11,
+      "year_start": 2013,
+      "year_end": 2023,
+      "eapc": 0.9198758738299118,
+      "ci_low": 0.7666305477086022,
+      "ci_high": 1.0733542545830144,
+      "pvalue": 8.820675003103501e-07
+    },
+    {
+      "risk": "High body-mass index",
+      "measure": "Deaths",
+      "metric": "Rate",
+      "period": "1990-2023",
+      "n_years": 34,
+      "year_start": 1990,
+      "year_end": 2023,
+      "eapc": 0.8354502133037123,
+      "ci_low": 0.6983640643741573,
+      "ci_high": 0.9727229850488461,
+      "pvalue": 2.2595409475355944e-13
+    },
+    {
+      "risk": "High body-mass index",
+      "measure": "Deaths",
+      "metric": "Rate",
+      "period": "2013-2023",
+      "n_years": 11,
+      "year_start": 2013,
+      "year_end": 2023,
+      "eapc": 1.7875304334132203,
+      "ci_low": 1.5421649004231153,
+      "ci_high": 2.033488865371358,
+      "pvalue": 1.6187907846026217e-07
+    },
+    {
+      "risk": "High body-mass index",
+      "measure": "DALYs",
+      "metric": "Number",
+      "period": "1990-2023",
+      "n_years": 34,
+      "year_start": 1990,
+      "year_end": 2023,
+      "eapc": 1.9498171634743988,
+      "ci_low": 1.791019324589005,
+      "ci_high": 2.1088627329926224,
+      "pvalue": 3.4994129483792815e-22
+    },
+    {
+      "risk": "High body-mass index",
+      "measure": "DALYs",
+      "metric": "Number",
+      "period": "2013-2023",
+      "n_years": 11,
+      "year_start": 2013,
+      "year_end": 2023,
+      "eapc": 2.4569414474633344,
+      "ci_low": 2.1994400716305096,
+      "ci_high": 2.7150916229227384,
+      "pvalue": 1.4910218484739386e-08
+    },
+    {
+      "risk": "High body-mass index",
+      "measure": "DALYs",
+      "metric": "Percent",
+      "period": "1990-2023",
+      "n_years": 34,
+      "year_start": 1990,
+      "year_end": 2023,
+      "eapc": 1.4768699519918993,
+      "ci_low": 1.3973031406963266,
+      "ci_high": 1.5564991996369848,
+      "pvalue": 1.0608764775369332e-27
+    },
+    {
+      "risk": "High body-mass index",
+      "measure": "DALYs",
+      "metric": "Percent",
+      "period": "2013-2023",
+      "n_years": 11,
+      "year_start": 2013,
+      "year_end": 2023,
+      "eapc": 0.8982944701087403,
+      "ci_low": 0.7486249663186229,
+      "ci_high": 1.0481863189717666,
+      "pvalue": 8.837153001515321e-07
+    },
+    {
+      "risk": "High body-mass index",
+      "measure": "DALYs",
+      "metric": "Rate",
+      "period": "1990-2023",
+      "n_years": 34,
+      "year_start": 1990,
+      "year_end": 2023,
+      "eapc": 0.7531667640985118,
+      "ci_low": 0.6172195662090152,
+      "ci_high": 0.8892976446687406,
+      "pvalue": 2.692083336340877e-12
+    },
+    {
+      "risk": "High body-mass index",
+      "measure": "DALYs",
+      "metric": "Rate",
+      "period": "2013-2023",
+      "n_years": 11,
+      "year_start": 2013,
+      "year_end": 2023,
+      "eapc": 1.8052124918797263,
+      "ci_low": 1.5576544123694802,
+      "ci_high": 2.0533740217461682,
+      "pvalue": 1.6045120983580002e-07
+    }
+  ],
+  "paf_country_extremes_2023": {
+    "highest": [
+      {
+        "location_id": 369,
+        "location": "Nauru",
+        "risk": "Metabolic risks",
+        "measure": "Deaths",
+        "metric": "Percent",
+        "val": 0.10389916405268416,
+        "lower": 0.06687364678826503,
+        "upper": 0.14052378393388265
+      },
+      {
+        "location_id": 376,
+        "location": "Northern Mariana Islands",
+        "risk": "Metabolic risks",
+        "measure": "Deaths",
+        "metric": "Percent",
+        "val": 0.10833654202960916,
+        "lower": 0.07197291049002902,
+        "upper": 0.13959694122313998
+      },
+      {
+        "location_id": 298,
+        "location": "American Samoa",
+        "risk": "Metabolic risks",
+        "measure": "Deaths",
+        "metric": "Percent",
+        "val": 0.11002429598602592,
+        "lower": 0.07500310966523983,
+        "upper": 0.14432832499533021
+      },
+      {
+        "location_id": 385,
+        "location": "Puerto Rico",
+        "risk": "Metabolic risks",
+        "measure": "Deaths",
+        "metric": "Percent",
+        "val": 0.1145186780723405,
+        "lower": 0.08505480430104949,
+        "upper": 0.13992287574554718
+      },
+      {
+        "location_id": 374,
+        "location": "Niue",
+        "risk": "Metabolic risks",
+        "measure": "Deaths",
+        "metric": "Percent",
+        "val": 0.11504472437691202,
+        "lower": 0.07808281803861196,
+        "upper": 0.15025429028752235
+      },
+      {
+        "location_id": 351,
+        "location": "Guam",
+        "risk": "Metabolic risks",
+        "measure": "Deaths",
+        "metric": "Percent",
+        "val": 0.11662409322323757,
+        "lower": 0.08045633998547477,
+        "upper": 0.1564118739709234
+      },
+      {
+        "location_id": 145,
+        "location": "Kuwait",
+        "risk": "Metabolic risks",
+        "measure": "Deaths",
+        "metric": "Percent",
+        "val": 0.11955736538621131,
+        "lower": 0.09506950880022336,
+        "upper": 0.14164499277394538
+      },
+      {
+        "location_id": 413,
+        "location": "Tokelau",
+        "risk": "Metabolic risks",
+        "measure": "Deaths",
+        "metric": "Percent",
+        "val": 0.12149490228381166,
+        "lower": 0.07717082311391321,
+        "upper": 0.16195074373039625
+      },
+      {
+        "location_id": 320,
+        "location": "Cook Islands",
+        "risk": "Metabolic risks",
+        "measure": "Deaths",
+        "metric": "Percent",
+        "val": 0.12172416389621293,
+        "lower": 0.08102670611890395,
+        "upper": 0.1586756090983527
+      },
+      {
+        "location_id": 29,
+        "location": "Tonga",
+        "risk": "Metabolic risks",
+        "measure": "Deaths",
+        "metric": "Percent",
+        "val": 0.13194897564208044,
+        "lower": 0.0833314570374438,
+        "upper": 0.1799727181812107
+      }
+    ],
+    "lowest": [
+      {
+        "location_id": 201,
+        "location": "Burkina Faso",
+        "risk": "Metabolic risks",
+        "measure": "Deaths",
+        "metric": "Percent",
+        "val": 0.0034226009938594284,
+        "lower": -0.008099190949977545,
+        "upper": 0.011986617598071217
+      },
+      {
+        "location_id": 175,
+        "location": "Burundi",
+        "risk": "Metabolic risks",
+        "measure": "Deaths",
+        "metric": "Percent",
+        "val": 0.006091423184306645,
+        "lower": 0.0008651408766391251,
+        "upper": 0.011823501082672935
+      },
+      {
+        "location_id": 181,
+        "location": "Madagascar",
+        "risk": "Metabolic risks",
+        "measure": "Deaths",
+        "metric": "Percent",
+        "val": 0.0067766466186229704,
+        "lower": 0.002091837113036756,
+        "upper": 0.011116614302139468
+      },
+      {
+        "location_id": 178,
+        "location": "Eritrea",
+        "risk": "Metabolic risks",
+        "measure": "Deaths",
+        "metric": "Percent",
+        "val": 0.007101174828353526,
+        "lower": 0.003068223810765291,
+        "upper": 0.010758036072637056
+      },
+      {
+        "location_id": 184,
+        "location": "Mozambique",
+        "risk": "Metabolic risks",
+        "measure": "Deaths",
+        "metric": "Percent",
+        "val": 0.007384331766509145,
+        "lower": 0.0037668241072975764,
+        "upper": 0.01204602017831795
+      }
+    ]
+  },
+  "sites_top10_2023_Deaths": [
+    {
+      "cause_id": 429,
+      "cause": "Breast cancer",
+      "measure": "Deaths",
+      "metric": "Number",
+      "val": 185315.25556229998,
+      "lower": 153576.5107436962,
+      "upper": 218590.28734369553
+    },
+    {
+      "cause_id": 432,
+      "cause": "Cervical cancer",
+      "measure": "Deaths",
+      "metric": "Number",
+      "val": 131845.87935520528,
+      "lower": 100990.4916437412,
+      "upper": 176386.0788799448
+    },
+    {
+      "cause_id": 426,
+      "cause": "Tracheal, bronchus, and lung cancer",
+      "measure": "Deaths",
+      "metric": "Number",
+      "val": 98055.80795936337,
+      "lower": 87113.09360773474,
+      "upper": 110102.02333627893
+    },
+    {
+      "cause_id": 441,
+      "cause": "Colon and rectum cancer",
+      "measure": "Deaths",
+      "metric": "Number",
+      "val": 93026.6985063795,
+      "lower": 81984.33885654865,
+      "upper": 105529.87278501567
+    },
+    {
+      "cause_id": 414,
+      "cause": "Stomach cancer",
+      "measure": "Deaths",
+      "metric": "Number",
+      "val": 85103.42763046999,
+      "lower": 70743.31353418733,
+      "upper": 100375.60745780505
+    },
+    {
+      "cause_id": 487,
+      "cause": "Leukemia",
+      "measure": "Deaths",
+      "metric": "Number",
+      "val": 73646.0531087363,
+      "lower": 64327.64701441104,
+      "upper": 86035.65022290916
+    },
+    {
+      "cause_id": 417,
+      "cause": "Liver cancer",
+      "measure": "Deaths",
+      "metric": "Number",
+      "val": 69741.44160933052,
+      "lower": 57061.613388523576,
+      "upper": 86028.45494243831
+    },
+    {
+      "cause_id": 477,
+      "cause": "Brain and central nervous system cancer",
+      "measure": "Deaths",
+      "metric": "Number",
+      "val": 54404.41583723848,
+      "lower": 46800.70955669172,
+      "upper": 66824.1439741519
+    },
+    {
+      "cause_id": 485,
+      "cause": "Non-Hodgkin lymphoma",
+      "measure": "Deaths",
+      "metric": "Number",
+      "val": 44966.79339953369,
+      "lower": 37032.10576615493,
+      "upper": 54817.464608503404
+    },
+    {
+      "cause_id": 411,
+      "cause": "Esophageal cancer",
+      "measure": "Deaths",
+      "metric": "Number",
+      "val": 43823.695674691066,
+      "lower": 36804.51776633634,
+      "upper": 52991.72379059631
+    }
+  ],
+  "sites_top10_2023_DALYs": [
+    {
+      "cause_id": 429,
+      "cause": "Breast cancer",
+      "measure": "DALYs",
+      "metric": "Number",
+      "val": 9578545.199553218,
+      "lower": 7992279.172767035,
+      "upper": 11348152.307304045
+    },
+    {
+      "cause_id": 432,
+      "cause": "Cervical cancer",
+      "measure": "DALYs",
+      "metric": "Number",
+      "val": 6879239.396331764,
+      "lower": 5201288.803887161,
+      "upper": 9261235.5727204
+    },
+    {
+      "cause_id": 426,
+      "cause": "Tracheal, bronchus, and lung cancer",
+      "measure": "DALYs",
+      "metric": "Number",
+      "val": 4699124.026766059,
+      "lower": 4170276.482383371,
+      "upper": 5288339.885246463
+    },
+    {
+      "cause_id": 441,
+      "cause": "Colon and rectum cancer",
+      "measure": "DALYs",
+      "metric": "Number",
+      "val": 4682520.291980157,
+      "lower": 4118331.566526549,
+      "upper": 5297818.439309027
+    },
+    {
+      "cause_id": 487,
+      "cause": "Leukemia",
+      "measure": "DALYs",
+      "metric": "Number",
+      "val": 4259655.998827436,
+      "lower": 3724309.7756955787,
+      "upper": 4993444.97186571
+    },
+    {
+      "cause_id": 414,
+      "cause": "Stomach cancer",
+      "measure": "DALYs",
+      "metric": "Number",
+      "val": 4205072.741867265,
+      "lower": 3497948.5497056427,
+      "upper": 4988869.816577915
+    },
+    {
+      "cause_id": 417,
+      "cause": "Liver cancer",
+      "measure": "DALYs",
+      "metric": "Number",
+      "val": 3458421.9506061827,
+      "lower": 2816098.8395840935,
+      "upper": 4283280.099683833
+    },
+    {
+      "cause_id": 477,
+      "cause": "Brain and central nervous system cancer",
+      "measure": "DALYs",
+      "metric": "Number",
+      "val": 2942387.577922522,
+      "lower": 2516580.277157011,
+      "upper": 3607642.8599592606
+    },
+    {
+      "cause_id": 485,
+      "cause": "Non-Hodgkin lymphoma",
+      "measure": "DALYs",
+      "metric": "Number",
+      "val": 2513128.8969542254,
+      "lower": 2060383.2354780417,
+      "upper": 3073931.0745619982
+    },
+    {
+      "cause_id": 411,
+      "cause": "Esophageal cancer",
+      "measure": "DALYs",
+      "metric": "Number",
+      "val": 2094203.3940768715,
+      "lower": 1747358.954528138,
+      "upper": 2539374.9347488657
+    }
+  ],
+  "sites_top10_2023_Incidence": [
+    {
+      "cause_id": 429,
+      "cause": "Breast cancer",
+      "measure": "Incidence",
+      "metric": "Number",
+      "val": 693555.620814498,
+      "lower": 597585.8415239534,
+      "upper": 824962.3221775204
+    },
+    {
+      "cause_id": 462,
+      "cause": "Non-melanoma skin cancer",
+      "measure": "Incidence",
+      "metric": "Number",
+      "val": 547842.5884521068,
+      "lower": 438239.4700875465,
+      "upper": 689312.5950374801
+    },
+    {
+      "cause_id": 432,
+      "cause": "Cervical cancer",
+      "measure": "Incidence",
+      "metric": "Number",
+      "val": 483542.4217654158,
+      "lower": 363270.03573236975,
+      "upper": 666319.3985566638
+    },
+    {
+      "cause_id": 441,
+      "cause": "Colon and rectum cancer",
+      "measure": "Incidence",
+      "metric": "Number",
+      "val": 214616.11205169716,
+      "lower": 186591.79761670355,
+      "upper": 246218.32741429505
+    },
+    {
+      "cause_id": 480,
+      "cause": "Thyroid cancer",
+      "measure": "Incidence",
+      "metric": "Number",
+      "val": 138628.8903732272,
+      "lower": 93702.42035876944,
+      "upper": 184771.83939375388
+    },
+    {
+      "cause_id": 414,
+      "cause": "Stomach cancer",
+      "measure": "Incidence",
+      "metric": "Number",
+      "val": 136619.88023494958,
+      "lower": 112421.90154245186,
+      "upper": 168997.2789502084
+    },
+    {
+      "cause_id": 487,
+      "cause": "Leukemia",
+      "measure": "Incidence",
+      "metric": "Number",
+      "val": 135425.73267735823,
+      "lower": 104989.38148928156,
+      "upper": 171562.95533554623
+    },
+    {
+      "cause_id": 485,
+      "cause": "Non-Hodgkin lymphoma",
+      "measure": "Incidence",
+      "metric": "Number",
+      "val": 127814.9229440635,
+      "lower": 89763.85865649185,
+      "upper": 176534.09028784197
+    },
+    {
+      "cause_id": 426,
+      "cause": "Tracheal, bronchus, and lung cancer",
+      "measure": "Incidence",
+      "metric": "Number",
+      "val": 126517.01756626641,
+      "lower": 113749.42447548309,
+      "upper": 142592.6622127477
+    },
+    {
+      "cause_id": 465,
+      "cause": "Ovarian cancer",
+      "measure": "Incidence",
+      "metric": "Number",
+      "val": 106185.97196706552,
+      "lower": 84867.07545760363,
+      "upper": 135249.68583668958
+    }
+  ],
+  "sites_eapc": [
+    {
+      "cause": "Esophageal cancer",
+      "measure": "Deaths",
+      "n_years": 34,
+      "year_start": 1990,
+      "year_end": 2023,
+      "eapc": -1.2037984932774304,
+      "ci_low": -1.493626553289662,
+      "ci_high": -0.9131176934735419,
+      "pvalue": 3.166147648884751e-09
+    },
+    {
+      "cause": "Esophageal cancer",
+      "measure": "DALYs",
+      "n_years": 34,
+      "year_start": 1990,
+      "year_end": 2023,
+      "eapc": -1.210990073016338,
+      "ci_low": -1.503050448661647,
+      "ci_high": -0.918063688185855,
+      "pvalue": 3.2900835086441993e-09
+    },
+    {
+      "cause": "Esophageal cancer",
+      "measure": "Incidence",
+      "n_years": 34,
+      "year_start": 1990,
+      "year_end": 2023,
+      "eapc": -1.0164370988076987,
+      "ci_low": -1.2978841752382064,
+      "ci_high": -0.7341874817612171,
+      "pvalue": 5.680013262386084e-08
+    },
+    {
+      "cause": "Stomach cancer",
+      "measure": "Deaths",
+      "n_years": 34,
+      "year_start": 1990,
+      "year_end": 2023,
+      "eapc": -2.579132108477289,
+      "ci_low": -2.773882554978657,
+      "ci_high": -2.3839915637450138,
+      "pvalue": 7.026622952281796e-23
+    },
+    {
+      "cause": "Stomach cancer",
+      "measure": "DALYs",
+      "n_years": 34,
+      "year_start": 1990,
+      "year_end": 2023,
+      "eapc": -2.636465959075318,
+      "ci_low": -2.830680705282984,
+      "ci_high": -2.441863031002045,
+      "pvalue": 3.3265858065455245e-23
+    },
+    {
+      "cause": "Stomach cancer",
+      "measure": "Incidence",
+      "n_years": 34,
+      "year_start": 1990,
+      "year_end": 2023,
+      "eapc": -2.071501076657556,
+      "ci_low": -2.2424463649929005,
+      "ci_high": -1.9002568621470206,
+      "pvalue": 9.640892469172099e-22
+    },
+    {
+      "cause": "Liver cancer",
+      "measure": "Deaths",
+      "n_years": 34,
+      "year_start": 1990,
+      "year_end": 2023,
+      "eapc": -0.5061728258914266,
+      "ci_low": -0.6701468090554052,
+      "ci_high": -0.3419281540443353,
+      "pvalue": 9.95423232368737e-07
+    },
+    {
+      "cause": "Liver cancer",
+      "measure": "DALYs",
+      "n_years": 34,
+      "year_start": 1990,
+      "year_end": 2023,
+      "eapc": -0.6069680252219434,
+      "ci_low": -0.7720827107200234,
+      "ci_high": -0.44157858983379095,
+      "pvalue": 3.783414768406231e-08
+    },
+    {
+      "cause": "Liver cancer",
+      "measure": "Incidence",
+      "n_years": 34,
+      "year_start": 1990,
+      "year_end": 2023,
+      "eapc": -0.3778065363708505,
+      "ci_low": -0.5357671526557084,
+      "ci_high": -0.21959506049976651,
+      "pvalue": 5.0948102480209276e-05
+    },
+    {
+      "cause": "Larynx cancer",
+      "measure": "Deaths",
+      "n_years": 34,
+      "year_start": 1990,
+      "year_end": 2023,
+      "eapc": -0.7637769064843258,
+      "ci_low": -0.9802153143864789,
+      "ci_high": -0.5468654054062605,
+      "pvalue": 8.66779804101784e-08
+    },
+    {
+      "cause": "Larynx cancer",
+      "measure": "DALYs",
+      "n_years": 34,
+      "year_start": 1990,
+      "year_end": 2023,
+      "eapc": -0.7733982305351494,
+      "ci_low": -0.9908430634983922,
+      "ci_high": -0.5554758432037565,
+      "pvalue": 7.439740578347379e-08
+    },
+    {
+      "cause": "Larynx cancer",
+      "measure": "Incidence",
+      "n_years": 34,
+      "year_start": 1990,
+      "year_end": 2023,
+      "eapc": -0.4831240339605358,
+      "ci_low": -0.6866457604813969,
+      "ci_high": -0.2791852326818778,
+      "pvalue": 5.695982165113291e-05
+    },
+    {
+      "cause": "Tracheal, bronchus, and lung cancer",
+      "measure": "Deaths",
+      "n_years": 34,
+      "year_start": 1990,
+      "year_end": 2023,
+      "eapc": -1.46165525615235,
+      "ci_low": -1.677939695008157,
+      "ci_high": -1.2448950445315465,
+      "pvalue": 1.958982786056031e-14
+    },
+    {
+      "cause": "Tracheal, bronchus, and lung cancer",
+      "measure": "DALYs",
+      "n_years": 34,
+      "year_start": 1990,
+      "year_end": 2023,
+      "eapc": -1.5289855939566,
+      "ci_low": -1.7393676066939867,
+      "ci_high": -1.318153140486178,
+      "pvalue": 2.6902685886115236e-15
+    },
+    {
+      "cause": "Tracheal, bronchus, and lung cancer",
+      "measure": "Incidence",
+      "n_years": 34,
+      "year_start": 1990,
+      "year_end": 2023,
+      "eapc": -1.3112169439852717,
+      "ci_low": -1.5333170727795054,
+      "ci_high": -1.0886158491206444,
+      "pvalue": 6.950264501501088e-13
+    },
+    {
+      "cause": "Breast cancer",
+      "measure": "Deaths",
+      "n_years": 34,
+      "year_start": 1990,
+      "year_end": 2023,
+      "eapc": 0.5958223083392111,
+      "ci_low": 0.3591227874295999,
+      "ci_high": 0.8330800910355318,
+      "pvalue": 2.3485821629260535e-05
+    },
+    {
+      "cause": "Breast cancer",
+      "measure": "DALYs",
+      "n_years": 34,
+      "year_start": 1990,
+      "year_end": 2023,
+      "eapc": 0.6047886586851847,
+      "ci_low": 0.36456112944707186,
+      "ci_high": 0.8455911843677999,
+      "pvalue": 2.342903785604891e-05
+    },
+    {
+      "cause": "Breast cancer",
+      "measure": "Incidence",
+      "n_years": 34,
+      "year_start": 1990,
+      "year_end": 2023,
+      "eapc": 1.0398955469339555,
+      "ci_low": 0.8915830284596415,
+      "ci_high": 1.1884260875908659,
+      "pvalue": 5.030831170144764e-15
+    },
+    {
+      "cause": "Cervical cancer",
+      "measure": "Deaths",
+      "n_years": 34,
+      "year_start": 1990,
+      "year_end": 2023,
+      "eapc": 0.16723873916641985,
+      "ci_low": -0.04166288135117879,
+      "ci_high": 0.37657694044668233,
+      "pvalue": 0.12654380122991857
+    },
+    {
+      "cause": "Cervical cancer",
+      "measure": "DALYs",
+      "n_years": 34,
+      "year_start": 1990,
+      "year_end": 2023,
+      "eapc": 0.12725356795826315,
+      "ci_low": -0.08555093477545794,
+      "ci_high": 0.34051131601142703,
+      "pvalue": 0.2500372801389548
+    },
+    {
+      "cause": "Cervical cancer",
+      "measure": "Incidence",
+      "n_years": 34,
+      "year_start": 1990,
+      "year_end": 2023,
+      "eapc": 0.505452112176874,
+      "ci_low": 0.2954553368485824,
+      "ci_high": 0.7158885748818289,
+      "pvalue": 4.418278466224534e-05
+    },
+    {
+      "cause": "Uterine cancer",
+      "measure": "Deaths",
+      "n_years": 34,
+      "year_start": 1990,
+      "year_end": 2023,
+      "eapc": -0.7754612653198656,
+      "ci_low": -0.9409690947798643,
+      "ci_high": -0.6096769053773765,
+      "pvalue": 1.9524251455047855e-10
+    },
+    {
+      "cause": "Uterine cancer",
+      "measure": "DALYs",
+      "n_years": 34,
+      "year_start": 1990,
+      "year_end": 2023,
+      "eapc": -0.7573109455209837,
+      "ci_low": -0.9208477722782882,
+      "ci_high": -0.5935041901954152,
+      "pvalue": 2.559043835387184e-10
+    },
+    {
+      "cause": "Uterine cancer",
+      "measure": "Incidence",
+      "n_years": 34,
+      "year_start": 1990,
+      "year_end": 2023,
+      "eapc": 0.7667397351533545,
+      "ci_low": 0.6201857728631355,
+      "ci_high": 0.9135071542534234,
+      "pvalue": 1.132530223587196e-11
+    },
+    {
+      "cause": "Prostate cancer",
+      "measure": "Deaths",
+      "n_years": 34,
+      "year_start": 1990,
+      "year_end": 2023,
+      "eapc": 0.08955183437868719,
+      "ci_low": -0.06477468787896568,
+      "ci_high": 0.24411667776282897,
+      "pvalue": 0.2640016359699145
+    },
+    {
+      "cause": "Prostate cancer",
+      "measure": "DALYs",
+      "n_years": 34,
+      "year_start": 1990,
+      "year_end": 2023,
+      "eapc": 0.07012331129510052,
+      "ci_low": -0.08683487969715076,
+      "ci_high": 0.2273280751357909,
+      "pvalue": 0.3879540878819612
+    },
+    {
+      "cause": "Prostate cancer",
+      "measure": "Incidence",
+      "n_years": 34,
+      "year_start": 1990,
+      "year_end": 2023,
+      "eapc": 1.2410349300524537,
+      "ci_low": 0.9276403310573222,
+      "ci_high": 1.5554026636057428,
+      "pvalue": 6.809535434231497e-09
+    },
+    {
+      "cause": "Colon and rectum cancer",
+      "measure": "Deaths",
+      "n_years": 34,
+      "year_start": 1990,
+      "year_end": 2023,
+      "eapc": -0.5127356470558175,
+      "ci_low": -0.6530344611060945,
+      "ci_high": -0.37223870156671834,
+      "pvalue": 4.203355892466873e-08
+    },
+    {
+      "cause": "Colon and rectum cancer",
+      "measure": "DALYs",
+      "n_years": 34,
+      "year_start": 1990,
+      "year_end": 2023,
+      "eapc": -0.6155765017890724,
+      "ci_low": -0.7636650403675116,
+      "ci_high": -0.46726697343639767,
+      "pvalue": 2.87051136619705e-09
+    },
+    {
+      "cause": "Colon and rectum cancer",
+      "measure": "Incidence",
+      "n_years": 34,
+      "year_start": 1990,
+      "year_end": 2023,
+      "eapc": 0.307677465968359,
+      "ci_low": 0.19159062060334353,
+      "ci_high": 0.4238988151932688,
+      "pvalue": 1.1116465954219951e-05
+    },
+    {
+      "cause": "Lip and oral cavity cancer",
+      "measure": "Deaths",
+      "n_years": 34,
+      "year_start": 1990,
+      "year_end": 2023,
+      "eapc": 0.749082527695788,
+      "ci_low": 0.6203114298231283,
+      "ci_high": 0.8780184232659805,
+      "pvalue": 7.698747804882104e-13
+    },
+    {
+      "cause": "Lip and oral cavity cancer",
+      "measure": "DALYs",
+      "n_years": 34,
+      "year_start": 1990,
+      "year_end": 2023,
+      "eapc": 0.7180907908478362,
+      "ci_low": 0.587609247825327,
+      "ci_high": 0.8487415936151432,
+      "pvalue": 3.1990716165838393e-12
+    },
+    {
+      "cause": "Lip and oral cavity cancer",
+      "measure": "Incidence",
+      "n_years": 34,
+      "year_start": 1990,
+      "year_end": 2023,
+      "eapc": 1.0297862401918323,
+      "ci_low": 0.9010073364510207,
+      "ci_high": 1.158729503104916,
+      "pvalue": 1.2654574034402402e-16
+    },
+    {
+      "cause": "Nasopharynx cancer",
+      "measure": "Deaths",
+      "n_years": 34,
+      "year_start": 1990,
+      "year_end": 2023,
+      "eapc": -1.7836093167424738,
+      "ci_low": -2.0462473638823364,
+      "ci_high": -1.5202670725509626,
+      "pvalue": 1.8054414359270528e-14
+    },
+    {
+      "cause": "Nasopharynx cancer",
+      "measure": "DALYs",
+      "n_years": 34,
+      "year_start": 1990,
+      "year_end": 2023,
+      "eapc": -1.8879197113621404,
+      "ci_low": -2.1613023370785966,
+      "ci_high": -1.6137731950601863,
+      "pvalue": 1.163016874421482e-14
+    },
+    {
+      "cause": "Nasopharynx cancer",
+      "measure": "Incidence",
+      "n_years": 34,
+      "year_start": 1990,
+      "year_end": 2023,
+      "eapc": -0.30428184439311723,
+      "ci_low": -0.5626288527999401,
+      "ci_high": -0.04526362780790105,
+      "pvalue": 0.02799591998517194
+    },
+    {
+      "cause": "Other pharynx cancer",
+      "measure": "Deaths",
+      "n_years": 34,
+      "year_start": 1990,
+      "year_end": 2023,
+      "eapc": 0.9022174969245622,
+      "ci_low": 0.7500305353987713,
+      "ci_high": 1.0546343429589378,
+      "pvalue": 4.628859730208827e-13
+    },
+    {
+      "cause": "Other pharynx cancer",
+      "measure": "DALYs",
+      "n_years": 34,
+      "year_start": 1990,
+      "year_end": 2023,
+      "eapc": 0.9005199112719353,
+      "ci_low": 0.7480287449021628,
+      "ci_high": 1.0532418866819437,
+      "pvalue": 5.122810554406801e-13
+    },
+    {
+      "cause": "Other pharynx cancer",
+      "measure": "Incidence",
+      "n_years": 34,
+      "year_start": 1990,
+      "year_end": 2023,
+      "eapc": 1.0864947027582117,
+      "ci_low": 0.9400028190561738,
+      "ci_high": 1.2331991867315928,
+      "pvalue": 1.0514086518786242e-15
+    },
+    {
+      "cause": "Gallbladder and biliary tract cancer",
+      "measure": "Deaths",
+      "n_years": 34,
+      "year_start": 1990,
+      "year_end": 2023,
+      "eapc": -0.4167572627022498,
+      "ci_low": -0.5433954509277861,
+      "ci_high": -0.2899578259523916,
+      "pvalue": 3.1213816293219495e-07
+    },
+    {
+      "cause": "Gallbladder and biliary tract cancer",
+      "measure": "DALYs",
+      "n_years": 34,
+      "year_start": 1990,
+      "year_end": 2023,
+      "eapc": -0.4786196663307041,
+      "ci_low": -0.6089761755321277,
+      "ci_high": -0.34809218777170914,
+      "pvalue": 3.812468264850665e-08
+    },
+    {
+      "cause": "Gallbladder and biliary tract cancer",
+      "measure": "Incidence",
+      "n_years": 34,
+      "year_start": 1990,
+      "year_end": 2023,
+      "eapc": -0.1496314979037794,
+      "ci_low": -0.2632890942645405,
+      "ci_high": -0.03584438003489954,
+      "pvalue": 0.014784058792154857
+    },
+    {
+      "cause": "Pancreatic cancer",
+      "measure": "Deaths",
+      "n_years": 34,
+      "year_start": 1990,
+      "year_end": 2023,
+      "eapc": -0.03569951685570283,
+      "ci_low": -0.16245485135039095,
+      "ci_high": 0.0912167482267634,
+      "pvalue": 0.5850825816435723
+    },
+    {
+      "cause": "Pancreatic cancer",
+      "measure": "DALYs",
+      "n_years": 34,
+      "year_start": 1990,
+      "year_end": 2023,
+      "eapc": -0.12012197932239621,
+      "ci_low": -0.24560278572132166,
+      "ci_high": 0.005516669068605928,
+      "pvalue": 0.07009253808025574
+    },
+    {
+      "cause": "Pancreatic cancer",
+      "measure": "Incidence",
+      "n_years": 34,
+      "year_start": 1990,
+      "year_end": 2023,
+      "eapc": 0.027326997998788904,
+      "ci_low": -0.09897993288668916,
+      "ci_high": 0.15379362135565788,
+      "pvalue": 0.674520994190728
+    },
+    {
+      "cause": "Malignant skin melanoma",
+      "measure": "Deaths",
+      "n_years": 34,
+      "year_start": 1990,
+      "year_end": 2023,
+      "eapc": -0.7186951398377994,
+      "ci_low": -0.8072316514424083,
+      "ci_high": -0.6300796031790679,
+      "pvalue": 1.052356216586584e-16
+    },
+    {
+      "cause": "Malignant skin melanoma",
+      "measure": "DALYs",
+      "n_years": 34,
+      "year_start": 1990,
+      "year_end": 2023,
+      "eapc": -0.7120052638898366,
+      "ci_low": -0.7958847197689467,
+      "ci_high": -0.6280548859214696,
+      "pvalue": 2.924037982255222e-17
+    },
+    {
+      "cause": "Malignant skin melanoma",
+      "measure": "Incidence",
+      "n_years": 34,
+      "year_start": 1990,
+      "year_end": 2023,
+      "eapc": -0.10742676442939691,
+      "ci_low": -0.33752152509127775,
+      "ci_high": 0.12319922523353899,
+      "pvalue": 0.3677992045081695
+    },
+    {
+      "cause": "Non-melanoma skin cancer",
+      "measure": "Deaths",
+      "n_years": 34,
+      "year_start": 1990,
+      "year_end": 2023,
+      "eapc": 0.040191263160771484,
+      "ci_low": -0.034032025476693484,
+      "ci_high": 0.11446966151897886,
+      "pvalue": 0.29657749349219725
+    },
+    {
+      "cause": "Non-melanoma skin cancer",
+      "measure": "DALYs",
+      "n_years": 34,
+      "year_start": 1990,
+      "year_end": 2023,
+      "eapc": -0.016114723970106493,
+      "ci_low": -0.08151279014915191,
+      "ci_high": 0.04932614617023656,
+      "pvalue": 0.6325542689603775
+    },
+    {
+      "cause": "Non-melanoma skin cancer",
+      "measure": "Incidence",
+      "n_years": 34,
+      "year_start": 1990,
+      "year_end": 2023,
+      "eapc": 1.2255695260166455,
+      "ci_low": 0.684079915294955,
+      "ci_high": 1.769971325028341,
+      "pvalue": 9.713887904451672e-05
+    },
+    {
+      "cause": "Ovarian cancer",
+      "measure": "Deaths",
+      "n_years": 34,
+      "year_start": 1990,
+      "year_end": 2023,
+      "eapc": 0.5840709195280791,
+      "ci_low": 0.370170318117502,
+      "ci_high": 0.7984273682002163,
+      "pvalue": 6.9353082764820704e-06
+    },
+    {
+      "cause": "Ovarian cancer",
+      "measure": "DALYs",
+      "n_years": 34,
+      "year_start": 1990,
+      "year_end": 2023,
+      "eapc": 0.5391780480833885,
+      "ci_low": 0.31804994912445483,
+      "ci_high": 0.7607935731453574,
+      "pvalue": 3.6915117812240176e-05
+    },
+    {
+      "cause": "Ovarian cancer",
+      "measure": "Incidence",
+      "n_years": 34,
+      "year_start": 1990,
+      "year_end": 2023,
+      "eapc": 0.6884064719437255,
+      "ci_low": 0.49868171248159676,
+      "ci_high": 0.8784894001274468,
+      "pvalue": 4.324309616262355e-08
+    },
+    {
+      "cause": "Testicular cancer",
+      "measure": "Deaths",
+      "n_years": 34,
+      "year_start": 1990,
+      "year_end": 2023,
+      "eapc": -0.3182510036835118,
+      "ci_low": -0.48500807745655017,
+      "ci_high": -0.15121449541406484,
+      "pvalue": 0.0007399545546534969
+    },
+    {
+      "cause": "Testicular cancer",
+      "measure": "DALYs",
+      "n_years": 34,
+      "year_start": 1990,
+      "year_end": 2023,
+      "eapc": -0.26198126848721026,
+      "ci_low": -0.42138075458620916,
+      "ci_high": -0.10232662524342073,
+      "pvalue": 0.0029809594455678283
+    },
+    {
+      "cause": "Testicular cancer",
+      "measure": "Incidence",
+      "n_years": 34,
+      "year_start": 1990,
+      "year_end": 2023,
+      "eapc": 1.0784918669946464,
+      "ci_low": 0.9789575109590443,
+      "ci_high": 1.178124333451236,
+      "pvalue": 1.7210470417928615e-20
+    },
+    {
+      "cause": "Kidney cancer",
+      "measure": "Deaths",
+      "n_years": 34,
+      "year_start": 1990,
+      "year_end": 2023,
+      "eapc": -0.26475123632810904,
+      "ci_low": -0.4030027297529104,
+      "ci_high": -0.1263078347538804,
+      "pvalue": 0.0007113098848615369
+    },
+    {
+      "cause": "Kidney cancer",
+      "measure": "DALYs",
+      "n_years": 34,
+      "year_start": 1990,
+      "year_end": 2023,
+      "eapc": -0.2841957537020545,
+      "ci_low": -0.4114338984769761,
+      "ci_high": -0.1567950446276445,
+      "pvalue": 0.00012303432362389906
+    },
+    {
+      "cause": "Kidney cancer",
+      "measure": "Incidence",
+      "n_years": 34,
+      "year_start": 1990,
+      "year_end": 2023,
+      "eapc": 0.6723346597634183,
+      "ci_low": 0.49557016065506776,
+      "ci_high": 0.8494100749459221,
+      "pvalue": 1.658900455236714e-08
+    },
+    {
+      "cause": "Bladder cancer",
+      "measure": "Deaths",
+      "n_years": 34,
+      "year_start": 1990,
+      "year_end": 2023,
+      "eapc": -1.2149351581512313,
+      "ci_low": -1.4092877103560664,
+      "ci_high": -1.0201994774176382,
+      "pvalue": 1.5272710119023673e-13
+    },
+    {
+      "cause": "Bladder cancer",
+      "measure": "DALYs",
+      "n_years": 34,
+      "year_start": 1990,
+      "year_end": 2023,
+      "eapc": -1.2534035978522984,
+      "ci_low": -1.447281613285778,
+      "ci_high": -1.0591441755384845,
+      "pvalue": 6.272212867296318e-14
+    },
+    {
+      "cause": "Bladder cancer",
+      "measure": "Incidence",
+      "n_years": 34,
+      "year_start": 1990,
+      "year_end": 2023,
+      "eapc": -0.5936944668443189,
+      "ci_low": -0.7676428980137651,
+      "ci_high": -0.4194411144013088,
+      "pvalue": 1.6123830922042255e-07
+    },
+    {
+      "cause": "Brain and central nervous system cancer",
+      "measure": "Deaths",
+      "n_years": 34,
+      "year_start": 1990,
+      "year_end": 2023,
+      "eapc": -0.382653563642954,
+      "ci_low": -0.4715046163319525,
+      "ci_high": -0.2937231918651584,
+      "pvalue": 1.2708229767275521e-09
+    },
+    {
+      "cause": "Brain and central nervous system cancer",
+      "measure": "DALYs",
+      "n_years": 34,
+      "year_start": 1990,
+      "year_end": 2023,
+      "eapc": -0.488548193758076,
+      "ci_low": -0.5702837093916835,
+      "ci_high": -0.4067454880050003,
+      "pvalue": 4.4384244298948114e-13
+    },
+    {
+      "cause": "Brain and central nervous system cancer",
+      "measure": "Incidence",
+      "n_years": 34,
+      "year_start": 1990,
+      "year_end": 2023,
+      "eapc": 0.045779287747582664,
+      "ci_low": -0.03207718268100068,
+      "ci_high": 0.12369639392626475,
+      "pvalue": 0.2577475600381862
+    },
+    {
+      "cause": "Thyroid cancer",
+      "measure": "Deaths",
+      "n_years": 34,
+      "year_start": 1990,
+      "year_end": 2023,
+      "eapc": 0.7672178025063703,
+      "ci_low": 0.5972172652566554,
+      "ci_high": 0.9375056258605241,
+      "pvalue": 3.895433349947907e-10
+    },
+    {
+      "cause": "Thyroid cancer",
+      "measure": "DALYs",
+      "n_years": 34,
+      "year_start": 1990,
+      "year_end": 2023,
+      "eapc": 0.8304600907536486,
+      "ci_low": 0.666493151705505,
+      "ci_high": 0.9946941013591726,
+      "pvalue": 2.501535435591242e-11
+    },
+    {
+      "cause": "Thyroid cancer",
+      "measure": "Incidence",
+      "n_years": 34,
+      "year_start": 1990,
+      "year_end": 2023,
+      "eapc": 2.037708923514092,
+      "ci_low": 1.9413029119929925,
+      "ci_high": 2.134206106315051,
+      "pvalue": 1.658056941893167e-29
+    },
+    {
+      "cause": "Mesothelioma",
+      "measure": "Deaths",
+      "n_years": 34,
+      "year_start": 1990,
+      "year_end": 2023,
+      "eapc": 0.13460210876465872,
+      "ci_low": 0.004918699174316643,
+      "ci_high": 0.2644536879504944,
+      "pvalue": 0.05027397656250181
+    },
+    {
+      "cause": "Mesothelioma",
+      "measure": "DALYs",
+      "n_years": 34,
+      "year_start": 1990,
+      "year_end": 2023,
+      "eapc": 0.06436454365008615,
+      "ci_low": -0.05732266321447632,
+      "ci_high": 0.18619991320858453,
+      "pvalue": 0.30778651853103084
+    },
+    {
+      "cause": "Mesothelioma",
+      "measure": "Incidence",
+      "n_years": 34,
+      "year_start": 1990,
+      "year_end": 2023,
+      "eapc": 0.18087555107733078,
+      "ci_low": 0.05267260139778518,
+      "ci_high": 0.30924277419286383,
+      "pvalue": 0.009346829494590224
+    },
+    {
+      "cause": "Hodgkin lymphoma",
+      "measure": "Deaths",
+      "n_years": 34,
+      "year_start": 1990,
+      "year_end": 2023,
+      "eapc": -1.8230611431633958,
+      "ci_low": -1.9064347869359621,
+      "ci_high": -1.7396166367969257,
+      "pvalue": 1.0445328864669356e-29
+    },
+    {
+      "cause": "Hodgkin lymphoma",
+      "measure": "DALYs",
+      "n_years": 34,
+      "year_start": 1990,
+      "year_end": 2023,
+      "eapc": -1.8306094016664054,
+      "ci_low": -1.9096791991283557,
+      "ci_high": -1.7514758666937746,
+      "pvalue": 1.7292909655763114e-30
+    },
+    {
+      "cause": "Hodgkin lymphoma",
+      "measure": "Incidence",
+      "n_years": 34,
+      "year_start": 1990,
+      "year_end": 2023,
+      "eapc": -1.078560577858989,
+      "ci_low": -1.157857895877945,
+      "ci_high": -0.9991996425963046,
+      "pvalue": 2.4110786224110113e-23
+    },
+    {
+      "cause": "Non-Hodgkin lymphoma",
+      "measure": "Deaths",
+      "n_years": 34,
+      "year_start": 1990,
+      "year_end": 2023,
+      "eapc": -0.4283765319871957,
+      "ci_low": -0.5507628778980922,
+      "ci_high": -0.30583957237529935,
+      "pvalue": 9.736042985335042e-08
+    },
+    {
+      "cause": "Non-Hodgkin lymphoma",
+      "measure": "DALYs",
+      "n_years": 34,
+      "year_start": 1990,
+      "year_end": 2023,
+      "eapc": -0.4848101113002268,
+      "ci_low": -0.610928486866269,
+      "ci_high": -0.35853169958118825,
+      "pvalue": 1.493725398358643e-08
+    },
+    {
+      "cause": "Non-Hodgkin lymphoma",
+      "measure": "Incidence",
+      "n_years": 34,
+      "year_start": 1990,
+      "year_end": 2023,
+      "eapc": 0.272681755104176,
+      "ci_low": 0.13517685548998237,
+      "ci_high": 0.4103754754506195,
+      "pvalue": 0.0004774171497384428
+    },
+    {
+      "cause": "Multiple myeloma",
+      "measure": "Deaths",
+      "n_years": 34,
+      "year_start": 1990,
+      "year_end": 2023,
+      "eapc": 0.8681115865638578,
+      "ci_low": 0.7003199933397486,
+      "ci_high": 1.0361827620053665,
+      "pvalue": 1.4776530327131828e-11
+    },
+    {
+      "cause": "Multiple myeloma",
+      "measure": "DALYs",
+      "n_years": 34,
+      "year_start": 1990,
+      "year_end": 2023,
+      "eapc": 0.8281367254172611,
+      "ci_low": 0.6556655998431138,
+      "ci_high": 1.0009033762256925,
+      "pvalue": 9.068510095731536e-11
+    },
+    {
+      "cause": "Multiple myeloma",
+      "measure": "Incidence",
+      "n_years": 34,
+      "year_start": 1990,
+      "year_end": 2023,
+      "eapc": 1.3698245636156736,
+      "ci_low": 1.178324400637476,
+      "ci_high": 1.5616871788546538,
+      "pvalue": 2.785263372691497e-15
+    },
+    {
+      "cause": "Leukemia",
+      "measure": "Deaths",
+      "n_years": 34,
+      "year_start": 1990,
+      "year_end": 2023,
+      "eapc": -1.6140263342193206,
+      "ci_low": -1.721584319028635,
+      "ci_high": -1.5063506356677303,
+      "pvalue": 1.2807561644601232e-24
+    },
+    {
+      "cause": "Leukemia",
+      "measure": "DALYs",
+      "n_years": 34,
+      "year_start": 1990,
+      "year_end": 2023,
+      "eapc": -1.7289867757510513,
+      "ci_low": -1.8401322438943546,
+      "ci_high": -1.6177154586699771,
+      "pvalue": 4.289366639381635e-25
+    },
+    {
+      "cause": "Leukemia",
+      "measure": "Incidence",
+      "n_years": 34,
+      "year_start": 1990,
+      "year_end": 2023,
+      "eapc": -1.062588184778701,
+      "ci_low": -1.1978605205821058,
+      "ci_high": -0.9271306444348926,
+      "pvalue": 2.8272042258746486e-16
+    },
+    {
+      "cause": "Other malignant neoplasms",
+      "measure": "Deaths",
+      "n_years": 34,
+      "year_start": 1990,
+      "year_end": 2023,
+      "eapc": -1.1140719901274743,
+      "ci_low": -1.2659730182236317,
+      "ci_high": -0.9619372642571844,
+      "pvalue": 1.9542195805462816e-15
+    },
+    {
+      "cause": "Other malignant neoplasms",
+      "measure": "DALYs",
+      "n_years": 34,
+      "year_start": 1990,
+      "year_end": 2023,
+      "eapc": -1.201812188780349,
+      "ci_low": -1.3561537638450027,
+      "ci_high": -1.047229125546889,
+      "pvalue": 3.7030354121417987e-16
+    },
+    {
+      "cause": "Other malignant neoplasms",
+      "measure": "Incidence",
+      "n_years": 34,
+      "year_start": 1990,
+      "year_end": 2023,
+      "eapc": -0.3806158982764263,
+      "ci_low": -0.5374700654043663,
+      "ci_high": -0.22351436935543756,
+      "pvalue": 4.185947174777645e-05
+    }
+  ],
+  "sites_attributable_2023": [
+    {
+      "rei": 104,
+      "cause": "Liver cancer",
+      "metric": "Number",
+      "val": 7716.40476641009,
+      "lower": 3942.5056412552926,
+      "upper": 12121.657798804981
+    },
+    {
+      "rei": 104,
+      "cause": "Liver cancer",
+      "metric": "Rate",
+      "val": 0.1927399610953417,
+      "lower": 0.09847570298819738,
+      "upper": 0.30277414460201396
+    },
+    {
+      "rei": 104,
+      "cause": "Tracheal, bronchus, and lung cancer",
+      "metric": "Number",
+      "val": 2927.4777954094784,
+      "lower": 1411.751926169859,
+      "upper": 5279.307521116173
+    },
+    {
+      "rei": 104,
+      "cause": "Tracheal, bronchus, and lung cancer",
+      "metric": "Rate",
+      "val": 0.07312238969770923,
+      "lower": 0.03526266694960356,
+      "upper": 0.13186627153874209
+    },
+    {
+      "rei": 104,
+      "cause": "Breast cancer",
+      "metric": "Number",
+      "val": 417.6884637807776,
+      "lower": -9821.503483482913,
+      "upper": 10291.924731760504
+    },
+    {
+      "rei": 104,
+      "cause": "Breast cancer",
+      "metric": "Rate",
+      "val": 0.010433000950069878,
+      "lower": -0.24532100850185715,
+      "upper": 0.2570711662289545
+    },
+    {
+      "rei": 104,
+      "cause": "Uterine cancer",
+      "metric": "Number",
+      "val": 2942.6200386851297,
+      "lower": 2061.587952366822,
+      "upper": 4161.028928667025
+    },
+    {
+      "rei": 104,
+      "cause": "Uterine cancer",
+      "metric": "Rate",
+      "val": 0.07350061187088379,
+      "lower": 0.05149423776516926,
+      "upper": 0.10393396641386758
+    },
+    {
+      "rei": 104,
+      "cause": "Colon and rectum cancer",
+      "metric": "Number",
+      "val": 13088.33882963749,
+      "lower": 9010.678103733731,
+      "upper": 18266.90820510215
+    },
+    {
+      "rei": 104,
+      "cause": "Colon and rectum cancer",
+      "metric": "Rate",
+      "val": 0.3269198536354897,
+      "lower": 0.22506825389931717,
+      "upper": 0.4562698929570974
+    },
+    {
+      "rei": 104,
+      "cause": "Gallbladder and biliary tract cancer",
+      "metric": "Number",
+      "val": 1287.9800014921984,
+      "lower": 830.6833326063902,
+      "upper": 1848.6758676730838
+    },
+    {
+      "rei": 104,
+      "cause": "Gallbladder and biliary tract cancer",
+      "metric": "Rate",
+      "val": 0.03217109818549295,
+      "lower": 0.020748765526926952,
+      "upper": 0.04617613067218291
+    },
+    {
+      "rei": 104,
+      "cause": "Pancreatic cancer",
+      "metric": "Number",
+      "val": 4407.618632816874,
+      "lower": 2793.885043228269,
+      "upper": 6465.7160168738465
+    },
+    {
+      "rei": 104,
+      "cause": "Pancreatic cancer",
+      "metric": "Rate",
+      "val": 0.11009327135225604,
+      "lower": 0.06978551680968878,
+      "upper": 0.16150032188183994
+    },
+    {
+      "rei": 104,
+      "cause": "Ovarian cancer",
+      "metric": "Number",
+      "val": 2975.786021686767,
+      "lower": 1192.3444531704542,
+      "upper": 5206.299838192221
+    },
+    {
+      "rei": 104,
+      "cause": "Ovarian cancer",
+      "metric": "Rate",
+      "val": 0.0743290300872596,
+      "lower": 0.02978231838183312,
+      "upper": 0.13004268939234176
+    },
+    {
+      "rei": 104,
+      "cause": "Kidney cancer",
+      "metric": "Number",
+      "val": 2249.4486143973986,
+      "lower": 984.1587939194139,
+      "upper": 3403.1868496797642
+    },
+    {
+      "rei": 104,
+      "cause": "Kidney cancer",
+      "metric": "Rate",
+      "val": 0.05618661171226119,
+      "lower": 0.02458226770028738,
+      "upper": 0.08500462597073112
+    },
+    {
+      "rei": 104,
+      "cause": "Bladder cancer",
+      "metric": "Number",
+      "val": 466.3542655389112,
+      "lower": 266.7518591931548,
+      "upper": 756.3193195268796
+    },
+    {
+      "rei": 104,
+      "cause": "Bladder cancer",
+      "metric": "Rate",
+      "val": 0.011648572841576544,
+      "lower": 0.006662914209322642,
+      "upper": 0.01889130503571085
+    },
+    {
+      "rei": 104,
+      "cause": "Thyroid cancer",
+      "metric": "Number",
+      "val": 922.2205161893646,
+      "lower": 619.4913051357936,
+      "upper": 1265.175443325485
+    },
+    {
+      "rei": 104,
+      "cause": "Thyroid cancer",
+      "metric": "Rate",
+      "val": 0.023035176587082828,
+      "lower": 0.015473621934729623,
+      "upper": 0.031601487105345605
+    },
+    {
+      "rei": 104,
+      "cause": "Non-Hodgkin lymphoma",
+      "metric": "Number",
+      "val": 1896.6653390258396,
+      "lower": 634.7024042810534,
+      "upper": 3167.007418730032
+    },
+    {
+      "rei": 104,
+      "cause": "Non-Hodgkin lymphoma",
+      "metric": "Rate",
+      "val": 0.04737480921763451,
+      "lower": 0.01585356398627116,
+      "upper": 0.0791053483005229
+    },
+    {
+      "rei": 104,
+      "cause": "Multiple myeloma",
+      "metric": "Number",
+      "val": 493.8062186382374,
+      "lower": -203.4251807285388,
+      "upper": 1236.9903843012917
+    },
+    {
+      "rei": 104,
+      "cause": "Multiple myeloma",
+      "metric": "Rate",
+      "val": 0.01233426631315125,
+      "lower": -0.005081143694030489,
+      "upper": 0.03089748215171222
+    },
+    {
+      "rei": 104,
+      "cause": "Leukemia",
+      "metric": "Number",
+      "val": 5510.686783476431,
+      "lower": 3809.3851091262113,
+      "upper": 7474.441098606123
+    },
+    {
+      "rei": 104,
+      "cause": "Leukemia",
+      "metric": "Rate",
+      "val": 0.13764565084498506,
+      "lower": 0.09515062518833399,
+      "upper": 0.18669620505470066
+    },
+    {
+      "rei": 105,
+      "cause": "Liver cancer",
+      "metric": "Number",
+      "val": 875.9952223192696,
+      "lower": 539.4549170997786,
+      "upper": 1412.4892675620208
+    },
+    {
+      "rei": 105,
+      "cause": "Liver cancer",
+      "metric": "Rate",
+      "val": 0.021880563575991694,
+      "lower": 0.01347447715380466,
+      "upper": 0.03528108422494634
+    },
+    {
+      "rei": 105,
+      "cause": "Tracheal, bronchus, and lung cancer",
+      "metric": "Number",
+      "val": 2927.4777954094784,
+      "lower": 1411.751926169859,
+      "upper": 5279.307521116174
+    },
+    {
+      "rei": 105,
+      "cause": "Tracheal, bronchus, and lung cancer",
+      "metric": "Rate",
+      "val": 0.07312238969770923,
+      "lower": 0.03526266694960356,
+      "upper": 0.1318662715387421
+    },
+    {
+      "rei": 105,
+      "cause": "Breast cancer",
+      "metric": "Number",
+      "val": 7992.151580353692,
+      "lower": 4686.978269790681,
+      "upper": 13613.414366369738
+    },
+    {
+      "rei": 105,
+      "cause": "Breast cancer",
+      "metric": "Rate",
+      "val": 0.19962755082145467,
+      "lower": 0.1170711019860669,
+      "upper": 0.34003516336657463
+    },
+    {
+      "rei": 105,
+      "cause": "Colon and rectum cancer",
+      "metric": "Number",
+      "val": 4986.50189193552,
+      "lower": 3230.5068752660563,
+      "upper": 7913.878888569995
+    },
+    {
+      "rei": 105,
+      "cause": "Colon and rectum cancer",
+      "metric": "Rate",
+      "val": 0.12455258760364799,
+      "lower": 0.08069143445758988,
+      "upper": 0.1976724595547434
+    },
+    {
+      "rei": 105,
+      "cause": "Pancreatic cancer",
+      "metric": "Number",
+      "val": 4091.12403826577,
+      "lower": 2888.7294137403333,
+      "upper": 6020.484478228167
+    },
+    {
+      "rei": 105,
+      "cause": "Pancreatic cancer",
+      "metric": "Rate",
+      "val": 0.1021878856593998,
+      "lower": 0.07215453461473996,
+      "upper": 0.1503793514254248
+    },
+    {
+      "rei": 105,
+      "cause": "Bladder cancer",
+      "metric": "Number",
+      "val": 466.3542655389112,
+      "lower": 266.7518591931548,
+      "upper": 756.3193195268797
+    },
+    {
+      "rei": 105,
+      "cause": "Bladder cancer",
+      "metric": "Rate",
+      "val": 0.011648572841576546,
+      "lower": 0.006662914209322642,
+      "upper": 0.01889130503571085
+    },
+    {
+      "rei": 108,
+      "cause": "Liver cancer",
+      "metric": "Number",
+      "val": 6957.6158952882015,
+      "lower": 3098.3897029728478,
+      "upper": 11220.271332400052
+    },
+    {
+      "rei": 108,
+      "cause": "Liver cancer",
+      "metric": "Rate",
+      "val": 0.17378697172699747,
+      "lower": 0.0773914185280644,
+      "upper": 0.2802593598381271
+    },
+    {
+      "rei": 108,
+      "cause": "Breast cancer",
+      "metric": "Number",
+      "val": -7954.180258255096,
+      "lower": -16739.75488635299,
+      "upper": 1012.2339956905856
+    },
+    {
+      "rei": 108,
+      "cause": "Breast cancer",
+      "metric": "Rate",
+      "val": -0.19867910509244363,
+      "lower": -0.4181247359633083,
+      "upper": 0.02528352864510909
+    },
+    {
+      "rei": 108,
+      "cause": "Uterine cancer",
+      "metric": "Number",
+      "val": 2942.6200386851297,
+      "lower": 2061.587952366822,
+      "upper": 4161.028928667025
+    },
+    {
+      "rei": 108,
+      "cause": "Uterine cancer",
+      "metric": "Rate",
+      "val": 0.07350061187088379,
+      "lower": 0.05149423776516926,
+      "upper": 0.10393396641386758
+    },
+    {
+      "rei": 108,
+      "cause": "Colon and rectum cancer",
+      "metric": "Number",
+      "val": 8617.322041811956,
+      "lower": 4462.788516740986,
+      "upper": 12995.248782472765
+    },
+    {
+      "rei": 108,
+      "cause": "Colon and rectum cancer",
+      "metric": "Rate",
+      "val": 0.2152430264305033,
+      "lower": 0.1114713018733422,
+      "upper": 0.32459465522871395
+    },
+    {
+      "rei": 108,
+      "cause": "Gallbladder and biliary tract cancer",
+      "metric": "Number",
+      "val": 1287.9800014921984,
+      "lower": 830.6833326063902,
+      "upper": 1848.6758676730838
+    },
+    {
+      "rei": 108,
+      "cause": "Gallbladder and biliary tract cancer",
+      "metric": "Rate",
+      "val": 0.03217109818549295,
+      "lower": 0.020748765526926952,
+      "upper": 0.04617613067218291
+    },
+    {
+      "rei": 108,
+      "cause": "Pancreatic cancer",
+      "metric": "Number",
+      "val": 385.8869381717652,
+      "lower": -609.4979649256801,
+      "upper": 1310.214996257405
+    },
+    {
+      "rei": 108,
+      "cause": "Pancreatic cancer",
+      "metric": "Rate",
+      "val": 0.009638664080218873,
+      "lower": -0.015224008797314347,
+      "upper": 0.03272648274031259
+    },
+    {
+      "rei": 108,
+      "cause": "Ovarian cancer",
+      "metric": "Number",
+      "val": 2975.786021686767,
+      "lower": 1192.3444531704542,
+      "upper": 5206.299838192221
+    },
+    {
+      "rei": 108,
+      "cause": "Ovarian cancer",
+      "metric": "Rate",
+      "val": 0.0743290300872596,
+      "lower": 0.02978231838183312,
+      "upper": 0.13004268939234176
+    },
+    {
+      "rei": 108,
+      "cause": "Kidney cancer",
+      "metric": "Number",
+      "val": 2249.4486143973986,
+      "lower": 984.1587939194139,
+      "upper": 3403.1868496797642
+    },
+    {
+      "rei": 108,
+      "cause": "Kidney cancer",
+      "metric": "Rate",
+      "val": 0.05618661171226119,
+      "lower": 0.02458226770028738,
+      "upper": 0.08500462597073112
+    },
+    {
+      "rei": 108,
+      "cause": "Thyroid cancer",
+      "metric": "Number",
+      "val": 922.2205161893646,
+      "lower": 619.4913051357936,
+      "upper": 1265.175443325485
+    },
+    {
+      "rei": 108,
+      "cause": "Thyroid cancer",
+      "metric": "Rate",
+      "val": 0.023035176587082828,
+      "lower": 0.015473621934729623,
+      "upper": 0.031601487105345605
+    },
+    {
+      "rei": 108,
+      "cause": "Non-Hodgkin lymphoma",
+      "metric": "Number",
+      "val": 1896.6653390258396,
+      "lower": 634.7024042810534,
+      "upper": 3167.007418730032
+    },
+    {
+      "rei": 108,
+      "cause": "Non-Hodgkin lymphoma",
+      "metric": "Rate",
+      "val": 0.04737480921763451,
+      "lower": 0.01585356398627116,
+      "upper": 0.0791053483005229
+    },
+    {
+      "rei": 108,
+      "cause": "Multiple myeloma",
+      "metric": "Number",
+      "val": 493.8062186382374,
+      "lower": -203.4251807285388,
+      "upper": 1236.9903843012917
+    },
+    {
+      "rei": 108,
+      "cause": "Multiple myeloma",
+      "metric": "Rate",
+      "val": 0.01233426631315125,
+      "lower": -0.005081143694030489,
+      "upper": 0.03089748215171222
+    },
+    {
+      "rei": 108,
+      "cause": "Leukemia",
+      "metric": "Number",
+      "val": 5510.686783476431,
+      "lower": 3809.3851091262113,
+      "upper": 7474.441098606123
+    },
+    {
+      "rei": 108,
+      "cause": "Leukemia",
+      "metric": "Rate",
+      "val": 0.13764565084498506,
+      "lower": 0.09515062518833399,
+      "upper": 0.18669620505470066
+    }
+  ],
+  "apc_ie": [
+    {
+      "location": "Global",
+      "measure": "Deaths",
+      "effect_type": "age",
+      "level": "15-19",
+      "estimate": -0.6373531489969411,
+      "rate_ratio": 0.5286899372132067
+    },
+    {
+      "location": "Global",
+      "measure": "Deaths",
+      "effect_type": "age",
+      "level": "20-24",
+      "estimate": -0.4857286986788521,
+      "rate_ratio": 0.6152487024588799
+    },
+    {
+      "location": "Global",
+      "measure": "Deaths",
+      "effect_type": "age",
+      "level": "25-29",
+      "estimate": -0.22506641823748216,
+      "rate_ratio": 0.7984631844807673
+    },
+    {
+      "location": "Global",
+      "measure": "Deaths",
+      "effect_type": "age",
+      "level": "30-34",
+      "estimate": 0.2459956209410027,
+      "rate_ratio": 1.2788939731773161
+    },
+    {
+      "location": "Global",
+      "measure": "Deaths",
+      "effect_type": "age",
+      "level": "35-39",
+      "estimate": 0.6518081260264761,
+      "rate_ratio": 1.919007501387414
+    },
+    {
+      "location": "Global",
+      "measure": "Deaths",
+      "effect_type": "age",
+      "level": "40-44",
+      "estimate": 1.1510121551483825,
+      "rate_ratio": 3.1613911091668934
+    },
+    {
+      "location": "Global",
+      "measure": "Deaths",
+      "effect_type": "age",
+      "level": "45-49",
+      "estimate": 1.616580463982659,
+      "rate_ratio": 5.035840602046273
+    },
+    {
+      "location": "Global",
+      "measure": "Deaths",
+      "effect_type": "period",
+      "level": "1990",
+      "estimate": 0.33058514537288924,
+      "rate_ratio": 1.3917822852047819
+    },
+    {
+      "location": "Global",
+      "measure": "Deaths",
+      "effect_type": "period",
+      "level": "1995",
+      "estimate": 0.35090524027759173,
+      "rate_ratio": 1.4203527273048713
+    },
+    {
+      "location": "Global",
+      "measure": "Deaths",
+      "effect_type": "period",
+      "level": "2000",
+      "estimate": 0.3482711442690872,
+      "rate_ratio": 1.416616305063084
+    },
+    {
+      "location": "Global",
+      "measure": "Deaths",
+      "effect_type": "period",
+      "level": "2005",
+      "estimate": 0.3084713018702005,
+      "rate_ratio": 1.361342441004926
+    },
+    {
+      "location": "Global",
+      "measure": "Deaths",
+      "effect_type": "period",
+      "level": "2010",
+      "estimate": 0.2906336838398134,
+      "rate_ratio": 1.3372746289091124
+    },
+    {
+      "location": "Global",
+      "measure": "Deaths",
+      "effect_type": "period",
+      "level": "2015",
+      "estimate": 0.34004337469819457,
+      "rate_ratio": 1.4050085310629419
+    },
+    {
+      "location": "Global",
+      "measure": "Deaths",
+      "effect_type": "period",
+      "level": "2020",
+      "estimate": 0.3483382098574672,
+      "rate_ratio": 1.4167113144549865
+    },
+    {
+      "location": "Global",
+      "measure": "Deaths",
+      "effect_type": "cohort",
+      "level": "1945",
+      "estimate": 0.49892382376972627,
+      "rate_ratio": 1.6469479104534788
+    },
+    {
+      "location": "Global",
+      "measure": "Deaths",
+      "effect_type": "cohort",
+      "level": "1950",
+      "estimate": 0.45590353655705196,
+      "rate_ratio": 1.5775981568765112
+    },
+    {
+      "location": "Global",
+      "measure": "Deaths",
+      "effect_type": "cohort",
+      "level": "1955",
+      "estimate": 0.3969331208140226,
+      "rate_ratio": 1.4872564602237137
+    },
+    {
+      "location": "Global",
+      "measure": "Deaths",
+      "effect_type": "cohort",
+      "level": "1960",
+      "estimate": 0.3151791010155686,
+      "rate_ratio": 1.3705047477695165
+    },
+    {
+      "location": "Global",
+      "measure": "Deaths",
+      "effect_type": "cohort",
+      "level": "1965",
+      "estimate": 0.2592059422913322,
+      "rate_ratio": 1.295900658099786
+    },
+    {
+      "location": "Global",
+      "measure": "Deaths",
+      "effect_type": "cohort",
+      "level": "1970",
+      "estimate": 0.19657338106389677,
+      "rate_ratio": 1.2172246388400298
+    },
+    {
+      "location": "Global",
+      "measure": "Deaths",
+      "effect_type": "cohort",
+      "level": "1974",
+      "estimate": 0.16984961672984142,
+      "rate_ratio": 1.1851266147029278
+    },
+    {
+      "location": "Global",
+      "measure": "Deaths",
+      "effect_type": "cohort",
+      "level": "1975",
+      "estimate": 0.14295021238513292,
+      "rate_ratio": 1.1536723616408973
+    },
+    {
+      "location": "Global",
+      "measure": "Deaths",
+      "effect_type": "cohort",
+      "level": "1980",
+      "estimate": 0.18868611077755992,
+      "rate_ratio": 1.2076618209534145
+    },
+    {
+      "location": "Global",
+      "measure": "Deaths",
+      "effect_type": "cohort",
+      "level": "1980",
+      "estimate": 0.08043493091496207,
+      "rate_ratio": 1.0837583251852703
+    },
+    {
+      "location": "Global",
+      "measure": "Deaths",
+      "effect_type": "cohort",
+      "level": "1984",
+      "estimate": 0.16892660771061146,
+      "rate_ratio": 1.1840332368250737
+    },
+    {
+      "location": "Global",
+      "measure": "Deaths",
+      "effect_type": "cohort",
+      "level": "1985",
+      "estimate": 0.01779349614589742,
+      "rate_ratio": 1.017952743518761
+    },
+    {
+      "location": "Global",
+      "measure": "Deaths",
+      "effect_type": "cohort",
+      "level": "1990",
+      "estimate": 0.10819029955024796,
+      "rate_ratio": 1.1142597683446662
+    },
+    {
+      "location": "Global",
+      "measure": "Deaths",
+      "effect_type": "cohort",
+      "level": "1990",
+      "estimate": -0.05461597995882799,
+      "rate_ratio": 0.9468486870176452
+    },
+    {
+      "location": "Global",
+      "measure": "Deaths",
+      "effect_type": "cohort",
+      "level": "1994",
+      "estimate": 0.011195887918640832,
+      "rate_ratio": 1.0112587964247752
+    },
+    {
+      "location": "Global",
+      "measure": "Deaths",
+      "effect_type": "cohort",
+      "level": "1995",
+      "estimate": -0.1287355412024859,
+      "rate_ratio": 0.8792064486833081
+    },
+    {
+      "location": "Global",
+      "measure": "Deaths",
+      "effect_type": "cohort",
+      "level": "2000",
+      "estimate": -0.09917353763615624,
+      "rate_ratio": 0.9055855412126051
+    },
+    {
+      "location": "Global",
+      "measure": "Deaths",
+      "effect_type": "cohort",
+      "level": "2000",
+      "estimate": -0.21163613346850813,
+      "rate_ratio": 0.8092591063045976
+    },
+    {
+      "location": "Global",
+      "measure": "Deaths",
+      "effect_type": "cohort",
+      "level": "2004",
+      "estimate": -0.19933677519328513,
+      "rate_ratio": 0.8192739357296374
+    },
+    {
+      "location": "Global",
+      "measure": "Incidence",
+      "effect_type": "age",
+      "level": "15-19",
+      "estimate": -0.705761578092824,
+      "rate_ratio": 0.49373241524592354
+    },
+    {
+      "location": "Global",
+      "measure": "Incidence",
+      "effect_type": "age",
+      "level": "20-24",
+      "estimate": -0.43249813599932907,
+      "rate_ratio": 0.6488860626573822
+    },
+    {
+      "location": "Global",
+      "measure": "Incidence",
+      "effect_type": "age",
+      "level": "25-29",
+      "estimate": 0.023212337993181252,
+      "rate_ratio": 1.023483840980573
+    },
+    {
+      "location": "Global",
+      "measure": "Incidence",
+      "effect_type": "age",
+      "level": "30-34",
+      "estimate": 0.4900994412510851,
+      "rate_ratio": 1.6324785475933559
+    },
+    {
+      "location": "Global",
+      "measure": "Incidence",
+      "effect_type": "age",
+      "level": "35-39",
+      "estimate": 0.8053345323706605,
+      "rate_ratio": 2.2374448713726283
+    },
+    {
+      "location": "Global",
+      "measure": "Incidence",
+      "effect_type": "age",
+      "level": "40-44",
+      "estimate": 1.2089902186042152,
+      "rate_ratio": 3.3501000752650096
+    },
+    {
+      "location": "Global",
+      "measure": "Incidence",
+      "effect_type": "age",
+      "level": "45-49",
+      "estimate": 1.6006850274715558,
+      "rate_ratio": 4.95642655007527
+    },
+    {
+      "location": "Global",
+      "measure": "Incidence",
+      "effect_type": "period",
+      "level": "1990",
+      "estimate": 0.30139785175420447,
+      "rate_ratio": 1.3517470294978007
+    },
+    {
+      "location": "Global",
+      "measure": "Incidence",
+      "effect_type": "period",
+      "level": "1995",
+      "estimate": 0.3598806065599222,
+      "rate_ratio": 1.433158294646272
+    },
+    {
+      "location": "Global",
+      "measure": "Incidence",
+      "effect_type": "period",
+      "level": "2000",
+      "estimate": 0.3933841143137663,
+      "rate_ratio": 1.4819875326383303
+    },
+    {
+      "location": "Global",
+      "measure": "Incidence",
+      "effect_type": "period",
+      "level": "2005",
+      "estimate": 0.4122691087383346,
+      "rate_ratio": 1.5102408006446413
+    },
+    {
+      "location": "Global",
+      "measure": "Incidence",
+      "effect_type": "period",
+      "level": "2010",
+      "estimate": 0.43959731983422606,
+      "rate_ratio": 1.5520820999810512
+    },
+    {
+      "location": "Global",
+      "measure": "Incidence",
+      "effect_type": "period",
+      "level": "2015",
+      "estimate": 0.5160037245614492,
+      "rate_ratio": 1.6753192172153386
+    },
+    {
+      "location": "Global",
+      "measure": "Incidence",
+      "effect_type": "period",
+      "level": "2020",
+      "estimate": 0.5675291178366413,
+      "rate_ratio": 1.763903265337078
+    },
+    {
+      "location": "Global",
+      "measure": "Incidence",
+      "effect_type": "cohort",
+      "level": "1945",
+      "estimate": 0.5212750343029898,
+      "rate_ratio": 1.6841736604787763
+    },
+    {
+      "location": "Global",
+      "measure": "Incidence",
+      "effect_type": "cohort",
+      "level": "1950",
+      "estimate": 0.4881559130046452,
+      "rate_ratio": 1.6293088606102317
+    },
+    {
+      "location": "Global",
+      "measure": "Incidence",
+      "effect_type": "cohort",
+      "level": "1955",
+      "estimate": 0.4282260961510896,
+      "rate_ratio": 1.5345329937518866
+    },
+    {
+      "location": "Global",
+      "measure": "Incidence",
+      "effect_type": "cohort",
+      "level": "1960",
+      "estimate": 0.3612216473258031,
+      "rate_ratio": 1.435081507608621
+    },
+    {
+      "location": "Global",
+      "measure": "Incidence",
+      "effect_type": "cohort",
+      "level": "1965",
+      "estimate": 0.2884489521455947,
+      "rate_ratio": 1.3343562317616375
+    },
+    {
+      "location": "Global",
+      "measure": "Incidence",
+      "effect_type": "cohort",
+      "level": "1970",
+      "estimate": 0.21739280685632895,
+      "rate_ratio": 1.2428321992766789
+    },
+    {
+      "location": "Global",
+      "measure": "Incidence",
+      "effect_type": "cohort",
+      "level": "1974",
+      "estimate": 0.16861176907958708,
+      "rate_ratio": 1.1836605160982248
+    },
+    {
+      "location": "Global",
+      "measure": "Incidence",
+      "effect_type": "cohort",
+      "level": "1975",
+      "estimate": 0.1684116962068898,
+      "rate_ratio": 1.1834237214273555
+    },
+    {
+      "location": "Global",
+      "measure": "Incidence",
+      "effect_type": "cohort",
+      "level": "1980",
+      "estimate": 0.19049980848897793,
+      "rate_ratio": 1.20985414193705
+    },
+    {
+      "location": "Global",
+      "measure": "Incidence",
+      "effect_type": "cohort",
+      "level": "1980",
+      "estimate": 0.12125227074578905,
+      "rate_ratio": 1.1289096673318664
+    },
+    {
+      "location": "Global",
+      "measure": "Incidence",
+      "effect_type": "cohort",
+      "level": "1984",
+      "estimate": 0.18552041017834997,
+      "rate_ratio": 1.2038447702108557
+    },
+    {
+      "location": "Global",
+      "measure": "Incidence",
+      "effect_type": "cohort",
+      "level": "1985",
+      "estimate": 0.064623348617483,
+      "rate_ratio": 1.0667571531497217
+    },
+    {
+      "location": "Global",
+      "measure": "Incidence",
+      "effect_type": "cohort",
+      "level": "1990",
+      "estimate": 0.1416281408606961,
+      "rate_ratio": 1.1521481320553213
+    },
+    {
+      "location": "Global",
+      "measure": "Incidence",
+      "effect_type": "cohort",
+      "level": "1990",
+      "estimate": 0.00022102373900618948,
+      "rate_ratio": 1.0002210481665526
+    },
+    {
+      "location": "Global",
+      "measure": "Incidence",
+      "effect_type": "cohort",
+      "level": "1994",
+      "estimate": 0.06420082984400298,
+      "rate_ratio": 1.0663065234322338
+    },
+    {
+      "location": "Global",
+      "measure": "Incidence",
+      "effect_type": "cohort",
+      "level": "1995",
+      "estimate": -0.07672389697515615,
+      "rate_ratio": 0.9261455298906218
+    },
+    {
+      "location": "Global",
+      "measure": "Incidence",
+      "effect_type": "cohort",
+      "level": "2000",
+      "estimate": -0.04166138144532718,
+      "rate_ratio": 0.9591945266511223
+    },
+    {
+      "location": "Global",
+      "measure": "Incidence",
+      "effect_type": "cohort",
+      "level": "2000",
+      "estimate": -0.15997216635856767,
+      "rate_ratio": 0.8521675075609682
+    },
+    {
+      "location": "Global",
+      "measure": "Incidence",
+      "effect_type": "cohort",
+      "level": "2004",
+      "estimate": -0.14127045916965095,
+      "rate_ratio": 0.8682544525609106
+    }
+  ],
+  "inequality": [
+    {
+      "outcome": "Total Deaths (15-49 rate)",
+      "sex": "both",
+      "year": 2023,
+      "n_countries": 204,
+      "concentration_index": -0.08818683676207234,
+      "sii": -15.999583523981723,
+      "sii_ci_low": -20.962765461711193,
+      "sii_ci_high": -11.036401586252254,
+      "rii": 0.5599668159471771,
+      "rii_ci_low": 0.46574336415746387,
+      "rii_ci_high": 0.6541902677368904,
+      "weighted_mean": 29.864122380330425
+    },
+    {
+      "outcome": "Total DALYs (15-49 rate)",
+      "sex": "both",
+      "year": 2023,
+      "n_countries": 204,
+      "concentration_index": -0.09907232875472886,
+      "sii": -932.0442985136208,
+      "sii_ci_low": -1198.1934895351492,
+      "sii_ci_high": -665.8951074920924,
+      "rii": 0.5158616841793083,
+      "rii_ci_low": 0.4258481099728061,
+      "rii_ci_high": 0.6058752583858106,
+      "weighted_mean": 1548.5635270657222
+    },
+    {
+      "outcome": "Total Incidence (15-49 rate)",
+      "sex": "both",
+      "year": 2023,
+      "n_countries": 204,
+      "concentration_index": 0.06889136828381198,
+      "sii": 33.841922393134645,
+      "sii_ci_low": 19.63422795705991,
+      "sii_ci_high": 48.049616829209384,
+      "rii": 1.6598005651428511,
+      "rii_ci_low": 1.366944372609792,
+      "rii_ci_high": 1.9526567576759102,
+      "weighted_mean": 80.86024598764148
+    },
+    {
+      "outcome": "Total Deaths (15-49 rate)",
+      "sex": "male",
+      "year": 2023,
+      "n_countries": 204,
+      "concentration_index": 0.03200303904957104,
+      "sii": 4.903082924262657,
+      "sii_ci_low": 0.911337403096999,
+      "sii_ci_high": 8.894828445428315,
+      "rii": 1.2062603724049648,
+      "rii_ci_low": 1.0148994288961863,
+      "rii_ci_high": 1.3976213159137432,
+      "weighted_mean": 25.218709590025995
+    },
+    {
+      "outcome": "Total DALYs (15-49 rate)",
+      "sex": "male",
+      "year": 2023,
+      "n_countries": 204,
+      "concentration_index": 0.021526462483998997,
+      "sii": 168.85432782586213,
+      "sii_ci_low": -32.34323374715865,
+      "sii_ci_high": 370.0518893988829,
+      "rii": 1.1362615419755855,
+      "rii_ci_low": 0.9590386220194425,
+      "rii_ci_high": 1.3134844619317285,
+      "weighted_mean": 1291.1728138777003
+    },
+    {
+      "outcome": "Total Incidence (15-49 rate)",
+      "sex": "male",
+      "year": 2023,
+      "n_countries": 204,
+      "concentration_index": 0.20368070098306126,
+      "sii": 67.37860948082938,
+      "sii_ci_low": 58.954881447512435,
+      "sii_ci_high": 75.80233751414633,
+      "rii": 3.79741247915459,
+      "rii_ci_low": 3.184728648938553,
+      "rii_ci_high": 4.410096309370626,
+      "weighted_mean": 54.45239755224478
+    },
+    {
+      "outcome": "Total Deaths (15-49 rate)",
+      "sex": "female",
+      "year": 2023,
+      "n_countries": 204,
+      "concentration_index": -0.17470477662712117,
+      "sii": -36.491446756435565,
+      "sii_ci_low": -43.77327223782357,
+      "sii_ci_high": -29.209621275047557,
+      "rii": 0.2896662680564279,
+      "rii_ci_low": 0.22522018667053093,
+      "rii_ci_high": 0.35411234944232495,
+      "weighted_mean": 34.38200081169504
+    },
+    {
+      "outcome": "Total DALYs (15-49 rate)",
+      "sex": "female",
+      "year": 2023,
+      "n_countries": 204,
+      "concentration_index": -0.18373815802906698,
+      "sii": -2008.8340038511956,
+      "sii_ci_low": -2402.530636128481,
+      "sii_ci_high": -1615.13737157391,
+      "rii": 0.26583090773687407,
+      "rii_ci_low": 0.2043752301644445,
+      "rii_ci_high": 0.32728658530930366,
+      "weighted_mean": 1799.656156408243
+    },
+    {
+      "outcome": "Total Incidence (15-49 rate)",
+      "sex": "female",
+      "year": 2023,
+      "n_countries": 204,
+      "concentration_index": 0.00521143952243692,
+      "sii": 3.401440566642032,
+      "sii_ci_low": -18.27689018568178,
+      "sii_ci_high": 25.07977131896584,
+      "rii": 1.040921146861733,
+      "rii_ci_low": 0.8308848291087829,
+      "rii_ci_high": 1.250957464614683,
+      "weighted_mean": 107.43604890661267
+    },
+    {
+      "outcome": "Metabolic PAF (deaths, %)",
+      "sex": "both",
+      "year": 2023,
+      "n_countries": 204,
+      "concentration_index": 0.20889742083652696,
+      "sii": 5.342985310688778,
+      "sii_ci_low": 4.6622566014343505,
+      "sii_ci_high": 6.023714019943206,
+      "rii": 3.4475186865201652,
+      "rii_ci_low": 2.8398155936725695,
+      "rii_ci_high": 4.055221779367761,
+      "weighted_mean": 4.210132322888903
+    },
+    {
+      "outcome": "Metabolic-attributable death rate",
+      "sex": "both",
+      "year": 2023,
+      "n_countries": 204,
+      "concentration_index": 0.13693747825168656,
+      "sii": 0.9827683498988882,
+      "sii_ci_low": 0.7525169092047033,
+      "sii_ci_high": 1.213019790593073,
+      "rii": 2.2510531794380326,
+      "rii_ci_low": 1.7955480539488526,
+      "rii_ci_high": 2.7065583049272126,
+      "weighted_mean": 1.1813366537295784
+    }
+  ],
+  "decomposition_global": [
+    {
+      "location_id": 1,
+      "location": "Global",
+      "period": "1990-2023",
+      "outcome": "total_deaths",
+      "value_0": 876308.4293013125,
+      "value_1": 1195700.340958812,
+      "population_effect": 400068.42975846736,
+      "rate_effect": -80676.51810096821,
+      "attributable": false,
+      "paf_effect": NaN
+    },
+    {
+      "location_id": 1,
+      "location": "Global",
+      "period": "1990-2023",
+      "outcome": "attributable_deaths",
+      "value_0": 23655.410325051227,
+      "value_1": 47303.09628718505,
+      "population_effect": 13280.970293117089,
+      "rate_effect": -2717.112146668622,
+      "attributable": true,
+      "paf_effect": 13083.82781568534
+    },
+    {
+      "location_id": 1,
+      "location": "Global",
+      "period": "2000-2023",
+      "outcome": "total_deaths",
+      "value_0": 1048185.344143426,
+      "value_1": 1195700.340958812,
+      "population_effect": 253621.26996363443,
+      "rate_effect": -106106.27314824867,
+      "attributable": false,
+      "paf_effect": NaN
+    },
+    {
+      "location_id": 1,
+      "location": "Global",
+      "period": "2000-2023",
+      "outcome": "attributable_deaths",
+      "value_0": 32660.639029416438,
+      "value_1": 47303.09628718505,
+      "population_effect": 8951.370774704958,
+      "rate_effect": -3768.634203892301,
+      "attributable": true,
+      "paf_effect": 9459.720686955943
+    },
+    {
+      "location_id": 1,
+      "location": "Global",
+      "period": "2010-2023",
+      "outcome": "total_deaths",
+      "value_0": 1030837.05987336,
+      "value_1": 1195700.340958812,
+      "population_effect": 100162.08166253619,
+      "rate_effect": 64701.199422915524,
+      "attributable": false,
+      "paf_effect": NaN
+    },
+    {
+      "location_id": 1,
+      "location": "Global",
+      "period": "2010-2023",
+      "outcome": "attributable_deaths",
+      "value_0": 35734.34696691149,
+      "value_1": 47303.09628718505,
+      "population_effect": 3719.711605448933,
+      "rate_effect": 2403.6454146293568,
+      "attributable": true,
+      "paf_effect": 5445.392300195253
+    }
+  ],
+  "projection_2050_rate": [
+    {
+      "location": "Global",
+      "measure": "Deaths",
+      "age": "15-49",
+      "year": 2050,
+      "model": "ARIMA(2, 1, 0)",
+      "projected_rate": 32.62973926816682,
+      "pi_low": 21.83691049011141,
+      "pi_high": 48.75689192345615,
+      "constant_rate_scenario": 29.86614157428461
+    },
+    {
+      "location": "Global",
+      "measure": "DALYs",
+      "age": "15-49",
+      "year": 2050,
+      "model": "ARIMA(1, 1, 0)",
+      "projected_rate": 1639.2298381346668,
+      "pi_low": 1156.7812157954456,
+      "pi_high": 2322.8890870113873,
+      "constant_rate_scenario": 1548.6649904986207
+    },
+    {
+      "location": "Global",
+      "measure": "Incidence",
+      "age": "15-49",
+      "year": 2050,
+      "model": "ARIMA(1, 1, 0)",
+      "projected_rate": 91.60928718931031,
+      "pi_low": 60.986194011754016,
+      "pi_high": 137.6092021370619,
+      "constant_rate_scenario": 80.86650784694825
+    },
+    {
+      "location": "Low SDI",
+      "measure": "Deaths",
+      "age": "15-49",
+      "year": 2050,
+      "model": "ARIMA(2, 1, 0)",
+      "projected_rate": 81.10187781751627,
+      "pi_low": 34.47164099703101,
+      "pi_high": 190.80944205974552,
+      "constant_rate_scenario": 37.35201829863052
+    },
+    {
+      "location": "Low SDI",
+      "measure": "DALYs",
+      "age": "15-49",
+      "year": 2050,
+      "model": "ARIMA(2, 1, 0)",
+      "projected_rate": 4275.275183626665,
+      "pi_low": 1898.0183256117518,
+      "pi_high": 9630.032360115822,
+      "constant_rate_scenario": 1990.084389907109
+    },
+    {
+      "location": "Low SDI",
+      "measure": "Incidence",
+      "age": "15-49",
+      "year": 2050,
+      "model": "ARIMA(2, 1, 0)",
+      "projected_rate": 248.560181547703,
+      "pi_low": 87.55186236858029,
+      "pi_high": 705.6636167364821,
+      "constant_rate_scenario": 79.21472876573326
+    },
+    {
+      "location": "Low-middle SDI",
+      "measure": "Deaths",
+      "age": "15-49",
+      "year": 2050,
+      "model": "ARIMA(0, 1, 0)drift",
+      "projected_rate": 36.72446632841329,
+      "pi_low": 31.05565344579385,
+      "pi_high": 43.428048598649816,
+      "constant_rate_scenario": 29.462988903439165
+    },
+    {
+      "location": "Low-middle SDI",
+      "measure": "DALYs",
+      "age": "15-49",
+      "year": 2050,
+      "model": "ARIMA(0, 1, 0)drift",
+      "projected_rate": 1881.6101231381745,
+      "pi_low": 1603.6946464793866,
+      "pi_high": 2207.687519109994,
+      "constant_rate_scenario": 1540.8756392451744
+    },
+    {
+      "location": "Low-middle SDI",
+      "measure": "Incidence",
+      "age": "15-49",
+      "year": 2050,
+      "model": "ARIMA(2, 1, 0)",
+      "projected_rate": 70.81116906982696,
+      "pi_low": 39.179405857282475,
+      "pi_high": 127.98105421253088,
+      "constant_rate_scenario": 62.85032846926145
+    },
+    {
+      "location": "Middle SDI",
+      "measure": "Deaths",
+      "age": "15-49",
+      "year": 2050,
+      "model": "ARIMA(0, 1, 0)drift",
+      "projected_rate": 37.92626324191822,
+      "pi_low": 34.40315015821514,
+      "pi_high": 41.81016671090512,
+      "constant_rate_scenario": 30.916139180535154
+    },
+    {
+      "location": "Middle SDI",
+      "measure": "DALYs",
+      "age": "15-49",
+      "year": 2050,
+      "model": "ARIMA(0, 1, 0)drift",
+      "projected_rate": 1885.3383293719116,
+      "pi_low": 1715.2244523140914,
+      "pi_high": 2072.3238940555707,
+      "constant_rate_scenario": 1589.424608287294
+    },
+    {
+      "location": "Middle SDI",
+      "measure": "Incidence",
+      "age": "15-49",
+      "year": 2050,
+      "model": "ARIMA(0, 1, 0)drift",
+      "projected_rate": 116.15928792599614,
+      "pi_low": 105.28728021861754,
+      "pi_high": 128.15394360513227,
+      "constant_rate_scenario": 73.11098838345568
+    },
+    {
+      "location": "High-middle SDI",
+      "measure": "Deaths",
+      "age": "15-49",
+      "year": 2050,
+      "model": "ARIMA(1, 1, 0)",
+      "projected_rate": 28.004836149415226,
+      "pi_low": 20.88239783534711,
+      "pi_high": 37.556551404651344,
+      "constant_rate_scenario": 27.97616493254613
+    },
+    {
+      "location": "High-middle SDI",
+      "measure": "DALYs",
+      "age": "15-49",
+      "year": 2050,
+      "model": "ARIMA(1, 1, 0)",
+      "projected_rate": 1430.3782277861978,
+      "pi_low": 1041.6056524329144,
+      "pi_high": 1964.257653312377,
+      "constant_rate_scenario": 1429.1402122024429
+    },
+    {
+      "location": "High-middle SDI",
+      "measure": "Incidence",
+      "age": "15-49",
+      "year": 2050,
+      "model": "ARIMA(1, 1, 0)",
+      "projected_rate": 75.09264088183694,
+      "pi_low": 53.919798007471435,
+      "pi_high": 104.57948514249193,
+      "constant_rate_scenario": 72.81793057945673
+    },
+    {
+      "location": "High SDI",
+      "measure": "Deaths",
+      "age": "15-49",
+      "year": 2050,
+      "model": "ARIMA(1, 1, 0)",
+      "projected_rate": 23.776592451855556,
+      "pi_low": 12.899675483707234,
+      "pi_high": 43.82485042632759,
+      "constant_rate_scenario": 25.51412546676339
+    },
+    {
+      "location": "High SDI",
+      "measure": "DALYs",
+      "age": "15-49",
+      "year": 2050,
+      "model": "ARIMA(1, 1, 0)",
+      "projected_rate": 1208.175869880936,
+      "pi_low": 659.3697663218579,
+      "pi_high": 2213.7638198140244,
+      "constant_rate_scenario": 1298.1594697333314
+    },
+    {
+      "location": "High SDI",
+      "measure": "Incidence",
+      "age": "15-49",
+      "year": 2050,
+      "model": "ARIMA(1, 1, 0)",
+      "projected_rate": 100.16315443417874,
+      "pi_low": 74.17626116482508,
+      "pi_high": 135.2542895618834,
+      "constant_rate_scenario": 100.54501109721713
+    }
+  ],
+  "projection_2050_number": [
+    {
+      "location": "Global",
+      "measure": "Deaths",
+      "year": 2050,
+      "projected_number": 1387329.1853203771,
+      "pi_low": 928446.990985174,
+      "pi_high": 2073012.554437193,
+      "undamped_pop_scenario": 1582207.1008504385,
+      "pop_scenario": 4251732365.737407,
+      "rate_model": "ARIMA(2, 1, 0)"
+    },
+    {
+      "location": "Global",
+      "measure": "DALYs",
+      "year": 2050,
+      "projected_number": 69695665.57679655,
+      "pi_low": 49183241.352745645,
+      "pi_high": 98763027.13264531,
+      "undamped_pop_scenario": 79485804.91272482,
+      "pop_scenario": 4251732365.737407,
+      "rate_model": "ARIMA(1, 1, 0)"
+    },
+    {
+      "location": "Global",
+      "measure": "Incidence",
+      "year": 2050,
+      "projected_number": 3894981.7134492383,
+      "pi_low": 2592969.749429154,
+      "pi_high": 5850774.985494474,
+      "undamped_pop_scenario": 4442109.190746133,
+      "pop_scenario": 4251732365.737407,
+      "rate_model": "ARIMA(1, 1, 0)"
+    }
+  ],
+  "projection_2050_attributable": [
+    {
+      "location": "Global",
+      "measure": "Deaths",
+      "variable": "attributable_rate",
+      "year": 2050,
+      "projected": 1.407327618960592,
+      "pi_low": 0.8351298458408208,
+      "pi_high": 2.3715725607857085,
+      "model": "ARIMA(1, 1, 0)"
+    },
+    {
+      "location": "Global",
+      "measure": "Deaths",
+      "variable": "paf_percent",
+      "year": 2050,
+      "projected": 4.808836955328151,
+      "pi_low": 3.6192773555338134,
+      "pi_high": 6.389372957994536,
+      "model": "ARIMA(2, 1, 0)"
+    },
+    {
+      "location": "Global",
+      "measure": "DALYs",
+      "variable": "attributable_rate",
+      "year": 2050,
+      "projected": 70.8904465884241,
+      "pi_low": 41.7451635136799,
+      "pi_high": 120.38413541869025,
+      "model": "ARIMA(1, 1, 0)"
+    },
+    {
+      "location": "Global",
+      "measure": "DALYs",
+      "variable": "paf_percent",
+      "year": 2050,
+      "projected": 4.280238753417098,
+      "pi_low": 3.1583291363229042,
+      "pi_high": 5.800675925620341,
+      "model": "ARIMA(1, 1, 0)"
+    },
+    {
+      "location": "Low SDI",
+      "measure": "Deaths",
+      "variable": "attributable_rate",
+      "year": 2050,
+      "projected": 3.1631797373322215,
+      "pi_low": 1.4244041186565055,
+      "pi_high": 7.0244854810631265,
+      "model": "ARIMA(2, 1, 0)"
+    },
+    {
+      "location": "Low SDI",
+      "measure": "Deaths",
+      "variable": "paf_percent",
+      "year": 2050,
+      "projected": 3.107227101722178,
+      "pi_low": 1.9102350352495199,
+      "pi_high": 5.054278705769661,
+      "model": "ARIMA(2, 1, 0)"
+    },
+    {
+      "location": "Low SDI",
+      "measure": "DALYs",
+      "variable": "attributable_rate",
+      "year": 2050,
+      "projected": 156.14059226941959,
+      "pi_low": 73.62893008343445,
+      "pi_high": 331.11827819063046,
+      "model": "ARIMA(2, 1, 0)"
+    },
+    {
+      "location": "Low SDI",
+      "measure": "DALYs",
+      "variable": "paf_percent",
+      "year": 2050,
+      "projected": 3.076012776236784,
+      "pi_low": 1.866044712951779,
+      "pi_high": 5.070540129022318,
+      "model": "ARIMA(2, 1, 0)"
+    },
+    {
+      "location": "Low-middle SDI",
+      "measure": "Deaths",
+      "variable": "attributable_rate",
+      "year": 2050,
+      "projected": 1.706125513263552,
+      "pi_low": 1.4912098951344013,
+      "pi_high": 1.9520151230933624,
+      "model": "ARIMA(0, 1, 0)"
+    },
+    {
+      "location": "Low-middle SDI",
+      "measure": "Deaths",
+      "variable": "paf_percent",
+      "year": 2050,
+      "projected": 4.645198829379085,
+      "pi_low": 4.426320084430037,
+      "pi_high": 4.874900990637088,
+      "model": "ARIMA(0, 1, 0)"
+    },
+    {
+      "location": "Low-middle SDI",
+      "measure": "DALYs",
+      "variable": "attributable_rate",
+      "year": 2050,
+      "projected": 85.32487408699669,
+      "pi_low": 74.89722782591063,
+      "pi_high": 97.2043204974699,
+      "model": "ARIMA(0, 1, 0)"
+    },
+    {
+      "location": "Low-middle SDI",
+      "measure": "DALYs",
+      "variable": "paf_percent",
+      "year": 2050,
+      "projected": 3.738980886743654,
+      "pi_low": 2.44714229719784,
+      "pi_high": 5.712776934730145,
+      "model": "ARIMA(2, 1, 0)"
+    },
+    {
+      "location": "Middle SDI",
+      "measure": "Deaths",
+      "variable": "attributable_rate",
+      "year": 2050,
+      "projected": 2.6792403660755193,
+      "pi_low": 2.4023670242594775,
+      "pi_high": 2.988023423032616,
+      "model": "ARIMA(0, 1, 0)"
+    },
+    {
+      "location": "Middle SDI",
+      "measure": "Deaths",
+      "variable": "paf_percent",
+      "year": 2050,
+      "projected": 6.532657550504381,
+      "pi_low": 4.757470566998582,
+      "pi_high": 8.97023199012355,
+      "model": "ARIMA(1, 1, 0)"
+    },
+    {
+      "location": "Middle SDI",
+      "measure": "DALYs",
+      "variable": "attributable_rate",
+      "year": 2050,
+      "projected": 131.20053520628065,
+      "pi_low": 117.78116332308389,
+      "pi_high": 146.14884038117495,
+      "model": "ARIMA(0, 1, 0)"
+    },
+    {
+      "location": "Middle SDI",
+      "measure": "DALYs",
+      "variable": "paf_percent",
+      "year": 2050,
+      "projected": 7.941711754233997,
+      "pi_low": 5.363744443729785,
+      "pi_high": 11.758723080304124,
+      "model": "ARIMA(1, 1, 0)"
+    },
+    {
+      "location": "High-middle SDI",
+      "measure": "Deaths",
+      "variable": "attributable_rate",
+      "year": 2050,
+      "projected": 1.444277433196433,
+      "pi_low": 0.8911822841421768,
+      "pi_high": 2.340640451631433,
+      "model": "ARIMA(2, 1, 0)"
+    },
+    {
+      "location": "High-middle SDI",
+      "measure": "Deaths",
+      "variable": "paf_percent",
+      "year": 2050,
+      "projected": 7.205420394473841,
+      "pi_low": 4.362124950731561,
+      "pi_high": 11.902016482217576,
+      "model": "ARIMA(1, 1, 0)"
+    },
+    {
+      "location": "High-middle SDI",
+      "measure": "DALYs",
+      "variable": "attributable_rate",
+      "year": 2050,
+      "projected": 69.02762784421743,
+      "pi_low": 45.3068076716672,
+      "pi_high": 105.16771431635155,
+      "model": "ARIMA(1, 1, 0)"
+    },
+    {
+      "location": "High-middle SDI",
+      "measure": "DALYs",
+      "variable": "paf_percent",
+      "year": 2050,
+      "projected": 6.922634073504692,
+      "pi_low": 4.267517553680491,
+      "pi_high": 11.229681404430876,
+      "model": "ARIMA(1, 1, 0)"
+    },
+    {
+      "location": "High SDI",
+      "measure": "Deaths",
+      "variable": "attributable_rate",
+      "year": 2050,
+      "projected": 1.441233507575077,
+      "pi_low": 0.9575692714473573,
+      "pi_high": 2.1691945275327815,
+      "model": "ARIMA(2, 1, 0)"
+    },
+    {
+      "location": "High SDI",
+      "measure": "Deaths",
+      "variable": "paf_percent",
+      "year": 2050,
+      "projected": 9.16791681761946,
+      "pi_low": 6.690340063937316,
+      "pi_high": 12.56299350579278,
+      "model": "ARIMA(2, 1, 0)"
+    },
+    {
+      "location": "High SDI",
+      "measure": "DALYs",
+      "variable": "attributable_rate",
+      "year": 2050,
+      "projected": 70.86644314395687,
+      "pi_low": 47.18317692724617,
+      "pi_high": 106.43735947707373,
+      "model": "ARIMA(2, 1, 0)"
+    },
+    {
+      "location": "High SDI",
+      "measure": "DALYs",
+      "variable": "paf_percent",
+      "year": 2050,
+      "projected": 8.666804583668481,
+      "pi_low": 6.290950950065631,
+      "pi_high": 11.93992804708061,
+      "model": "ARIMA(2, 1, 0)"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "generated_by": "scripts/attributable_sex.py",
+  "population": "Global, age 15-49 (age id 24), metabolic risks (rei 104), cause 410 panels re-based to cause 1059",
+  "paf_unit": "percent (GHI metric 2 is a fraction and was multiplied by 100)",
+  "paf_denominator": "cause-1059 total burden of the same sex/measure/year; PAF was independently recomputed as attributable Number / total-1059 Number and the two agree to machine precision",
+  "max_abs_paf_panel_minus_recomputed_pp": 0.0,
+  "sex_additivity": {
+    "Deaths": {
+      "ratio_2023": 0.9999999999999999,
+      "ratio_mean_1990_2023": 0.9999999999999998,
+      "ratio_min": 0.999999999999999,
+      "ratio_max": 1.0000000000000004,
+      "male_2023": 24023.334722977645,
+      "female_2023": 23279.76156420735,
+      "both_2023": 47303.096287185,
+      "male_plus_female_2023": 47303.09628718499
+    },
+    "DALYs": {
+      "ratio_2023": 0.9999999999999998,
+      "ratio_mean_1990_2023": 1.0,
+      "ratio_min": 0.9999999999999989,
+      "ratio_max": 1.000000000000001,
+      "male_2023": 1182700.4879815448,
+      "female_2023": 1166154.0489562305,
+      "both_2023": 2348854.5369377756,
+      "male_plus_female_2023": 2348854.536937775
+    }
+  },
+  "caveat": "GBD computes male and female estimates independently, so male + female need not equal the both-sex estimate exactly; the ratio is reported rather than forced."
+}

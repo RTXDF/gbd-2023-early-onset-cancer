@@ -1,0 +1,14 @@
+{
+  "pancreas_attributable": "Sex-specific pancreatic cancer (cause 456) attributable deaths were obtained by splitting the both-sex metabolic-risk (rei 104) total from the complete annual series by the sex-specific share of total pancreatic deaths.  The sex-specific GBD attributable slice could not be retrieved because of a server-side API failure; the split values sum exactly to the published both-sex total.",
+  "attributable_deaths_2023": {
+    "Male": [
+      12426.672846946809,
+      24002.993902075577
+    ],
+    "Female": [
+      11228.737478104444,
+      23300.10238510941
+    ]
+  },
+  "published_both_sexes_2023": 47303.096287185
+}

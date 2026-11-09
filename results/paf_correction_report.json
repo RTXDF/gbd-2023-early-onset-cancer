@@ -1,0 +1,62 @@
+[
+  {
+    "panel": "GHI_risk104_country_both",
+    "exact": 15708,
+    "scaled": 15708,
+    "uncorrected": 0
+  },
+  {
+    "panel": "GHI_risk104_country_male",
+    "exact": 15708,
+    "scaled": 15708,
+    "uncorrected": 0
+  },
+  {
+    "panel": "GHI_risk104_country_female",
+    "exact": 15673,
+    "scaled": 15708,
+    "uncorrected": 0
+  },
+  {
+    "panel": "GHI_risk105_country_both",
+    "exact": 15708,
+    "scaled": 15708,
+    "uncorrected": 0
+  },
+  {
+    "panel": "GHI_risk105_country_male",
+    "exact": 15708,
+    "scaled": 15708,
+    "uncorrected": 0
+  },
+  {
+    "panel": "GHI_risk105_country_female",
+    "exact": 15708,
+    "scaled": 15708,
+    "uncorrected": 0
+  },
+  {
+    "panel": "GHI_risk108_country_both",
+    "exact": 15664,
+    "scaled": 15708,
+    "uncorrected": 0
+  },
+  {
+    "panel": "GHI_risk108_country_male",
+    "exact": 15708,
+    "scaled": 15708,
+    "uncorrected": 0
+  },
+  {
+    "panel": "GHI_risk108_country_female",
+    "exact": 15291,
+    "scaled": 15708,
+    "uncorrected": 0
+  },
+  {
+    "panel": "J_risk_age_global",
+    "exact": 4080,
+    "scaled": 612,
+    "uncorrected": 0
+  }
+]
