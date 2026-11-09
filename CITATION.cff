@@ -13,6 +13,7 @@ authors:
     orcid: "https://orcid.org/0000-0002-3036-1056"
 repository-code: "https://github.com/RTXDF/gbd-2023-early-onset-cancer"
 url: "https://github.com/RTXDF/gbd-2023-early-onset-cancer"
+doi: "10.5281/zenodo.24073383"
 version: 1.0.0
 date-released: 2026-11-09
 license: MIT

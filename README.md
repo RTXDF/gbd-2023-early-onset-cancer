@@ -50,7 +50,7 @@ figures.py / figures_revision.py → summarize.py
 
 ## Citation
 
-Cite the article and this repository. The repository is at <https://github.com/RTXDF/gbd-2023-early-onset-cancer>; each release is archived on Zenodo with a DOI, shown in the release badge and cited in the article's code-availability statement. A machine-readable citation is provided in `CITATION.cff`.
+Cite the article and this repository. The repository is at <https://github.com/RTXDF/gbd-2023-early-onset-cancer>; version 1.0.0 is archived on Zenodo at <https://doi.org/10.5281/zenodo.24073383> (concept DOI <https://doi.org/10.5281/zenodo.24073382>, which resolves to the latest version). A machine-readable citation is provided in `CITATION.cff`.
 
 ## Contact
 
